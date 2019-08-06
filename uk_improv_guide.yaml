@@ -1,73 +1,3 @@
-- model: uk_improv_guide.eventseries
-  pk: 1aaf4020-4e05-453e-b6ae-84e61a2eae22
-  fields:
-    image: event_series/IMPORTANTART.png
-    name: Important Art
-- model: uk_improv_guide.eventseries
-  pk: 3aacbd0b-8536-4a9f-8d66-6e85a7869438
-  fields:
-    image: event_series/DDG_logo_-_Copy.png
-    name: DDG Improv Jam (Duck Duck Goose)
-- model: uk_improv_guide.eventseries
-  pk: 44341490-201d-4acb-9462-33768a6a404b
-  fields:
-    image: event_series/TTS_2019.jpg
-    name: 'The Maydays present: Tonight''s Top Story'
-- model: uk_improv_guide.eventseries
-  pk: 702f88e9-8746-4c30-9792-c830c5e32626
-  fields:
-    image: event_series/FB_IMG_1562795648289.jpg
-    name: Punderstandably Improv
-- model: uk_improv_guide.eventseries
-  pk: 71453d71-177d-4a1f-9a26-141afee0bc75
-  fields:
-    image: ''
-    name: WE JUST LOVE TO PLAY!
-- model: uk_improv_guide.eventseries
-  pk: 7e6c18d2-2a7a-42a0-ac9b-d23da3b2d0a7
-  fields:
-    image: ''
-    name: Theatre on the Edge
-- model: uk_improv_guide.eventseries
-  pk: 8921978b-be00-4845-a8b0-787f8c9ef1fb
-  fields:
-    image: ''
-    name: Free Association Cage Match
-- model: uk_improv_guide.eventseries
-  pk: 8e5519b7-3f3c-4bc9-9549-f3e7a6024470
-  fields:
-    image: event_series/HNA_NEW_2019less1MB.png
-    name: 'The Maydays present: Happily Never After'
-- model: uk_improv_guide.eventseries
-  pk: a2bc0d74-5936-4940-b44b-e9e6cfc512b7
-  fields:
-    image: event_series/missimp.png
-    name: MissImp Presents
-- model: uk_improv_guide.eventseries
-  pk: ae0e1240-ede4-4918-a182-a31910a62fdc
-  fields:
-    image: ''
-    name: Austentatious
-- model: uk_improv_guide.eventseries
-  pk: b165abbe-585c-4fdb-8438-539785d22716
-  fields:
-    image: event_series/amorphous_horse.jpg
-    name: Amorphous Horse's Happy Place
-- model: uk_improv_guide.eventseries
-  pk: daaceb21-6200-401d-80bb-b792ae886a32
-  fields:
-    image: event_series/angelo_brewing.jpg
-    name: Glossop Improv Workshop
-- model: uk_improv_guide.eventseries
-  pk: db4fb9d3-1db9-49e0-849c-e87f1d516fb8
-  fields:
-    image: ''
-    name: Keith Presents
-- model: uk_improv_guide.eventseries
-  pk: f0a81c24-dfb9-4786-adbe-e47cd047caa2
-  fields:
-    image: event_series/Confessions_2019.jpg
-    name: 'The Maydays present: Confessions'
 - model: uk_improv_guide.school
   pk: 1858aee6-79ea-4ded-a235-f205fe400678
   fields:
@@ -144,6 +74,17 @@
     instagram_link: https://www.instagram.com/nurserytheatre/
     name: The Nursery Theatre
     image: school/The-Nursery-Theatre-Facebook-Preview-Thumbnail_NTXu1iV.jpg
+    country: GB
+- model: uk_improv_guide.school
+  pk: 6056e993-c27b-438f-bfc7-804b2c3abbd3
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: http://www.rhymesimprov.com/
+    contact_email_address: ''
+    instagram_link: ''
+    name: Rhymes Against Humanity
+    image: ''
     country: GB
 - model: uk_improv_guide.school
   pk: 6e97d006-ac3d-4d6c-96f2-db3f85a92c68
@@ -2844,6 +2785,524 @@
     alias: ''
     imdb_link: ''
     teaches_for: []
+- model: uk_improv_guide.venue
+  pk: 1
+  fields:
+    twitter_handle: ''
+    name: Free Association
+    facebook_link: https://www.facebook.com/FAimprov/
+    website_link: https://thefreeassociation.co.uk/
+    google_maps_link: https://goo.gl/maps/9freHPdWUE3AVvZx9
+    address: 113 Southgate Road
+    city: London
+    postcode: N1 3JS
+    email_address: ''
+    country: GB
+    school: 3bc46024-c973-4709-ba65-aace19f97fd9
+    image: venue/de_bauvoir_arms.jpg
+- model: uk_improv_guide.venue
+  pk: 2
+  fields:
+    twitter_handle: ''
+    name: The Miller
+    facebook_link: ''
+    website_link: https://www.hooplaimpro.com/
+    google_maps_link: https://goo.gl/maps/MhK6k8xJFNkoXnra8
+    address: The Miller, 96 Snowsfields
+    city: London
+    postcode: SE13SS
+    email_address: ''
+    country: GB
+    school: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
+    image: venue/the_miller_AZABhoL.jpg
+- model: uk_improv_guide.venue
+  pk: 3
+  fields:
+    twitter_handle: ''
+    name: Nell of Old Drury
+    facebook_link: https://www.facebook.com/nellofolddrury/
+    website_link: http://www.nellofolddrury.com/
+    google_maps_link: https://goo.gl/maps/TCqmNM3Qzro4ZwZ16
+    address: 29 Catherine St
+    city: London
+    postcode: WC2B 5JS
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/nell_of_old_drury.jpeg
+- model: uk_improv_guide.venue
+  pk: 4
+  fields:
+    twitter_handle: ''
+    name: 'The Canvas: Cafe & Creative Venue'
+    facebook_link: https://www.facebook.com/TheCanvasCafeE1/
+    website_link: https://www.thecanvascafe.org/vegan-cafe
+    google_maps_link: https://g.page/TheCanvasCafe
+    address: 42 Hanbury St, Spitalfields
+    city: London
+    postcode: E1 5JL
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/the_canvas_creative_venue.jpg
+- model: uk_improv_guide.venue
+  pk: 5
+  fields:
+    twitter_handle: ''
+    name: Effra Social
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: https://goo.gl/maps/wArrbV3izLQANfGW7
+    address: 89 Effra Road, Brixton
+    city: London
+    postcode: SW2 1DF
+    email_address: ''
+    country: GB
+    school: dbcb6379-a8b2-418f-938b-602623baa2be
+    image: venue/effra_social.jpg
+- model: uk_improv_guide.venue
+  pk: 6
+  fields:
+    twitter_handle: ''
+    name: The London Irish Centre
+    facebook_link: https://www.facebook.com/londonirishcentre/
+    website_link: https://www.londonirishcentre.org/
+    google_maps_link: https://goo.gl/maps/2TwafworxbuN5fNu8
+    address: 50-52 Camden Square
+    city: London
+    postcode: NW1 9XB
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/london_irish_centre.png
+- model: uk_improv_guide.venue
+  pk: 7
+  fields:
+    twitter_handle: ''
+    name: The North London Tavern
+    facebook_link: https://www.facebook.com/rhinocerosimprov/
+    website_link: http://www.northlondontavern.co.uk/
+    google_maps_link: https://goo.gl/maps/7gR6CKtURKAtrdwh9
+    address: 375 Kilburn High Rd
+    city: London
+    postcode: NW6 7QB
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/the_north_london_tavern.jpg
+- model: uk_improv_guide.venue
+  pk: 8
+  fields:
+    twitter_handle: ''
+    name: The Taproom
+    facebook_link: https://www.facebook.com/TaproomN1/
+    website_link: http://www.thetaprooms.co.uk/
+    google_maps_link: https://goo.gl/maps/BmKT9DwFYCH3fjVr5
+    address: 163 Upper St, Islington
+    city: London
+    postcode: N1 1US
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/the_taproom_n1.jpg
+- model: uk_improv_guide.venue
+  pk: 9
+  fields:
+    twitter_handle: ''
+    name: The Castle
+    facebook_link: https://www.facebook.com/thecastlelondon/
+    website_link: http://www.thecastlelondon.com/
+    google_maps_link: https://goo.gl/maps/D6fC3htVnB6KXDRM6
+    address: 44 Commercial Road
+    city: London
+    postcode: E1 1LN
+    email_address: thecastle44@gmail.com
+    country: GB
+    school: null
+    image: venue/the_castle.jpg
+- model: uk_improv_guide.venue
+  pk: 10
+  fields:
+    twitter_handle: ''
+    name: Free Association's Comedy Room
+    facebook_link: ''
+    website_link: https://www.thelordstanley.com/
+    google_maps_link: https://goo.gl/maps/SwofZHit1FnSArNe6
+    address: 51 Camden Park Rd
+    city: London
+    postcode: NW1 9BH
+    email_address: ''
+    country: GB
+    school: 3bc46024-c973-4709-ba65-aace19f97fd9
+    image: venue/the_lord_stanley.jpg
+- model: uk_improv_guide.venue
+  pk: 11
+  fields:
+    twitter_handle: ''
+    name: The Bill Murray
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: 39 Queen's Head St
+    city: London
+    postcode: N1 8NQ
+    email_address: ''
+    country: GB
+    school: 44254cc3-d017-4296-82fb-58504f10b3ac
+    image: venue/the_bill_murray.jpg
+- model: uk_improv_guide.venue
+  pk: 12
+  fields:
+    twitter_handle: ''
+    name: Angel Comedy Club
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: https://goo.gl/maps/qLwLjiQQj2LhZLSd9
+    address: 2 Camden Passage, The Angel, London
+    city: London
+    postcode: N1 8DY
+    email_address: ''
+    country: GB
+    school: 44254cc3-d017-4296-82fb-58504f10b3ac
+    image: venue/angel_comedy_club.jpg
+- model: uk_improv_guide.venue
+  pk: 13
+  fields:
+    twitter_handle: etceteratheatre
+    name: Etcetera Theatre
+    facebook_link: https://www.facebook.com/etceteratheatre
+    website_link: http://www.etceteratheatre.com/
+    google_maps_link: ''
+    address: 265 Camden High Street (Above the Oxford Arms), Camden
+    city: London
+    postcode: NW1 7BU
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/Etcetera_Theatre_2017.png
+- model: uk_improv_guide.venue
+  pk: 14
+  fields:
+    twitter_handle: ''
+    name: The Cavendish Arms
+    facebook_link: https://www.facebook.com/thecavendisharms/
+    website_link: http://www.thecavendisharmsstockwell.co.uk/
+    google_maps_link: https://goo.gl/maps/nhNbza85Xy6Etnrw5
+    address: 128 Hartington Rd
+    city: London
+    postcode: SW8 2HJ
+    email_address: info@thecavendisharmsstockwell.co.uk
+    country: GB
+    school: null
+    image: venue/cavendish_arms_stage.jpg
+- model: uk_improv_guide.venue
+  pk: 15
+  fields:
+    twitter_handle: '@NottmPlayhouse'
+    name: Nottingham Playhouse
+    facebook_link: http://www.facebook.com/nottinghamplayhouse
+    website_link: https://www.nottinghamplayhouse.co.uk/
+    google_maps_link: ''
+    address: Wellington Circus,
+    city: Nottingham
+    postcode: NG1 5AF
+    email_address: ''
+    country: GB
+    school: 1858aee6-79ea-4ded-a235-f205fe400678
+    image: venue/nottingham_playhouse.jpg
+- model: uk_improv_guide.venue
+  pk: 16
+  fields:
+    twitter_handle: '@angelmbrewery'
+    name: The Angel
+    facebook_link: ''
+    website_link: http://www.angelmicrobrewery.com/
+    google_maps_link: https://goo.gl/maps/nHHzCHFAQbwGWj4BA
+    address: 7 Stoney Street
+    city: Nottingham
+    postcode: NG1 1LG
+    email_address: thechapel.amb@gmail.com
+    country: GB
+    school: 1858aee6-79ea-4ded-a235-f205fe400678
+    image: venue/the_angel.jpeg
+- model: uk_improv_guide.venue
+  pk: 17
+  fields:
+    twitter_handle: ''
+    name: Fortune Theatre
+    facebook_link: ''
+    website_link: https://www.atgtickets.com/venues/fortune-theatre/
+    google_maps_link: ''
+    address: Russell Street
+    city: London
+    postcode: WC2B 5HH
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/FortuneTheatre.jpg
+- model: uk_improv_guide.venue
+  pk: 18
+  fields:
+    twitter_handle: ''
+    name: London Improv Theatre
+    facebook_link: https://www.facebook.com/thelondonimprovtheatre
+    website_link: https://www.londonimprovtheatre.com
+    google_maps_link: https://goo.gl/maps/teXFmukUJRifMF3s6
+    address: 104-A Finchley Road
+    city: London
+    postcode: NW3 5JJ
+    email_address: ''
+    country: GB
+    school: 528bc2b9-5c6a-4738-a7c7-80ff0acf4ffc
+    image: venue/london_improv_theatre.png
+- model: uk_improv_guide.venue
+  pk: 19
+  fields:
+    twitter_handle: TheComedyPub
+    name: The Comedy Pub
+    facebook_link: http://www.facebook.com/TheComedyPub
+    website_link: https://www.craft-pubs.co.uk/comedy
+    google_maps_link: ''
+    address: 7 Oxendon Street
+    city: London
+    postcode: SW1Y 4EE
+    email_address: ''
+    country: GB
+    school: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
+    image: venue/The_Comedy_Pub_Hoopla_Megajam.jpg
+- model: uk_improv_guide.venue
+  pk: 20
+  fields:
+    twitter_handle: Maydays
+    name: The Maydays Studio
+    facebook_link: https://www.facebook.com/themaydaysstudio/?ref=br_rs
+    website_link: https://www.themaydays.co.uk/
+    google_maps_link: https://www.google.com/maps/place/The+Maydays/@50.8227093,-0.153085,17z/data=!3m1!4b1!4m5!3m4!1s0x48758512f1c106e7:0xcc161ab8ddcb32dd!8m2!3d50.8227093!4d-0.1508963
+    address: 12A Regency Square, Brighton,
+    city: Brighton
+    postcode: BN1 2FG
+    email_address: mayday@themaydays.co.uk
+    country: GB
+    school: 4322f66b-c7f9-4c62-917b-363895f7381c
+    image: venue/MaydaysLogoWebsite.png
+- model: uk_improv_guide.venue
+  pk: 21
+  fields:
+    twitter_handle: ''
+    name: The Quarry Theatre
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: St Peter's Street
+    city: Bedford
+    postcode: MK40 2NN
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/41659981_2107105899323239_3812846406591315968_n.jpg
+- model: uk_improv_guide.venue
+  pk: 22
+  fields:
+    twitter_handle: improvcha
+    name: Improv Chattanooga
+    facebook_link: https://www.facebook.com/improvchattanooga
+    website_link: https://www.improvchattanooga.com
+    google_maps_link: https://www.google.com/maps/place/Improv+Chattanooga/@35.0323555,-85.305576,17z/data=!3m1!4b1!4m5!3m4!1s0x88605dd830e2435b:0x69427fc73bae269f!8m2!3d35.0323555!4d-85.303382
+    address: 1800 Rossville Ave, Suite 118
+    city: Chattanooga
+    postcode: '37408'
+    email_address: info@improvchattanooga.com
+    country: US
+    school: null
+    image: venue/Improv-Chatt-Logo.png
+- model: uk_improv_guide.venue
+  pk: 23
+  fields:
+    twitter_handle: ''
+    name: The Colonial Theatre
+    facebook_link: https://www.facebook.com/thecolonialtheatre/?ref=br_rs
+    website_link: https://thecolonialtheatre.com/
+    google_maps_link: https://www.google.com/maps/dir//the+colonial+theatre/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c691fa94b12cf3:0x48be1d602b9f4899?sa=X&ved=2ahUKEwj3ooO1jbfjAhUQqZ4KHYF4Dc4Q9RcwEHoECA8QDg
+    address: 227 Bridge Street
+    city: Phoenixville
+    postcode: '19460'
+    email_address: ''
+    country: US
+    school: null
+    image: venue/lmr.jpg
+- model: uk_improv_guide.venue
+  pk: 24
+  fields:
+    twitter_handle: ''
+    name: Partington Theatre
+    facebook_link: https://www.facebook.com/partingtonplayers/
+    website_link: http://partingtonplayers.org.uk/
+    google_maps_link: ''
+    address: Henry St
+    city: Glossop
+    postcode: SK13 8BW
+    email_address: ''
+    country: GB
+    school: cce53e29-49ac-49e8-afb1-f2df304cc1e7
+    image: venue/4122569_16fb7c6f.jpg
+- model: uk_improv_guide.venue
+  pk: 25
+  fields:
+    twitter_handle: ''
+    name: The Ned Ludd
+    facebook_link: https://www.facebook.com/TheNedLudd/
+    website_link: https://www.godine.co.uk/the-ned-ludd-nottingham
+    google_maps_link: ''
+    address: 27 Friar Lane
+    city: Nottingham
+    postcode: NG1 6DA
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/the-ned-ludd.jpg
+- model: uk_improv_guide.venue
+  pk: 26
+  fields:
+    twitter_handle: '@GildedBalloon'
+    name: Gilded Balloon Teviot
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: Gilded Balloon Teviot, Teviot Row House, 13 Bristo Place
+    city: Edinburgh
+    postcode: EH8 9AJ
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/Screenshot_2019-07-17_at_13.11.51.png
+- model: uk_improv_guide.venue
+  pk: 27
+  fields:
+    twitter_handle: '@KomediaBrighton'
+    name: Komedia
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: 44-47 Gardner Street
+    city: Brighton
+    postcode: BN1 1UN
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/Screenshot_2019-07-17_at_13.39.00.png
+- model: uk_improv_guide.venue
+  pk: 28
+  fields:
+    twitter_handle: '@ThePleasance'
+    name: The Pleasance Theatre Trust
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: Carpenters Mews, North Road
+    city: London
+    postcode: N7 9EF
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/Screenshot_2019-07-17_at_14.10.52.png
+- model: uk_improv_guide.venue
+  pk: 29
+  fields:
+    twitter_handle: ''
+    name: Queen's Head Wymondham
+    facebook_link: ''
+    website_link: https://www.queensheadnorfolk.co.uk/
+    google_maps_link: https://goo.gl/maps/YSjWWz9Pnz4P1dtn7
+    address: 2 Bridewell Street
+    city: Wymondham
+    postcode: NR18 0AR
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/queens_head_w.jpg
+- model: uk_improv_guide.course
+  pk: 1
+  fields:
+    name: Musical Improv Level One - Intensive
+    image: ''
+    venue: 16
+    school: 6056e993-c27b-438f-bfc7-804b2c3abbd3
+    teacher: 63
+    start_time: 2019-08-31 10:00:00+00:00
+    lesson_duration: 8.0
+    number_of_lessons: 7
+    class_show: false
+    course_link: https://www.ticketsource.co.uk/rhymes-improv
+- model: uk_improv_guide.eventseries
+  pk: 1aaf4020-4e05-453e-b6ae-84e61a2eae22
+  fields:
+    image: event_series/IMPORTANTART.png
+    name: Important Art
+- model: uk_improv_guide.eventseries
+  pk: 3aacbd0b-8536-4a9f-8d66-6e85a7869438
+  fields:
+    image: event_series/DDG_logo_-_Copy.png
+    name: DDG Improv Jam (Duck Duck Goose)
+- model: uk_improv_guide.eventseries
+  pk: 44341490-201d-4acb-9462-33768a6a404b
+  fields:
+    image: event_series/TTS_2019.jpg
+    name: 'The Maydays present: Tonight''s Top Story'
+- model: uk_improv_guide.eventseries
+  pk: 702f88e9-8746-4c30-9792-c830c5e32626
+  fields:
+    image: event_series/FB_IMG_1562795648289.jpg
+    name: Punderstandably Improv
+- model: uk_improv_guide.eventseries
+  pk: 71453d71-177d-4a1f-9a26-141afee0bc75
+  fields:
+    image: ''
+    name: WE JUST LOVE TO PLAY!
+- model: uk_improv_guide.eventseries
+  pk: 7e6c18d2-2a7a-42a0-ac9b-d23da3b2d0a7
+  fields:
+    image: ''
+    name: Theatre on the Edge
+- model: uk_improv_guide.eventseries
+  pk: 8921978b-be00-4845-a8b0-787f8c9ef1fb
+  fields:
+    image: ''
+    name: Free Association Cage Match
+- model: uk_improv_guide.eventseries
+  pk: 8e5519b7-3f3c-4bc9-9549-f3e7a6024470
+  fields:
+    image: event_series/HNA_NEW_2019less1MB.png
+    name: 'The Maydays present: Happily Never After'
+- model: uk_improv_guide.eventseries
+  pk: a2bc0d74-5936-4940-b44b-e9e6cfc512b7
+  fields:
+    image: event_series/missimp.png
+    name: MissImp Presents
+- model: uk_improv_guide.eventseries
+  pk: ae0e1240-ede4-4918-a182-a31910a62fdc
+  fields:
+    image: ''
+    name: Austentatious
+- model: uk_improv_guide.eventseries
+  pk: b165abbe-585c-4fdb-8438-539785d22716
+  fields:
+    image: event_series/amorphous_horse.jpg
+    name: Amorphous Horse's Happy Place
+- model: uk_improv_guide.eventseries
+  pk: daaceb21-6200-401d-80bb-b792ae886a32
+  fields:
+    image: event_series/angelo_brewing.jpg
+    name: Glossop Improv Workshop
+- model: uk_improv_guide.eventseries
+  pk: db4fb9d3-1db9-49e0-849c-e87f1d516fb8
+  fields:
+    image: ''
+    name: Keith Presents
+- model: uk_improv_guide.eventseries
+  pk: f0a81c24-dfb9-4786-adbe-e47cd047caa2
+  fields:
+    image: event_series/Confessions_2019.jpg
+    name: 'The Maydays present: Confessions'
 - model: uk_improv_guide.team
   pk: 1
   fields:
@@ -3695,441 +4154,6 @@
     image: ''
     players:
     - 178
-- model: uk_improv_guide.venue
-  pk: 1
-  fields:
-    twitter_handle: ''
-    name: Free Association
-    facebook_link: https://www.facebook.com/FAimprov/
-    website_link: https://thefreeassociation.co.uk/
-    google_maps_link: https://goo.gl/maps/9freHPdWUE3AVvZx9
-    address: 113 Southgate Road
-    city: London
-    postcode: N1 3JS
-    email_address: ''
-    country: GB
-    school: 3bc46024-c973-4709-ba65-aace19f97fd9
-    image: venue/de_bauvoir_arms.jpg
-- model: uk_improv_guide.venue
-  pk: 2
-  fields:
-    twitter_handle: ''
-    name: The Miller
-    facebook_link: ''
-    website_link: https://www.hooplaimpro.com/
-    google_maps_link: https://goo.gl/maps/MhK6k8xJFNkoXnra8
-    address: The Miller, 96 Snowsfields
-    city: London
-    postcode: SE13SS
-    email_address: ''
-    country: GB
-    school: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
-    image: venue/the_miller_AZABhoL.jpg
-- model: uk_improv_guide.venue
-  pk: 3
-  fields:
-    twitter_handle: ''
-    name: Nell of Old Drury
-    facebook_link: https://www.facebook.com/nellofolddrury/
-    website_link: http://www.nellofolddrury.com/
-    google_maps_link: https://goo.gl/maps/TCqmNM3Qzro4ZwZ16
-    address: 29 Catherine St
-    city: London
-    postcode: WC2B 5JS
-    email_address: ''
-    country: GB
-    school: null
-    image: venue/nell_of_old_drury.jpeg
-- model: uk_improv_guide.venue
-  pk: 4
-  fields:
-    twitter_handle: ''
-    name: 'The Canvas: Cafe & Creative Venue'
-    facebook_link: https://www.facebook.com/TheCanvasCafeE1/
-    website_link: https://www.thecanvascafe.org/vegan-cafe
-    google_maps_link: https://g.page/TheCanvasCafe
-    address: 42 Hanbury St, Spitalfields
-    city: London
-    postcode: E1 5JL
-    email_address: ''
-    country: GB
-    school: null
-    image: venue/the_canvas_creative_venue.jpg
-- model: uk_improv_guide.venue
-  pk: 5
-  fields:
-    twitter_handle: ''
-    name: Effra Social
-    facebook_link: ''
-    website_link: ''
-    google_maps_link: https://goo.gl/maps/wArrbV3izLQANfGW7
-    address: 89 Effra Road, Brixton
-    city: London
-    postcode: SW2 1DF
-    email_address: ''
-    country: GB
-    school: dbcb6379-a8b2-418f-938b-602623baa2be
-    image: venue/effra_social.jpg
-- model: uk_improv_guide.venue
-  pk: 6
-  fields:
-    twitter_handle: ''
-    name: The London Irish Centre
-    facebook_link: https://www.facebook.com/londonirishcentre/
-    website_link: https://www.londonirishcentre.org/
-    google_maps_link: https://goo.gl/maps/2TwafworxbuN5fNu8
-    address: 50-52 Camden Square
-    city: London
-    postcode: NW1 9XB
-    email_address: ''
-    country: GB
-    school: null
-    image: venue/london_irish_centre.png
-- model: uk_improv_guide.venue
-  pk: 7
-  fields:
-    twitter_handle: ''
-    name: The North London Tavern
-    facebook_link: https://www.facebook.com/rhinocerosimprov/
-    website_link: http://www.northlondontavern.co.uk/
-    google_maps_link: https://goo.gl/maps/7gR6CKtURKAtrdwh9
-    address: 375 Kilburn High Rd
-    city: London
-    postcode: NW6 7QB
-    email_address: ''
-    country: GB
-    school: null
-    image: venue/the_north_london_tavern.jpg
-- model: uk_improv_guide.venue
-  pk: 8
-  fields:
-    twitter_handle: ''
-    name: The Taproom
-    facebook_link: https://www.facebook.com/TaproomN1/
-    website_link: http://www.thetaprooms.co.uk/
-    google_maps_link: https://goo.gl/maps/BmKT9DwFYCH3fjVr5
-    address: 163 Upper St, Islington
-    city: London
-    postcode: N1 1US
-    email_address: ''
-    country: GB
-    school: null
-    image: venue/the_taproom_n1.jpg
-- model: uk_improv_guide.venue
-  pk: 9
-  fields:
-    twitter_handle: ''
-    name: The Castle
-    facebook_link: https://www.facebook.com/thecastlelondon/
-    website_link: http://www.thecastlelondon.com/
-    google_maps_link: https://goo.gl/maps/D6fC3htVnB6KXDRM6
-    address: 44 Commercial Road
-    city: London
-    postcode: E1 1LN
-    email_address: thecastle44@gmail.com
-    country: GB
-    school: null
-    image: venue/the_castle.jpg
-- model: uk_improv_guide.venue
-  pk: 10
-  fields:
-    twitter_handle: ''
-    name: Free Association's Comedy Room
-    facebook_link: ''
-    website_link: https://www.thelordstanley.com/
-    google_maps_link: https://goo.gl/maps/SwofZHit1FnSArNe6
-    address: 51 Camden Park Rd
-    city: London
-    postcode: NW1 9BH
-    email_address: ''
-    country: GB
-    school: 3bc46024-c973-4709-ba65-aace19f97fd9
-    image: venue/the_lord_stanley.jpg
-- model: uk_improv_guide.venue
-  pk: 11
-  fields:
-    twitter_handle: ''
-    name: The Bill Murray
-    facebook_link: ''
-    website_link: ''
-    google_maps_link: ''
-    address: 39 Queen's Head St
-    city: London
-    postcode: N1 8NQ
-    email_address: ''
-    country: GB
-    school: 44254cc3-d017-4296-82fb-58504f10b3ac
-    image: venue/the_bill_murray.jpg
-- model: uk_improv_guide.venue
-  pk: 12
-  fields:
-    twitter_handle: ''
-    name: Angel Comedy Club
-    facebook_link: ''
-    website_link: ''
-    google_maps_link: https://goo.gl/maps/qLwLjiQQj2LhZLSd9
-    address: 2 Camden Passage, The Angel, London
-    city: London
-    postcode: N1 8DY
-    email_address: ''
-    country: GB
-    school: 44254cc3-d017-4296-82fb-58504f10b3ac
-    image: venue/angel_comedy_club.jpg
-- model: uk_improv_guide.venue
-  pk: 13
-  fields:
-    twitter_handle: etceteratheatre
-    name: Etcetera Theatre
-    facebook_link: https://www.facebook.com/etceteratheatre
-    website_link: http://www.etceteratheatre.com/
-    google_maps_link: ''
-    address: 265 Camden High Street (Above the Oxford Arms), Camden
-    city: London
-    postcode: NW1 7BU
-    email_address: ''
-    country: GB
-    school: null
-    image: venue/Etcetera_Theatre_2017.png
-- model: uk_improv_guide.venue
-  pk: 14
-  fields:
-    twitter_handle: ''
-    name: The Cavendish Arms
-    facebook_link: https://www.facebook.com/thecavendisharms/
-    website_link: http://www.thecavendisharmsstockwell.co.uk/
-    google_maps_link: https://goo.gl/maps/nhNbza85Xy6Etnrw5
-    address: 128 Hartington Rd
-    city: London
-    postcode: SW8 2HJ
-    email_address: info@thecavendisharmsstockwell.co.uk
-    country: GB
-    school: null
-    image: venue/cavendish_arms_stage.jpg
-- model: uk_improv_guide.venue
-  pk: 15
-  fields:
-    twitter_handle: '@NottmPlayhouse'
-    name: Nottingham Playhouse
-    facebook_link: http://www.facebook.com/nottinghamplayhouse
-    website_link: https://www.nottinghamplayhouse.co.uk/
-    google_maps_link: ''
-    address: Wellington Circus,
-    city: Nottingham
-    postcode: NG1 5AF
-    email_address: ''
-    country: GB
-    school: 1858aee6-79ea-4ded-a235-f205fe400678
-    image: venue/nottingham_playhouse.jpg
-- model: uk_improv_guide.venue
-  pk: 16
-  fields:
-    twitter_handle: '@angelmbrewery'
-    name: The Angel
-    facebook_link: ''
-    website_link: http://www.angelmicrobrewery.com/
-    google_maps_link: https://goo.gl/maps/nHHzCHFAQbwGWj4BA
-    address: 7 Stoney Street
-    city: Nottingham
-    postcode: NG1 1LG
-    email_address: thechapel.amb@gmail.com
-    country: GB
-    school: 1858aee6-79ea-4ded-a235-f205fe400678
-    image: venue/the_angel.jpeg
-- model: uk_improv_guide.venue
-  pk: 17
-  fields:
-    twitter_handle: ''
-    name: Fortune Theatre
-    facebook_link: ''
-    website_link: https://www.atgtickets.com/venues/fortune-theatre/
-    google_maps_link: ''
-    address: Russell Street
-    city: London
-    postcode: WC2B 5HH
-    email_address: ''
-    country: GB
-    school: null
-    image: venue/FortuneTheatre.jpg
-- model: uk_improv_guide.venue
-  pk: 18
-  fields:
-    twitter_handle: ''
-    name: London Improv Theatre
-    facebook_link: https://www.facebook.com/thelondonimprovtheatre
-    website_link: https://www.londonimprovtheatre.com
-    google_maps_link: https://goo.gl/maps/teXFmukUJRifMF3s6
-    address: 104-A Finchley Road
-    city: London
-    postcode: NW3 5JJ
-    email_address: ''
-    country: GB
-    school: 528bc2b9-5c6a-4738-a7c7-80ff0acf4ffc
-    image: venue/london_improv_theatre.png
-- model: uk_improv_guide.venue
-  pk: 19
-  fields:
-    twitter_handle: TheComedyPub
-    name: The Comedy Pub
-    facebook_link: http://www.facebook.com/TheComedyPub
-    website_link: https://www.craft-pubs.co.uk/comedy
-    google_maps_link: ''
-    address: 7 Oxendon Street
-    city: London
-    postcode: SW1Y 4EE
-    email_address: ''
-    country: GB
-    school: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
-    image: venue/The_Comedy_Pub_Hoopla_Megajam.jpg
-- model: uk_improv_guide.venue
-  pk: 20
-  fields:
-    twitter_handle: Maydays
-    name: The Maydays Studio
-    facebook_link: https://www.facebook.com/themaydaysstudio/?ref=br_rs
-    website_link: https://www.themaydays.co.uk/
-    google_maps_link: https://www.google.com/maps/place/The+Maydays/@50.8227093,-0.153085,17z/data=!3m1!4b1!4m5!3m4!1s0x48758512f1c106e7:0xcc161ab8ddcb32dd!8m2!3d50.8227093!4d-0.1508963
-    address: 12A Regency Square, Brighton,
-    city: Brighton
-    postcode: BN1 2FG
-    email_address: mayday@themaydays.co.uk
-    country: GB
-    school: 4322f66b-c7f9-4c62-917b-363895f7381c
-    image: venue/MaydaysLogoWebsite.png
-- model: uk_improv_guide.venue
-  pk: 21
-  fields:
-    twitter_handle: ''
-    name: The Quarry Theatre
-    facebook_link: ''
-    website_link: ''
-    google_maps_link: ''
-    address: St Peter's Street
-    city: Bedford
-    postcode: MK40 2NN
-    email_address: ''
-    country: GB
-    school: null
-    image: venue/41659981_2107105899323239_3812846406591315968_n.jpg
-- model: uk_improv_guide.venue
-  pk: 22
-  fields:
-    twitter_handle: improvcha
-    name: Improv Chattanooga
-    facebook_link: https://www.facebook.com/improvchattanooga
-    website_link: https://www.improvchattanooga.com
-    google_maps_link: https://www.google.com/maps/place/Improv+Chattanooga/@35.0323555,-85.305576,17z/data=!3m1!4b1!4m5!3m4!1s0x88605dd830e2435b:0x69427fc73bae269f!8m2!3d35.0323555!4d-85.303382
-    address: 1800 Rossville Ave, Suite 118
-    city: Chattanooga
-    postcode: '37408'
-    email_address: info@improvchattanooga.com
-    country: US
-    school: null
-    image: venue/Improv-Chatt-Logo.png
-- model: uk_improv_guide.venue
-  pk: 23
-  fields:
-    twitter_handle: ''
-    name: The Colonial Theatre
-    facebook_link: https://www.facebook.com/thecolonialtheatre/?ref=br_rs
-    website_link: https://thecolonialtheatre.com/
-    google_maps_link: https://www.google.com/maps/dir//the+colonial+theatre/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x89c691fa94b12cf3:0x48be1d602b9f4899?sa=X&ved=2ahUKEwj3ooO1jbfjAhUQqZ4KHYF4Dc4Q9RcwEHoECA8QDg
-    address: 227 Bridge Street
-    city: Phoenixville
-    postcode: '19460'
-    email_address: ''
-    country: US
-    school: null
-    image: venue/lmr.jpg
-- model: uk_improv_guide.venue
-  pk: 24
-  fields:
-    twitter_handle: ''
-    name: Partington Theatre
-    facebook_link: https://www.facebook.com/partingtonplayers/
-    website_link: http://partingtonplayers.org.uk/
-    google_maps_link: ''
-    address: Henry St
-    city: Glossop
-    postcode: SK13 8BW
-    email_address: ''
-    country: GB
-    school: cce53e29-49ac-49e8-afb1-f2df304cc1e7
-    image: venue/4122569_16fb7c6f.jpg
-- model: uk_improv_guide.venue
-  pk: 25
-  fields:
-    twitter_handle: ''
-    name: The Ned Ludd
-    facebook_link: https://www.facebook.com/TheNedLudd/
-    website_link: https://www.godine.co.uk/the-ned-ludd-nottingham
-    google_maps_link: ''
-    address: 27 Friar Lane
-    city: Nottingham
-    postcode: NG1 6DA
-    email_address: ''
-    country: GB
-    school: null
-    image: venue/the-ned-ludd.jpg
-- model: uk_improv_guide.venue
-  pk: 26
-  fields:
-    twitter_handle: '@GildedBalloon'
-    name: Gilded Balloon Teviot
-    facebook_link: ''
-    website_link: ''
-    google_maps_link: ''
-    address: Gilded Balloon Teviot, Teviot Row House, 13 Bristo Place
-    city: Edinburgh
-    postcode: EH8 9AJ
-    email_address: ''
-    country: GB
-    school: null
-    image: venue/Screenshot_2019-07-17_at_13.11.51.png
-- model: uk_improv_guide.venue
-  pk: 27
-  fields:
-    twitter_handle: '@KomediaBrighton'
-    name: Komedia
-    facebook_link: ''
-    website_link: ''
-    google_maps_link: ''
-    address: 44-47 Gardner Street
-    city: Brighton
-    postcode: BN1 1UN
-    email_address: ''
-    country: GB
-    school: null
-    image: venue/Screenshot_2019-07-17_at_13.39.00.png
-- model: uk_improv_guide.venue
-  pk: 28
-  fields:
-    twitter_handle: '@ThePleasance'
-    name: The Pleasance Theatre Trust
-    facebook_link: ''
-    website_link: ''
-    google_maps_link: ''
-    address: Carpenters Mews, North Road
-    city: London
-    postcode: N7 9EF
-    email_address: ''
-    country: GB
-    school: null
-    image: venue/Screenshot_2019-07-17_at_14.10.52.png
-- model: uk_improv_guide.venue
-  pk: 29
-  fields:
-    twitter_handle: ''
-    name: Queen's Head Wymondham
-    facebook_link: ''
-    website_link: https://www.queensheadnorfolk.co.uk/
-    google_maps_link: https://goo.gl/maps/YSjWWz9Pnz4P1dtn7
-    address: 2 Bridewell Street
-    city: Wymondham
-    postcode: NR18 0AR
-    email_address: ''
-    country: GB
-    school: null
-    image: venue/queens_head_w.jpg
 - model: uk_improv_guide.event
   pk: 1
   fields:
