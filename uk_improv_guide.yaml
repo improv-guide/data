@@ -3042,6 +3042,201 @@
     alias: ''
     imdb_link: ''
     teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 193
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Sylvia
+    middle_names: ''
+    family_name: Bishop
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 194
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Ailis
+    middle_names: ''
+    family_name: Duff
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 195
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Lucy
+    middle_names: ''
+    family_name: Fennell
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 196
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Rosy
+    middle_names: ''
+    family_name: Fordham
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 197
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Octavia
+    middle_names: ''
+    family_name: Gilmore
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 198
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: James
+    middle_names: ''
+    family_name: Irving
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 199
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Jennifer
+    middle_names: ''
+    family_name: Jordan
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 200
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Rebecca
+    middle_names: ''
+    family_name: MacMillan
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 201
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: John
+    middle_names: ''
+    family_name: Lomas
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 202
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Jen
+    middle_names: ''
+    family_name: Rowe
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 203
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Charlie
+    middle_names: ''
+    family_name: Sturgeon
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 204
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Daniel
+    middle_names: ''
+    family_name: South
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 205
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Tom
+    middle_names: ''
+    family_name: Wilkinson
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
 - model: uk_improv_guide.venue
   pk: 1
   fields:
@@ -3537,6 +3732,21 @@
     country: GB
     school: 23377e08-8f41-4e2a-b18a-582ed61bf39c
     image: venue/visitbristol.co.uk.jpeg
+- model: uk_improv_guide.venue
+  pk: 34
+  fields:
+    twitter_handle: ''
+    name: OMEARA
+    facebook_link: ''
+    website_link: http://www.omearalondon.com/
+    google_maps_link: https://g.page/omearalondon?share
+    address: 6 O'Meara St
+    city: London
+    postcode: SE1 1TE, U
+    email_address: ''
+    country: GB
+    school: 5b8100d9-7a66-4e1a-babf-f367a944eece
+    image: venue/Omera-001-1.jpg
 - model: uk_improv_guide.course
   pk: 1
   fields:
@@ -4572,6 +4782,31 @@
     - 192
     - 190
     - 189
+- model: uk_improv_guide.team
+  pk: 65
+  fields:
+    twitter_handle: '@ImpromptuShakes'
+    facebook_link: https://www.facebook.com/impromptushakes
+    website_link: https://www.impromptushakespeare.com/
+    contact_email_address: impromptushakes@gmail.com
+    instagram_link: https://instagram.com/impromptushakes
+    name: Impromptu Shakespeare
+    image: team/impromptu_shakespere.jpg
+    players:
+    - 193
+    - 194
+    - 195
+    - 196
+    - 197
+    - 198
+    - 199
+    - 201
+    - 200
+    - 58
+    - 202
+    - 204
+    - 203
+    - 205
 - model: uk_improv_guide.event
   pk: 1
   fields:
@@ -5657,6 +5892,21 @@
     series: null
     teams:
     - 63
+- model: uk_improv_guide.event
+  pk: 79
+  fields:
+    facebook_link: https://www.facebook.com/events/476681076483747/
+    website_link: ''
+    eventbrite_link: ''
+    name: Impromptu Shakespere / Happily Never After (The Maydays)
+    image: ''
+    event_type: S
+    start_time: 2019-08-14 19:30:00+00:00
+    venue: 34
+    series: null
+    teams:
+    - 65
+    - 26
 - model: uk_improv_guide.festival
   pk: 1
   fields:
@@ -5696,4 +5946,27 @@
     venue: 2
     school: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
     teams: []
+    teachers: []
+- model: uk_improv_guide.festival
+  pk: 3
+  fields:
+    facebook_link: https://www.facebook.com/events/hoopla-impro/punderfest-2019/925260307822239/
+    website_link: ''
+    eventbrite_link: ''
+    name: Punderfest 2019
+    image: ''
+    festival_type: F
+    start_time: 2019-08-16 18:30:00+00:00
+    end_time: 2019-08-16 23:00:00+00:00
+    venue: 2
+    school: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
+    teams:
+    - 48
+    - 47
+    - 44
+    - 30
+    - 45
+    - 43
+    - 14
+    - 46
     teachers: []
