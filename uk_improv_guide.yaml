@@ -142,6 +142,17 @@
     image: ''
     country: GB
 - model: uk_improv_guide.school
+  pk: 69888695-7604-4f84-9f06-4a5d7434abf0
+  fields:
+    twitter_handle: '@tboltcomedy'
+    facebook_link: http://facebook.com/thunderboltcomedy
+    website_link: http://thunderboltcomedy.com
+    contact_email_address: classes@thunderboltcomedy.com
+    instagram_link: ''
+    name: Thunderbolt Comedy
+    image: school/tbolt3d.png
+    country: US
+- model: uk_improv_guide.school
   pk: 6c21924b-d1b6-4850-9d35-3ac1db8f1eac
   fields:
     twitter_handle: ''
@@ -3264,6 +3275,160 @@
     imdb_link: ''
     teaches_for:
     - 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
+- model: uk_improv_guide.performer
+  pk: 207
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/notprathap
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Prathap
+    middle_names: ''
+    family_name: Chandran
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 208
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/Benjii.Houghton
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Ben
+    middle_names: ''
+    family_name: Houghton
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 209
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/anjali.singh.3114
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Anjali
+    middle_names: ''
+    family_name: Singh
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 210
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/lesley1wilson
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Leslie
+    middle_names: ''
+    family_name: Wilson
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 211
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/profile.php?id=599611538
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Phil
+    middle_names: ''
+    family_name: Lunn
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for:
+    - 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
+- model: uk_improv_guide.performer
+  pk: 212
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Max
+    middle_names: ''
+    family_name: Dickens
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for:
+    - 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
+- model: uk_improv_guide.performer
+  pk: 213
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Nick
+    middle_names: ''
+    family_name: Hall
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for:
+    - 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
+- model: uk_improv_guide.performer
+  pk: 214
+  fields:
+    twitter_handle: '@ChrisGriswold'
+    facebook_link: http://facebook.com/thechrisgriswold
+    website_link: http://thunderboltcomedy.com
+    contact_email_address: chrisgriswold@gmail.com
+    instagram_link: http://instagram.com/chrisgriswold
+    first_name: Chris
+    middle_names: ''
+    family_name: Griswold
+    image: ''
+    alias: ''
+    imdb_link: https://www.imdb.com/name/nm4882662
+    teaches_for:
+    - 69888695-7604-4f84-9f06-4a5d7434abf0
+- model: uk_improv_guide.performer
+  pk: 215
+  fields:
+    twitter_handle: harvatronics
+    facebook_link: https://www.facebook.com/Ronz8In
+    website_link: ''
+    contact_email_address: harvatronics@gmail.com
+    instagram_link: ''
+    first_name: Ronald
+    middle_names: ''
+    family_name: Harvey
+    image: performer/Ron_Only.jpg
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 216
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/frances.ransome
+    website_link: ''
+    contact_email_address: frances.ransome@gmail.com
+    instagram_link: ''
+    first_name: Frances
+    middle_names: ''
+    family_name: Ransome
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
 - model: uk_improv_guide.venue
   pk: 1
   fields:
@@ -3789,6 +3954,36 @@
     country: GB
     school: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
     image: venue/poor_school.jpg
+- model: uk_improv_guide.venue
+  pk: 36
+  fields:
+    twitter_handle: ''
+    name: Katzpace
+    facebook_link: https://www.facebook.com/katzpace
+    website_link: ''
+    google_maps_link: ''
+    address: Katzenjammers, 21 Southwatk Street
+    city: London
+    postcode: SE1 1TY
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/katspace.jpg
+- model: uk_improv_guide.venue
+  pk: 37
+  fields:
+    twitter_handle: '@gildedballoon'
+    name: Gilded Balloon - Patter Hoose
+    facebook_link: https://www.facebook.com/Gildedballoon
+    website_link: https://gildedballoon.co.uk/
+    google_maps_link: ''
+    address: 3 Chambers St
+    city: Edinburgh
+    postcode: EH1 1HT
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/GBLogo-website.png
 - model: uk_improv_guide.course
   pk: 1
   fields:
@@ -3854,6 +4049,19 @@
     number_of_lessons: 8
     class_show: false
     course_link: https://www.hooplaimpro.com/beginner-improv-comedy-course.html?fbclid=IwAR120Mkuz9enylvlSdBBWLLVyeHOVCQngbRkCUOZyS_iB-NpPHrmOMtexSQ
+- model: uk_improv_guide.course
+  pk: 6
+  fields:
+    name: Christmas Jokes 101
+    image: ''
+    venue: 12
+    school: 4c6e5192-486a-4e8c-a02c-bf4849c9b05c
+    teacher: null
+    start_time: 2019-08-10 19:00:00+00:00
+    lesson_duration: 2.0
+    number_of_lessons: 1
+    class_show: false
+    course_link: ''
 - model: uk_improv_guide.eventseries
   pk: 14f90855-7f67-421d-91f1-d375ad53b7e0
   fields:
@@ -3890,6 +4098,11 @@
     image: ''
     name: Theatre on the Edge
 - model: uk_improv_guide.eventseries
+  pk: 7f64b690-a9d6-40d9-90ae-d569f65e9b59
+  fields:
+    image: event_series/2019_FB_Ad_ImprovActually.JPG
+    name: 'The Cambridge Impronauts Present: Improv Actually'
+- model: uk_improv_guide.eventseries
   pk: 8921978b-be00-4845-a8b0-787f8c9ef1fb
   fields:
     image: ''
@@ -3914,6 +4127,11 @@
   fields:
     image: event_series/amorphous_horse.jpg
     name: Amorphous Horse's Happy Place
+- model: uk_improv_guide.eventseries
+  pk: b2aec1a2-d2a1-469b-bf7c-c5e98988d5cc
+  fields:
+    image: ''
+    name: The Fine Line Improv Show!
 - model: uk_improv_guide.eventseries
   pk: daaceb21-6200-401d-80bb-b792ae886a32
   fields:
@@ -4501,13 +4719,19 @@
   pk: 41
   fields:
     twitter_handle: ''
-    facebook_link: ''
+    facebook_link: https://www.facebook.com/pg/TheStaccatos/
     website_link: ''
     contact_email_address: ''
-    instagram_link: ''
-    name: The Stccatos
-    image: ''
-    players: []
+    instagram_link: https://www.instagram.com/staccatosimprov/
+    name: The Staccatos
+    image: team/49857699_307691003428838_3664099839316066304_n.png
+    players:
+    - 207
+    - 208
+    - 17
+    - 211
+    - 209
+    - 210
 - model: uk_improv_guide.team
   pk: 42
   fields:
@@ -4877,10 +5101,10 @@
 - model: uk_improv_guide.team
   pk: 67
   fields:
-    twitter_handle: ''
+    twitter_handle: buffetimprov
     facebook_link: https://www.facebook.com/BuffetImprov/
     website_link: https://buffetimprov.com/
-    contact_email_address: ''
+    contact_email_address: russ@buffetimprov.com
     instagram_link: http://instagram.com/buffetimprov
     name: Buffet Improv
     image: team/buffet_improv.png
@@ -4888,11 +5112,11 @@
 - model: uk_improv_guide.team
   pk: 68
   fields:
-    twitter_handle: ''
+    twitter_handle: '@impronauts'
     facebook_link: https://www.facebook.com/impronauts/
     website_link: https://www.impronauts.com/
-    contact_email_address: ''
-    instagram_link: ''
+    contact_email_address: impronauts@gmail.com
+    instagram_link: https://www.instagram.com/impronauts/
     name: The Cambridge Impronauts
     image: team/impronauts.jpg
     players: []
@@ -4900,13 +5124,14 @@
   pk: 69
   fields:
     twitter_handle: ''
-    facebook_link: ''
+    facebook_link: https://www.facebook.com/Track96Improv/
     website_link: ''
-    contact_email_address: ''
+    contact_email_address: noname.hiphop.improv@gmail.com
     instagram_link: ''
     name: Track 96
     image: team/track96.png
-    players: []
+    players:
+    - 17
 - model: uk_improv_guide.team
   pk: 70
   fields:
@@ -4997,6 +5222,32 @@
     name: Trophy Room
     image: team/trophy_room.jpg
     players: []
+- model: uk_improv_guide.team
+  pk: 78
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Thunderclap
+    image: ''
+    players:
+    - 212
+    - 213
+- model: uk_improv_guide.team
+  pk: 79
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/decentfreaks/
+    website_link: ''
+    contact_email_address: decent.freaks@gmail.com
+    instagram_link: https://www.instagram.com/decent_freaks/
+    name: Decent Freaks
+    image: team/Facebook_Profile_Pic.jpg
+    players:
+    - 215
+    - 216
 - model: uk_improv_guide.event
   pk: 1
   fields:
@@ -6200,6 +6451,66 @@
     teams:
     - 1
     - 69
+- model: uk_improv_guide.event
+  pk: 81
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: Thunderclap
+    image: ''
+    event_type: S
+    start_time: 2019-08-11 16:00:00+00:00
+    duration: 1.0
+    venue: 12
+    series: null
+    teams:
+    - 78
+- model: uk_improv_guide.event
+  pk: 82
+  fields:
+    facebook_link: https://m.facebook.com/events/2847261378677937
+    website_link: https://tickets.edfringe.com/whats-on/cambridge-impronauts-improv-actually
+    eventbrite_link: ''
+    name: 'The Cambridge Impronauts Present: Improv Actually'
+    image: event/2019_FB_Ad_ImprovActually.JPG
+    event_type: S
+    start_time: 2019-08-10 12:30:00+00:00
+    duration: 1.0
+    venue: 37
+    series: 7f64b690-a9d6-40d9-90ae-d569f65e9b59
+    teams:
+    - 68
+- model: uk_improv_guide.event
+  pk: 83
+  fields:
+    facebook_link: https://www.facebook.com/events/2414588051950476/
+    website_link: ''
+    eventbrite_link: ''
+    name: The Fine Line Improv Show!
+    image: event/fine_line.png
+    event_type: S
+    start_time: 2019-10-05 18:00:00+00:00
+    duration: 2.0
+    venue: 2
+    series: b2aec1a2-d2a1-469b-bf7c-c5e98988d5cc
+    teams:
+    - 72
+- model: uk_improv_guide.event
+  pk: 84
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: Dreamweaver Musical Improv Playtime
+    image: ''
+    event_type: W
+    start_time: 2019-08-19 19:00:00+00:00
+    duration: 3.0
+    venue: 36
+    series: null
+    teams:
+    - 63
 - model: uk_improv_guide.festival
   pk: 1
   fields:
@@ -6211,8 +6522,8 @@
     festival_type: R
     start_time: 2019-09-18 17:00:00+00:00
     end_time: 2019-09-22 17:00:00+00:00
-    venue: 31
     school: 4322f66b-c7f9-4c62-917b-363895f7381c
+    venues: []
     teams: []
     teachers:
     - 61
@@ -6236,8 +6547,8 @@
     festival_type: F
     start_time: 2019-09-27 15:00:00+00:00
     end_time: 2019-09-28 00:00:00+00:00
-    venue: 2
     school: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
+    venues: []
     teams: []
     teachers: []
 - model: uk_improv_guide.festival
@@ -6251,8 +6562,9 @@
     festival_type: F
     start_time: 2019-08-16 18:30:00+00:00
     end_time: 2019-08-16 23:00:00+00:00
-    venue: 2
     school: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
+    venues:
+    - 2
     teams:
     - 48
     - 47
@@ -6262,4 +6574,22 @@
     - 43
     - 14
     - 46
+    teachers: []
+- model: uk_improv_guide.festival
+  pk: 4
+  fields:
+    facebook_link: ''
+    website_link: https://tickets.edfringe.com/
+    eventbrite_link: ''
+    name: Edinburgh Festival Fringe
+    image: ''
+    festival_type: F
+    start_time: 2019-07-31 12:00:00+00:00
+    end_time: 2019-08-26 00:00:00+00:00
+    school: null
+    venues:
+    - 26
+    teams:
+    - 68
+    - 26
     teachers: []
