@@ -32,6 +32,17 @@
     image: school/bristol_improv_theatre.jpg
     country: GB
 - model: uk_improv_guide.school
+  pk: 3a686fb2-b9a0-4462-80ea-eb931c4ceb07
+  fields:
+    twitter_handle: ''
+    facebook_link: "https://www.facebook.com/Centralna-Sp\xF3\u0142dzielnia-Komediowa-122002495142092/"
+    website_link: ''
+    contact_email_address: improv.workshops@yahoo.com
+    instagram_link: ''
+    name: "Centralna Sp\xF3\u0142dzielnia Komediowa"
+    image: school/Logo_CSK.jpg
+    country: PL
+- model: uk_improv_guide.school
   pk: 3bc46024-c973-4709-ba65-aace19f97fd9
   fields:
     twitter_handle: ''
@@ -3429,6 +3440,36 @@
     alias: ''
     imdb_link: ''
     teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 217
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Jill
+    middle_names: ''
+    family_name: Bernard
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 218
+  fields:
+    twitter_handle: ''
+    facebook_link: http://www.facebook.com/alexobt
+    website_link: ''
+    contact_email_address: alexobt@hotmail.co.uk
+    instagram_link: ''
+    first_name: Alex
+    middle_names: ''
+    family_name: O'Bryan-Tear
+    image: performer/Alex_profile_pic.png
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
 - model: uk_improv_guide.venue
   pk: 1
   fields:
@@ -3984,6 +4025,36 @@
     country: GB
     school: null
     image: venue/GBLogo-website.png
+- model: uk_improv_guide.venue
+  pk: 38
+  fields:
+    twitter_handle: ''
+    name: Warsaw Improv Space
+    facebook_link: https://www.facebook.com/improvspacewarsaw/
+    website_link: ''
+    google_maps_link: https://www.google.pl/maps/place/al.+Jerozolimskie+85,+02-001+Warszawa/@52.2271765,20.9983007,596m/data=!3m2!1e3!4b1!4m5!3m4!1s0x471ecc926743aca5:0x85ce3b7f6f0de06b!8m2!3d52.2271765!4d21.0004894?hl=en
+    address: Al. Jerozolimskie 85
+    city: Warsaw
+    postcode: 02-001
+    email_address: improv.workshops@yahoo.com
+    country: PL
+    school: null
+    image: venue/ImprovSpace.jpg
+- model: uk_improv_guide.venue
+  pk: 39
+  fields:
+    twitter_handle: ''
+    name: Just The Tonic @ Edinburgh Festival Fringe
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: The Caves
+    city: Edinburgh
+    postcode: EH1
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/JTT_logo.png
 - model: uk_improv_guide.course
   pk: 1
   fields:
@@ -4062,6 +4133,20 @@
     number_of_lessons: 1
     class_show: false
     course_link: ''
+- model: uk_improv_guide.course
+  pk: 7
+  fields:
+    name: "JILL BERNARD \u2013 CREATING REALISTIC CHARACTERS THROUGH TRUTH & BEAUTY
+      / MASTERCLASS"
+    image: ''
+    venue: 38
+    school: 3a686fb2-b9a0-4462-80ea-eb931c4ceb07
+    teacher: null
+    start_time: 2019-10-19 10:00:00+00:00
+    lesson_duration: 12.0
+    number_of_lessons: 2
+    class_show: true
+    course_link: https://www.facebook.com/events/631119477381784/
 - model: uk_improv_guide.eventseries
   pk: 14f90855-7f67-421d-91f1-d375ad53b7e0
   fields:
@@ -4082,6 +4167,11 @@
   fields:
     image: event_series/TTS_2019.jpg
     name: 'The Maydays present: Tonight''s Top Story'
+- model: uk_improv_guide.eventseries
+  pk: 5d64fe2d-7a22-4f66-8401-43931d276471
+  fields:
+    image: ''
+    name: Big Smoke
 - model: uk_improv_guide.eventseries
   pk: 702f88e9-8746-4c30-9792-c830c5e32626
   fields:
@@ -5113,7 +5203,7 @@
   pk: 68
   fields:
     twitter_handle: '@impronauts'
-    facebook_link: https://www.facebook.com/impronauts/
+    facebook_link: https://www.facebook.com/events/2847261378677937/
     website_link: https://www.impronauts.com/
     contact_email_address: impronauts@gmail.com
     instagram_link: https://www.instagram.com/impronauts/
@@ -5248,6 +5338,18 @@
     players:
     - 215
     - 216
+- model: uk_improv_guide.team
+  pk: 80
+  fields:
+    twitter_handle: hivemindimprov
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: http://www.hivemindimprov.com
+    contact_email_address: hello@hivemindimprov.com
+    instagram_link: ''
+    name: Hivemind
+    image: team/JTT_image_JPG.jpg
+    players:
+    - 218
 - model: uk_improv_guide.event
   pk: 1
   fields:
@@ -6428,7 +6530,7 @@
     name: Impromptu Shakespere / Happily Never After (The Maydays)
     image: ''
     event_type: S
-    start_time: 2019-08-14 19:30:00+00:00
+    start_time: 2019-09-14 19:30:00+00:00
     duration: 2.0
     venue: 34
     series: null
@@ -6511,6 +6613,36 @@
     series: null
     teams:
     - 63
+- model: uk_improv_guide.event
+  pk: 85
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: Caretakers present Big Smoke Improv
+    image: ''
+    event_type: S
+    start_time: 2019-09-09 20:00:00+00:00
+    duration: 2.0
+    venue: 3
+    series: 5d64fe2d-7a22-4f66-8401-43931d276471
+    teams:
+    - 1
+- model: uk_improv_guide.event
+  pk: 86
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: http://www.hivemindimprov.com
+    eventbrite_link: ''
+    name: Lord of the Game of the Ring of Thrones
+    image: event/JTT_image_JPG.jpg
+    event_type: S
+    start_time: 2019-08-14 13:30:00+00:00
+    duration: 1.0
+    venue: 39
+    series: null
+    teams:
+    - 80
 - model: uk_improv_guide.festival
   pk: 1
   fields:
@@ -6588,6 +6720,7 @@
     end_time: 2019-08-26 00:00:00+00:00
     school: null
     venues:
+    - 37
     - 26
     teams:
     - 68
