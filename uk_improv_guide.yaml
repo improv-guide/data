@@ -872,7 +872,7 @@
     first_name: Will
     middle_names: ''
     family_name: Truefitt
-    image: ''
+    image: performer/will_truefit.jpg
     alias: ''
     imdb_link: ''
     teaches_for: []
@@ -3470,6 +3470,21 @@
     alias: ''
     imdb_link: ''
     teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 219
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Jed
+    middle_names: ''
+    family_name: Kass
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
 - model: uk_improv_guide.venue
   pk: 1
   fields:
@@ -4055,6 +4070,21 @@
     country: GB
     school: null
     image: venue/JTT_logo.png
+- model: uk_improv_guide.venue
+  pk: 40
+  fields:
+    twitter_handle: ''
+    name: 2NorthDown
+    facebook_link: https://www.facebook.com/2NorthDown/
+    website_link: https://www.2northdown.com/about
+    google_maps_link: https://goo.gl/maps/iZMwYFzZWGbn7UnZA
+    address: 2 Northdown St
+    city: London
+    postcode: N1 9BG
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/detail_2Northdown-New-Interior-Bar-7.jpg
 - model: uk_improv_guide.course
   pk: 1
   fields:
@@ -4183,6 +4213,11 @@
     image: ''
     name: WE JUST LOVE TO PLAY!
 - model: uk_improv_guide.eventseries
+  pk: 7a0a10d6-6831-46e2-8236-64d6e554d6a9
+  fields:
+    image: event_series/JTT_image_JPG.jpg
+    name: Lord of the Game of the Ring of Thrones
+- model: uk_improv_guide.eventseries
   pk: 7e6c18d2-2a7a-42a0-ac9b-d23da3b2d0a7
   fields:
     image: ''
@@ -4246,7 +4281,7 @@
     contact_email_address: salimfadhley@gmail.com
     instagram_link: ''
     name: Caretakers
-    image: team/caretakers_4qADhft.jpg
+    image: team/caretakers_image.jpg
     players:
     - 170
     - 42
@@ -4303,7 +4338,12 @@
     instagram_link: ''
     name: Backstreet Boogaloo
     image: ''
-    players: []
+    players:
+    - 19
+    - 8
+    - 219
+    - 154
+    - 1
 - model: uk_improv_guide.team
   pk: 5
   fields:
@@ -5350,6 +5390,17 @@
     image: team/JTT_image_JPG.jpg
     players:
     - 218
+- model: uk_improv_guide.team
+  pk: 81
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Margaret
+    image: ''
+    players: []
 - model: uk_improv_guide.event
   pk: 1
   fields:
@@ -6643,6 +6694,52 @@
     series: null
     teams:
     - 80
+- model: uk_improv_guide.event
+  pk: 87
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: Caretakers present Big Smoke Improv
+    image: ''
+    event_type: S
+    start_time: 2019-10-14 20:00:00+00:00
+    duration: 2.0
+    venue: 3
+    series: 5d64fe2d-7a22-4f66-8401-43931d276471
+    teams:
+    - 1
+- model: uk_improv_guide.event
+  pk: 88
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: Caretakers present Big Smoke Improv
+    image: ''
+    event_type: S
+    start_time: 2019-11-11 20:00:00+00:00
+    duration: 2.0
+    venue: 3
+    series: 5d64fe2d-7a22-4f66-8401-43931d276471
+    teams:
+    - 1
+- model: uk_improv_guide.event
+  pk: 89
+  fields:
+    facebook_link: https://z-m-www.facebook.com/events/1349696985184683/
+    website_link: ''
+    eventbrite_link: ''
+    name: Margaret Summer Party
+    image: ''
+    event_type: S
+    start_time: 2019-08-17 19:30:00+00:00
+    duration: 2.0
+    venue: 40
+    series: null
+    teams:
+    - 8
+    - 81
 - model: uk_improv_guide.festival
   pk: 1
   fields:
