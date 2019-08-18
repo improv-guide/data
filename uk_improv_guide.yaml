@@ -197,6 +197,17 @@
     image: school/55726144_10161564491835456_3338731911747993600_o.jpg
     country: GB
 - model: uk_improv_guide.school
+  pk: ca5f7a5a-d1c7-4cc2-9d12-677df5b2f1f4
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/bristollongform/?modal=admin_todo_tour
+    website_link: http://bristollongform.com/
+    contact_email_address: bristollongform@gmail.com
+    instagram_link: ''
+    name: Bristol Longform Comedy
+    image: school/longform_logo.jpg
+    country: GB
+- model: uk_improv_guide.school
   pk: cbed4f95-eef0-40bc-93d4-3c8c2b330e0a
   fields:
     twitter_handle: '@DreamweaverQRT'
@@ -1076,10 +1087,10 @@
 - model: uk_improv_guide.performer
   pk: 58
   fields:
-    twitter_handle: '@ulesmunns'
+    twitter_handle: '@julesmunns'
     facebook_link: https://www.facebook.com/jules.munns
-    website_link: ''
-    contact_email_address: ''
+    website_link: http://julesmunns.com/
+    contact_email_address: me@julesmunns.com
     instagram_link: ''
     first_name: Jules
     middle_names: ''
@@ -1089,6 +1100,7 @@
     imdb_link: ''
     teaches_for:
     - 4322f66b-c7f9-4c62-917b-363895f7381c
+    - 5b8100d9-7a66-4e1a-babf-f367a944eece
 - model: uk_improv_guide.performer
   pk: 59
   fields:
@@ -1413,7 +1425,8 @@
     image: ''
     alias: ''
     imdb_link: ''
-    teaches_for: []
+    teaches_for:
+    - 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
 - model: uk_improv_guide.performer
   pk: 80
   fields:
@@ -2710,22 +2723,6 @@
     - 4dee8992-84d4-48e8-bd61-e67b01501848
     - 5b8100d9-7a66-4e1a-babf-f367a944eece
 - model: uk_improv_guide.performer
-  pk: 169
-  fields:
-    twitter_handle: ''
-    facebook_link: ''
-    website_link: ''
-    contact_email_address: ''
-    instagram_link: ''
-    first_name: Amy
-    middle_names: ''
-    family_name: Cooke-Hodgson
-    image: ''
-    alias: ''
-    imdb_link: ''
-    teaches_for:
-    - 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
-- model: uk_improv_guide.performer
   pk: 170
   fields:
     twitter_handle: ''
@@ -3485,6 +3482,188 @@
     alias: ''
     imdb_link: ''
     teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 220
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/jessica.flood.98892
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Jess
+    middle_names: ''
+    family_name: Flood
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 221
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/antonia.miller.520
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Toni
+    middle_names: ''
+    family_name: Miller
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 222
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Sandi
+    middle_names: ''
+    family_name: Conroy
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 223
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Ivor
+    middle_names: ''
+    family_name: Ferguson
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 224
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Nick
+    middle_names: ''
+    family_name: Delvalle
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 225
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Brigitte
+    middle_names: ''
+    family_name: McClumpah
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 226
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Mike
+    middle_names: ''
+    family_name: Jeffries
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 227
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Lydia
+    middle_names: ''
+    family_name: Harrison
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 228
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Ellie
+    middle_names: ''
+    family_name: Pitt
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 229
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Emmett
+    middle_names: ''
+    family_name: Kearney
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 230
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Jim
+    middle_names: ''
+    family_name: Rastall
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 231
+  fields:
+    twitter_handle: '@oneboardman'
+    facebook_link: https://www.facebook.com/john.gallagher.7547
+    website_link: ''
+    contact_email_address: j.gallagher992@outlook.com
+    instagram_link: ''
+    first_name: John
+    middle_names: ''
+    family_name: Gallagher Portero
+    image: performer/john_headshot.jpg
+    alias: One Board Man
+    imdb_link: ''
+    teaches_for:
+    - 23377e08-8f41-4e2a-b18a-582ed61bf39c
+    - ca5f7a5a-d1c7-4cc2-9d12-677df5b2f1f4
 - model: uk_improv_guide.venue
   pk: 1
   fields:
@@ -3923,11 +4102,11 @@
 - model: uk_improv_guide.venue
   pk: 30
   fields:
-    twitter_handle: ''
+    twitter_handle: nurserytheatre
     name: The Nursery Training Centre
-    facebook_link: ''
-    website_link: ''
-    google_maps_link: ''
+    facebook_link: https://www.facebook.com/NurseryTheatre/
+    website_link: https://thenurserytheatre.com/
+    google_maps_link: https://www.google.com/maps/place/The+Nursery+Training+Centre/@51.5032958,-0.0871373,17z/data=!4m13!1m7!3m6!1s0x4876035a5f09bbb7:0x6029780fd4833093!2sWeston+St,+London+SE1+3QD!3b1!8m2!3d51.5032332!4d-0.0849905!3m4!1s0x487604a5fc62e96f:0xfc6798cda9356185!8m
     address: 6th Floor, Capital House, 42 Weston Street
     city: London
     postcode: SE1 3QD
@@ -4085,6 +4264,21 @@
     country: GB
     school: null
     image: venue/detail_2Northdown-New-Interior-Bar-7.jpg
+- model: uk_improv_guide.venue
+  pk: 41
+  fields:
+    twitter_handle: ''
+    name: SPACE
+    facebook_link: ''
+    website_link: https://space-events-hub.business.site/
+    google_maps_link: ''
+    address: 6 West Street, Old Market
+    city: Bristol
+    postcode: BS2 0BH
+    email_address: ''
+    country: GB
+    school: ca5f7a5a-d1c7-4cc2-9d12-677df5b2f1f4
+    image: venue/space.jpg
 - model: uk_improv_guide.course
   pk: 1
   fields:
@@ -4177,6 +4371,84 @@
     number_of_lessons: 2
     class_show: true
     course_link: https://www.facebook.com/events/631119477381784/
+- model: uk_improv_guide.course
+  pk: 8
+  fields:
+    name: Improv 101 (Trust & Support)
+    image: ''
+    venue: 41
+    school: ca5f7a5a-d1c7-4cc2-9d12-677df5b2f1f4
+    teacher: 231
+    start_time: 2019-08-14 19:00:00+00:00
+    lesson_duration: 3.0
+    number_of_lessons: 4
+    class_show: false
+    course_link: http://bristollongform.com
+- model: uk_improv_guide.course
+  pk: 9
+  fields:
+    name: Improv 201 (Truth)
+    image: course/201.png
+    venue: 41
+    school: ca5f7a5a-d1c7-4cc2-9d12-677df5b2f1f4
+    teacher: 231
+    start_time: 2019-08-13 19:00:00+00:00
+    lesson_duration: 3.0
+    number_of_lessons: 4
+    class_show: false
+    course_link: http://bristollongform.com
+- model: uk_improv_guide.course
+  pk: 10
+  fields:
+    name: Improv 201 (Truth)
+    image: course/201_u6G5Dg7.png
+    venue: 41
+    school: ca5f7a5a-d1c7-4cc2-9d12-677df5b2f1f4
+    teacher: 231
+    start_time: 2019-09-11 19:00:00+00:00
+    lesson_duration: 3.0
+    number_of_lessons: 4
+    class_show: false
+    course_link: http://bristollongform.com
+- model: uk_improv_guide.course
+  pk: 11
+  fields:
+    name: Improv 301 (Game)
+    image: course/301.png
+    venue: 41
+    school: ca5f7a5a-d1c7-4cc2-9d12-677df5b2f1f4
+    teacher: 231
+    start_time: 2019-09-10 19:00:00+00:00
+    lesson_duration: 3.0
+    number_of_lessons: 4
+    class_show: false
+    course_link: http://bristollongform.com
+- model: uk_improv_guide.course
+  pk: 12
+  fields:
+    name: Improv 401 (Harold)
+    image: course/401.png
+    venue: 41
+    school: ca5f7a5a-d1c7-4cc2-9d12-677df5b2f1f4
+    teacher: 231
+    start_time: 2019-10-08 19:00:00+00:00
+    lesson_duration: 3.0
+    number_of_lessons: 4
+    class_show: false
+    course_link: http://bristollongform.com
+- model: uk_improv_guide.course
+  pk: 13
+  fields:
+    name: Improv 301 (Game)
+    image: course/301_5yQe0BG.png
+    venue: 41
+    school: ca5f7a5a-d1c7-4cc2-9d12-677df5b2f1f4
+    teacher: 231
+    start_time: 2019-10-09 19:00:00+00:00
+    lesson_duration: 3.0
+    number_of_lessons: 4
+    class_show: false
+    course_link: http://bristollongform.com
 - model: uk_improv_guide.eventseries
   pk: 14f90855-7f67-421d-91f1-d375ad53b7e0
   fields:
@@ -4337,12 +4609,16 @@
     contact_email_address: ''
     instagram_link: ''
     name: Backstreet Boogaloo
-    image: ''
+    image: team/backstreet_boogaloo_logo.jpg
     players:
     - 19
     - 8
+    - 227
+    - 226
     - 219
     - 154
+    - 225
+    - 228
     - 1
 - model: uk_improv_guide.team
   pk: 5
@@ -4684,10 +4960,9 @@
     contact_email_address: blytonimpro@gmail.com
     instagram_link: https://www.instagram.com/bumperblyton/
     name: Bumper Blyton
-    image: ''
+    image: team/bumper_blyton.jpg
     players:
     - 79
-    - 169
     - 168
     - 57
     - 60
@@ -5400,6 +5675,60 @@
     instagram_link: ''
     name: Margaret
     image: ''
+    players: []
+- model: uk_improv_guide.team
+  pk: 82
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: The Second Wheel
+    image: team/second_wheel.jpg
+    players:
+    - 222
+    - 224
+    - 223
+    - 220
+    - 229
+    - 221
+    - 230
+    - 113
+- model: uk_improv_guide.team
+  pk: 83
+  fields:
+    twitter_handle: '@JPimprov'
+    facebook_link: https://www.facebook.com/JazzPoliceImprov/?ref=br_rs&fb_dtsg_ag=AQzN_Ry0lFzapdipYHkDWr9vEvzind3_ZR1tJoEfF9L7Jw%3AAQxjPz9QJDzR6Ym6Mb7kYKdlxck_6jlzu_Qjtxhgk36fwA&jazoest=28426
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Jazz Police
+    image: team/jazz_police.jpg
+    players:
+    - 231
+- model: uk_improv_guide.team
+  pk: 84
+  fields:
+    twitter_handle: '@oneboardman'
+    facebook_link: https://www.facebook.com/oneboardman/
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: One Board Man
+    image: team/obm.jpg
+    players:
+    - 231
+- model: uk_improv_guide.team
+  pk: 85
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: http://www.sparkcreative.com
+    contact_email_address: ''
+    instagram_link: ''
+    name: Spark Creative
+    image: team/Sparklogocolor.png
     players: []
 - model: uk_improv_guide.event
   pk: 1
@@ -6740,6 +7069,23 @@
     teams:
     - 8
     - 81
+- model: uk_improv_guide.event
+  pk: 90
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: 'Moop Presents: Field Trip & The Second Wheel'
+    image: ''
+    event_type: S
+    start_time: 2019-08-26 20:00:00+00:00
+    duration: 2.0
+    venue: 3
+    series: null
+    teams:
+    - 30
+    - 2
+    - 82
 - model: uk_improv_guide.festival
   pk: 1
   fields:
