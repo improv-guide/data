@@ -1,4 +1,15 @@
 - model: uk_improv_guide.school
+  pk: 04f8c06c-fd25-4dff-9e2b-a83e41be28f8
+  fields:
+    twitter_handle: boxoffrogsimpro
+    facebook_link: https://www.facebook.com/BoxofFrogsImpro/
+    website_link: http://boxoffrogsimpro.co.uk/
+    contact_email_address: ''
+    instagram_link: ''
+    name: Box of Frogs
+    image: ''
+    country: GB
+- model: uk_improv_guide.school
   pk: 077d5515-3a65-4dd1-bfc6-deaed70e16a6
   fields:
     twitter_handle: Nathanimprov
@@ -18,6 +29,17 @@
     contact_email_address: ''
     instagram_link: ''
     name: MissImp
+    image: ''
+    country: GB
+- model: uk_improv_guide.school
+  pk: 210c9701-5c1a-42f9-8487-c083ee8cf850
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/liverpoolcomedyimprov/
+    website_link: http://www.liverpoolcomedyimprov.co.uk/
+    contact_email_address: ''
+    instagram_link: ''
+    name: Liverpool Comedy Improv
     image: ''
     country: GB
 - model: uk_improv_guide.school
@@ -3664,6 +3686,263 @@
     teaches_for:
     - 23377e08-8f41-4e2a-b18a-582ed61bf39c
     - ca5f7a5a-d1c7-4cc2-9d12-677df5b2f1f4
+- model: uk_improv_guide.performer
+  pk: 232
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Andy
+    middle_names: ''
+    family_name: Rouse
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 233
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Carly
+    middle_names: ''
+    family_name: Brazier
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 234
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/rosiebess
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Rosie
+    middle_names: ''
+    family_name: Ferguson
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 235
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Bobbie
+    middle_names: ''
+    family_name: Mills
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 236
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Ellis
+    middle_names: ''
+    family_name: Ballard
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 237
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Ian
+    middle_names: ''
+    family_name: Muttucumaroe
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 238
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Joe
+    middle_names: ''
+    family_name: Shapiro
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 239
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Prathap
+    middle_names: ''
+    family_name: Chandran
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 240
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Robert
+    middle_names: ''
+    family_name: Mclaren
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 241
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Stuart
+    middle_names: ''
+    family_name: Ross
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 242
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Matt
+    middle_names: ''
+    family_name: Stainsby
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 243
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Tulasi
+    middle_names: ''
+    family_name: Das
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 244
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Laura
+    middle_names: ''
+    family_name: Benson
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 245
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Bobbie
+    middle_names: ''
+    family_name: Mills
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 246
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Marie
+    middle_names: ''
+    family_name: Konrad
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 247
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Jon
+    middle_names: ''
+    family_name: Trevor
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for:
+    - 04f8c06c-fd25-4dff-9e2b-a83e41be28f8
+- model: uk_improv_guide.performer
+  pk: 248
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Emma
+    middle_names: ''
+    family_name: Bird
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for:
+    - 210c9701-5c1a-42f9-8487-c083ee8cf850
 - model: uk_improv_guide.venue
   pk: 1
   fields:
@@ -4279,6 +4558,21 @@
     country: GB
     school: ca5f7a5a-d1c7-4cc2-9d12-677df5b2f1f4
     image: venue/space.jpg
+- model: uk_improv_guide.venue
+  pk: 42
+  fields:
+    twitter_handle: ''
+    name: Chapel Playhouse
+    facebook_link: ''
+    website_link: http://www.chapelplayhouse.co.uk/
+    google_maps_link: https://goo.gl/maps/1aDcGGb4B3X3HqaG6
+    address: 308-312 Grays Inn Road
+    city: London
+    postcode: WC1X 8DP
+    email_address: info@chapelplayhouse.co.uk
+    country: GB
+    school: null
+    image: venue/chapel_playhouse.jpg
 - model: uk_improv_guide.course
   pk: 1
   fields:
@@ -4649,16 +4943,27 @@
 - model: uk_improv_guide.team
   pk: 7
   fields:
-    twitter_handle: ''
+    twitter_handle: '@JustFriendsYeah'
     facebook_link: https://www.facebook.com/justfriendsimpro/
     website_link: ''
-    contact_email_address: ''
-    instagram_link: ''
+    contact_email_address: justfriendsteam@gmail.com
+    instagram_link: http://instagram.com/justfriendsyeah
     name: Just Friends
-    image: ''
+    image: team/20190704_175427_0000.png
     players:
+    - 236
     - 18
+    - 244
+    - 239
+    - 243
+    - 246
     - 17
+    - 240
+    - 245
+    - 237
+    - 241
+    - 238
+    - 242
 - model: uk_improv_guide.team
   pk: 8
   fields:
@@ -4753,6 +5058,9 @@
     name: Swipe Right
     image: team/GPTempDownload_6_2.jpg
     players:
+    - 233
+    - 234
+    - 232
     - 29
 - model: uk_improv_guide.team
   pk: 15
@@ -5595,17 +5903,6 @@
     image: ''
     players: []
 - model: uk_improv_guide.team
-  pk: 75
-  fields:
-    twitter_handle: ''
-    facebook_link: ''
-    website_link: ''
-    contact_email_address: ''
-    instagram_link: ''
-    name: Swipe Right
-    image: ''
-    players: []
-- model: uk_improv_guide.team
   pk: 76
   fields:
     twitter_handle: ''
@@ -5729,6 +6026,17 @@
     instagram_link: ''
     name: Spark Creative
     image: team/Sparklogocolor.png
+    players: []
+- model: uk_improv_guide.team
+  pk: 86
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/AutoCorrebt/
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Auto-Correbt
+    image: team/auto_correbt.jpg
     players: []
 - model: uk_improv_guide.event
   pk: 1
@@ -6864,7 +7172,7 @@
     - 76
     - 73
     - 1
-    - 75
+    - 14
     - 69
 - model: uk_improv_guide.event
   pk: 77
@@ -7086,6 +7394,51 @@
     - 30
     - 2
     - 82
+- model: uk_improv_guide.event
+  pk: 91
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: DDG Jam
+    image: ''
+    event_type: S
+    start_time: 2019-10-28 20:00:00+00:00
+    duration: 2.0
+    venue: 5
+    series: 3aacbd0b-8536-4a9f-8d66-6e85a7869438
+    teams:
+    - 14
+- model: uk_improv_guide.event
+  pk: 92
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: Pre Party
+    image: ''
+    event_type: S
+    start_time: 2019-11-30 18:00:00+00:00
+    duration: 1.0
+    venue: 2
+    series: 14f90855-7f67-421d-91f1-d375ad53b7e0
+    teams:
+    - 14
+- model: uk_improv_guide.event
+  pk: 93
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: Crimson Grenade
+    image: ''
+    event_type: S
+    start_time: 2019-09-13 20:00:00+00:00
+    duration: 2.0
+    venue: 42
+    series: null
+    teams:
+    - 1
 - model: uk_improv_guide.festival
   pk: 1
   fields:
