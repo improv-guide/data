@@ -43,6 +43,17 @@
     image: ''
     country: GB
 - model: uk_improv_guide.school
+  pk: 225371c3-ae12-4863-91fe-570f771f66ec
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: https://www.smoking-sofa.com/
+    contact_email_address: ''
+    instagram_link: ''
+    name: Smoking Sofa
+    image: ''
+    country: FR
+- model: uk_improv_guide.school
   pk: 23377e08-8f41-4e2a-b18a-582ed61bf39c
   fields:
     twitter_handle: ''
@@ -84,6 +95,17 @@
     contact_email_address: ''
     instagram_link: ''
     name: The Maydays
+    image: ''
+    country: GB
+- model: uk_improv_guide.school
+  pk: 4417fb61-86de-4ab8-8f68-055b5a453662
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: https://www.city-academy.com/improvisation-classes
+    contact_email_address: ''
+    instagram_link: ''
+    name: City Academy
     image: ''
     country: GB
 - model: uk_improv_guide.school
@@ -164,6 +186,17 @@
     image: school/The-Nursery-Theatre-Facebook-Preview-Thumbnail_NTXu1iV.jpg
     country: GB
 - model: uk_improv_guide.school
+  pk: 5ce1e393-bb5e-489e-a7e0-b2b55cb15555
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: https://www.barcelonaimprovgroup.com/
+    contact_email_address: ''
+    instagram_link: ''
+    name: Yes! Barcelona Improv Group
+    image: ''
+    country: ES
+- model: uk_improv_guide.school
   pk: 6056e993-c27b-438f-bfc7-804b2c3abbd3
   fields:
     twitter_handle: ''
@@ -208,6 +241,39 @@
     image: school/40395508_300488080747883_2677231910790365184_n.jpg
     country: GB
 - model: uk_improv_guide.school
+  pk: 6ef554d4-3d15-436a-9677-f18708029adc
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: http://www.theatralsuspects.com/
+    contact_email_address: ''
+    instagram_link: ''
+    name: Zarbi et Orbi
+    image: ''
+    country: GB
+- model: uk_improv_guide.school
+  pk: 8e547929-8621-42f7-b55f-901226eeec3b
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: https://www.escueladeimprodebarcelona.com/
+    contact_email_address: ''
+    instagram_link: ''
+    name: Escuela de Impro Barcelona
+    image: ''
+    country: ES
+- model: uk_improv_guide.school
+  pk: 92ced486-00f9-43d0-82ca-9a7e55d18384
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: http://www.improfessionals.com/
+    contact_email_address: ''
+    instagram_link: ''
+    name: The Improfessionals
+    image: ''
+    country: FR
+- model: uk_improv_guide.school
   pk: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
   fields:
     twitter_handle: '@hooplaimpro'
@@ -218,6 +284,28 @@
     name: Hoopla!
     image: school/55726144_10161564491835456_3338731911747993600_o.jpg
     country: GB
+- model: uk_improv_guide.school
+  pk: a2337ca1-e79f-4240-bd82-b60761c17877
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: https://www.les-claques.com/
+    contact_email_address: ''
+    instagram_link: ''
+    name: Les claques
+    image: ''
+    country: FR
+- model: uk_improv_guide.school
+  pk: b775b585-9ceb-4180-bfe2-2b48fc6da0c5
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: https://www.euximpro.fr/
+    contact_email_address: ''
+    instagram_link: ''
+    name: Eux
+    image: ''
+    country: FR
 - model: uk_improv_guide.school
   pk: ca5f7a5a-d1c7-4cc2-9d12-677df5b2f1f4
   fields:
@@ -252,6 +340,17 @@
     image: ''
     country: GB
 - model: uk_improv_guide.school
+  pk: d5036452-910b-4479-a3d4-214baae71886
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: https://www.strangerthings.nl/
+    contact_email_address: ''
+    instagram_link: ''
+    name: Stranger Things Have Happened
+    image: ''
+    country: NL
+- model: uk_improv_guide.school
   pk: dbcb6379-a8b2-418f-938b-602623baa2be
   fields:
     twitter_handle: duckduckg
@@ -273,6 +372,39 @@
     name: Rhymes Improv
     image: school/rhymes-logo-april.png
     country: GB
+- model: uk_improv_guide.school
+  pk: f1124791-2dad-46db-abb2-d2995ea3522f
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/cavistes.fromagers/
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: cavists and fromagers
+    image: ''
+    country: FR
+- model: uk_improv_guide.school
+  pk: f16c7b4c-99d9-4e67-8cdf-692677b1135f
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: http://www.lestraitsdunion.org/
+    contact_email_address: ''
+    instagram_link: ''
+    name: "Traits d\u2019union"
+    image: ''
+    country: GB
+- model: uk_improv_guide.school
+  pk: fcc4cbe4-d063-4ad3-a0dc-414ca78006d1
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: http://www.madimprov.com/classes/
+    contact_email_address: ''
+    instagram_link: ''
+    name: MAD Improv
+    image: ''
+    country: ES
 - model: uk_improv_guide.performer
   pk: 1
   fields:
@@ -3943,6 +4075,126 @@
     imdb_link: ''
     teaches_for:
     - 210c9701-5c1a-42f9-8487-c083ee8cf850
+- model: uk_improv_guide.performer
+  pk: 249
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Russ
+    middle_names: ''
+    family_name: Morgan
+    image: performer/Russ.png
+    alias: Russ the Bus
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 250
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Sabrina
+    middle_names: ''
+    family_name: Luisi
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 251
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Jon
+    middle_names: ''
+    family_name: Blazeby
+    image: performer/Jon.png
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 252
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Sarah
+    middle_names: ''
+    family_name: Perkins
+    image: performer/Sarah.png
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 253
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Rallou
+    middle_names: ''
+    family_name: Doka
+    image: performer/Rallou.png
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 254
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: David
+    middle_names: ''
+    family_name: Buser
+    image: performer/David.png
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 255
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Christian
+    middle_names: ''
+    family_name: Smith
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 256
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Kevin
+    middle_names: ''
+    family_name: Vidal
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
 - model: uk_improv_guide.venue
   pk: 1
   fields:
@@ -4573,6 +4825,81 @@
     country: GB
     school: null
     image: venue/chapel_playhouse.jpg
+- model: uk_improv_guide.venue
+  pk: 43
+  fields:
+    twitter_handle: ''
+    name: The Second City Toronto
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: 51 Mercer St, Toronto, ON M5V 9G9, Canada
+    city: Toronto
+    postcode: M5V 9G9
+    email_address: ''
+    country: CA
+    school: null
+    image: venue/TheSencondCity.JPG
+- model: uk_improv_guide.venue
+  pk: 44
+  fields:
+    twitter_handle: ''
+    name: The Second City Chicago
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: 1616 N Wells St, Chicago, IL 60614, USA
+    city: Chicago
+    postcode: IL 60614
+    email_address: ''
+    country: US
+    school: null
+    image: venue/TheSencondCity_piXJk2r.JPG
+- model: uk_improv_guide.venue
+  pk: 45
+  fields:
+    twitter_handle: ''
+    name: The Second City Hollywood
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: 6560 Hollywood Blvd, Los Angeles, CA 90028, USA
+    city: Hollywood
+    postcode: CA 90028
+    email_address: ''
+    country: US
+    school: null
+    image: venue/TheSencondCity_Ilee9ue.JPG
+- model: uk_improv_guide.venue
+  pk: 46
+  fields:
+    twitter_handle: ''
+    name: Camden Comedy Club
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: 100 Camden High St, Camden Town, London
+    city: London
+    postcode: NW1 0LU
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/camdencomedyclub-logo-web.png
+- model: uk_improv_guide.venue
+  pk: 47
+  fields:
+    twitter_handle: ''
+    name: commune cafe+bar
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: 36 Polaris corner Durban Streets, Poblacion, Makati City,
+    city: Makata
+    postcode: PH
+    email_address: ''
+    country: PH
+    school: null
+    image: venue/commune-coffee-logo.png
 - model: uk_improv_guide.course
   pk: 1
   fields:
@@ -4923,7 +5250,7 @@
     contact_email_address: ''
     instagram_link: ''
     name: Lester City
-    image: ''
+    image: team/lester_city.png
     players:
     - 15
     - 14
@@ -5143,7 +5470,6 @@
     image: team/RHINO_NAME_ONLY_2.jpeg
     players:
     - 174
-    - 177
     - 173
     - 176
     - 172
@@ -5443,6 +5769,7 @@
     - 208
     - 17
     - 211
+    - 249
     - 209
     - 210
 - model: uk_improv_guide.team
@@ -5820,8 +6147,14 @@
     contact_email_address: russ@buffetimprov.com
     instagram_link: http://instagram.com/buffetimprov
     name: Buffet Improv
-    image: team/buffet_improv.png
-    players: []
+    image: team/Copy_of_Copy_of_Untitled.png
+    players:
+    - 251
+    - 254
+    - 253
+    - 250
+    - 249
+    - 252
 - model: uk_improv_guide.team
   pk: 68
   fields:
@@ -5838,13 +6171,14 @@
   fields:
     twitter_handle: ''
     facebook_link: https://www.facebook.com/Track96Improv/
-    website_link: ''
+    website_link: http://www.track96.com
     contact_email_address: noname.hiphop.improv@gmail.com
-    instagram_link: ''
+    instagram_link: http://instagram.com/track96improv
     name: Track 96
     image: team/track96.png
     players:
     - 17
+    - 249
 - model: uk_improv_guide.team
   pk: 70
   fields:
@@ -6038,6 +6372,52 @@
     name: Auto-Correbt
     image: team/auto_correbt.jpg
     players: []
+- model: uk_improv_guide.team
+  pk: 87
+  fields:
+    twitter_handle: '@SDPSimprov'
+    facebook_link: https://www.facebook.com/superdiscountpartystore/
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: https://www.instagram.com/sdpsimprov/
+    name: Super Discount Party Store
+    image: team/46157202_652180458516764_8286648401265688576_o.jpg
+    players: []
+- model: uk_improv_guide.team
+  pk: 88
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: https://bimpoimprov.com
+    contact_email_address: ''
+    instagram_link: ''
+    name: Bimpo
+    image: ''
+    players: []
+- model: uk_improv_guide.team
+  pk: 89
+  fields:
+    twitter_handle: PatrolComedy
+    facebook_link: https://www.facebook.com/Patrol-Comedy-376493576516071/
+    website_link: ''
+    contact_email_address: patrolcomedy@gmail.com
+    instagram_link: ''
+    name: Patrol
+    image: ''
+    players: []
+- model: uk_improv_guide.team
+  pk: 90
+  fields:
+    twitter_handle: '@souldecisionto'
+    facebook_link: https://www.facebook.com/souldecisioncomedy/
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Soul Decision
+    image: team/soul_decision.jpg
+    players:
+    - 255
+    - 256
 - model: uk_improv_guide.event
   pk: 1
   fields:
@@ -7302,21 +7682,6 @@
     teams:
     - 63
 - model: uk_improv_guide.event
-  pk: 85
-  fields:
-    facebook_link: ''
-    website_link: ''
-    eventbrite_link: ''
-    name: Caretakers present Big Smoke Improv
-    image: ''
-    event_type: S
-    start_time: 2019-09-09 20:00:00+00:00
-    duration: 2.0
-    venue: 3
-    series: 5d64fe2d-7a22-4f66-8401-43931d276471
-    teams:
-    - 1
-- model: uk_improv_guide.event
   pk: 86
   fields:
     facebook_link: http://www.facebook.com/hivemindimprov
@@ -7361,6 +7726,7 @@
     series: 5d64fe2d-7a22-4f66-8401-43931d276471
     teams:
     - 1
+    - 21
 - model: uk_improv_guide.event
   pk: 89
   fields:
@@ -7439,6 +7805,41 @@
     series: null
     teams:
     - 1
+- model: uk_improv_guide.event
+  pk: 94
+  fields:
+    facebook_link: https://www.facebook.com/events/2325659711019753/
+    website_link: https://www.facebook.com/events/2325659711019753/
+    eventbrite_link: https://www.ticketsource.co.uk/punderstandably/punderstandably-presents-improv-towers-birthday-bonanza/e-xdvkja?fbclid=IwAR3O7kEhF7Rq-cjUsxS8K5k2h_u84gmDNQlhHmGsWlve6wG3Psl0V4E7Cq0
+    name: 'Punderstandably Presents: Improv Towers Birthday Bonanza!'
+    image: event/New_Project_8.jpg
+    event_type: S
+    start_time: 2019-09-17 19:30:00+00:00
+    duration: 2.5
+    venue: 2
+    series: 702f88e9-8746-4c30-9792-c830c5e32626
+    teams:
+    - 67
+    - 43
+    - 46
+- model: uk_improv_guide.event
+  pk: 95
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: 'Big Smoke Improv #1'
+    image: ''
+    event_type: S
+    start_time: 2019-09-09 20:00:00+00:00
+    duration: 2.0
+    venue: 3
+    series: 5d64fe2d-7a22-4f66-8401-43931d276471
+    teams:
+    - 1
+    - 30
+    - 5
+    - 90
 - model: uk_improv_guide.festival
   pk: 1
   fields:
