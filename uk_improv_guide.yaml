@@ -351,6 +351,17 @@
     image: ''
     country: FR
 - model: uk_improv_guide.school
+  pk: b223496f-2878-47e0-96ad-e166173a160f
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/Track96Improv
+    website_link: https://track96.com/workshops/
+    contact_email_address: hello@track96.com
+    instagram_link: http://instagram.com/track96improv
+    name: Track 96
+    image: school/track_96.png
+    country: GB
+- model: uk_improv_guide.school
   pk: b775b585-9ceb-4180-bfe2-2b48fc6da0c5
   fields:
     twitter_handle: ''
@@ -716,7 +727,8 @@
     image: ''
     alias: ''
     imdb_link: ''
-    teaches_for: []
+    teaches_for:
+    - b223496f-2878-47e0-96ad-e166173a160f
 - model: uk_improv_guide.performer
   pk: 18
   fields:
@@ -4144,7 +4156,8 @@
     image: performer/Russ.png
     alias: Russ the Bus
     imdb_link: ''
-    teaches_for: []
+    teaches_for:
+    - b223496f-2878-47e0-96ad-e166173a160f
 - model: uk_improv_guide.performer
   pk: 250
   fields:
@@ -5200,6 +5213,261 @@
     alias: Ed Fargher
     imdb_link: https://www.imdb.com/name/nm3270061/
     teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 320
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Ellie
+    middle_names: ''
+    family_name: Fulcher
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 321
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Clare
+    middle_names: ''
+    family_name: Hix
+    image: performer/374A2B26-76A3-4997-BEA4-A4D6468DE5B8.jpeg
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 322
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Hana
+    middle_names: ''
+    family_name: White
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 323
+  fields:
+    twitter_handle: '@padstowaway'
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: patrickwbach@gmail.com
+    instagram_link: ''
+    first_name: Patrick
+    middle_names: ''
+    family_name: Bach
+    image: performer/IMG_0599.JPG
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 324
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/isabel.bonachera
+    website_link: ''
+    contact_email_address: isabonachera@gmail.com
+    instagram_link: ''
+    first_name: Isa
+    middle_names: ''
+    family_name: Bonachera
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 325
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/max.odopolodus
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Max
+    middle_names: ''
+    family_name: O'Donoghue
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 326
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/laura.a.riseborough
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Laura
+    middle_names: ''
+    family_name: Riseborough
+    image: performer/laura_counting_to_three.png
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 327
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/rosie.mckaig
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Rosie
+    middle_names: ''
+    family_name: McKaig
+    image: performer/rosie_and_laura.jpg
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 328
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/jodyanne.fletcherrichardson
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Jodyanne
+    middle_names: Fletcher
+    family_name: Richardson
+    image: performer/jodyanne_fletcher_richardson.jpg
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 329
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Lora
+    middle_names: ''
+    family_name: Histova
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 330
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Saba
+    middle_names: ''
+    family_name: Husain
+    image: performer/sama.jpg
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 331
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Doug
+    middle_names: ''
+    family_name: Crossley
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 332
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Matt
+    middle_names: ''
+    family_name: Hutson
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 333
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Jamal
+    middle_names: ''
+    family_name: Khadar
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 334
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Will
+    middle_names: ''
+    family_name: Rowland
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 335
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/rebecca.schuster.71
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Rebecca
+    middle_names: ''
+    family_name: Schuster
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 336
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/nicole.harris.50767984
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Nicole
+    middle_names: ''
+    family_name: Harris
+    image: performer/Nicole_Harris.jpg
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
 - model: uk_improv_guide.venue
   pk: 1
   fields:
@@ -5639,17 +5907,17 @@
   pk: 30
   fields:
     twitter_handle: nurserytheatre
-    name: The Nursery Training Centre
+    name: Aegis Productions
     facebook_link: https://www.facebook.com/NurseryTheatre/
     website_link: https://thenurserytheatre.com/
-    google_maps_link: https://www.google.com/maps/place/The+Nursery+Training+Centre/@51.5032958,-0.0871373,17z/data=!4m13!1m7!3m6!1s0x4876035a5f09bbb7:0x6029780fd4833093!2sWeston+St,+London+SE1+3QD!3b1!8m2!3d51.5032332!4d-0.0849905!3m4!1s0x487604a5fc62e96f:0xfc6798cda9356185!8m
-    address: 6th Floor, Capital House, 42 Weston Street
+    google_maps_link: https://goo.gl/maps/djizBr5A99zrULJ37
+    address: 95 Brandon Street
     city: London
-    postcode: SE1 3QD
+    postcode: SE17 1DY
     email_address: ''
     country: GB
     school: 5b8100d9-7a66-4e1a-babf-f367a944eece
-    image: venue/green-room.jpg
+    image: venue/FB_Event_Cover_Both_Maydays_Dropin_6_-_smaller.jpg
 - model: uk_improv_guide.venue
   pk: 31
   fields:
@@ -6055,6 +6323,51 @@
     country: GB
     school: null
     image: venue/trist.jpg
+- model: uk_improv_guide.venue
+  pk: 58
+  fields:
+    twitter_handle: ''
+    name: The Reindeer Norwich
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: 10 Dereham Road
+    city: Norwich
+    postcode: NR2 4AY
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/Reindeer.jpg
+- model: uk_improv_guide.venue
+  pk: 59
+  fields:
+    twitter_handle: '@GulliversNQ'
+    name: Gullivers NQ
+    facebook_link: https://www.facebook.com/GulliversNQ/
+    website_link: https://gulliversnq.info/
+    google_maps_link: ''
+    address: 109 Oldham Street
+    city: Manchester
+    postcode: M4 1LW
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/logo2.jpg
+- model: uk_improv_guide.venue
+  pk: 60
+  fields:
+    twitter_handle: ''
+    name: The Cheshire Cheese
+    facebook_link: https://www.facebook.com/theCheshireCheese/
+    website_link: ''
+    google_maps_link: ''
+    address: 5 Little Essex St, Temple
+    city: London
+    postcode: WC2R 3LD
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/cheshire_cheese.jpg
 - model: uk_improv_guide.course
   pk: 1
   fields:
@@ -6264,6 +6577,24 @@
     number_of_lessons: 1
     class_show: false
     course_link: https://www.eventbrite.com/e/poc-improv-class-tickets-70447880507
+- model: uk_improv_guide.course
+  pk: 17
+  fields:
+    name: Intro to Improvised Hip Hop (Norwich)
+    image: ''
+    venue: 58
+    school: b223496f-2878-47e0-96ad-e166173a160f
+    teacher: 249
+    start_time: 2020-01-26 14:00:00+00:00
+    lesson_duration: 3.0
+    number_of_lessons: 1
+    class_show: false
+    course_link: https://track96.com/events/intro-to-improvised-hip-hop/
+- model: uk_improv_guide.eventseries
+  pk: 1384c01e-8200-4091-bd97-45495305e442
+  fields:
+    image: event_series/34445064_470122770088911_8141476518091030528_n.jpg
+    name: Little Chicago Comedy
 - model: uk_improv_guide.eventseries
   pk: 14f90855-7f67-421d-91f1-d375ad53b7e0
   fields:
@@ -6289,6 +6620,11 @@
   fields:
     image: event_series/TTS_2019.jpg
     name: 'The Maydays present: Tonight''s Top Story'
+- model: uk_improv_guide.eventseries
+  pk: 448d922b-6012-44b4-9f3f-c3531399edb9
+  fields:
+    image: event_series/77430163_10156620481228344_6339814101937553408_o.jpg
+    name: Dave & Pete's Improv Playtime - Improv Drop-in Class
 - model: uk_improv_guide.eventseries
   pk: 537e6e27-6452-4a31-bedc-2893831f719b
   fields:
@@ -6317,7 +6653,7 @@
 - model: uk_improv_guide.eventseries
   pk: 7a979856-4013-430b-a8bf-1ea9c19687d6
   fields:
-    image: event_series/TheMaydays_pkvx94O.png
+    image: event_series/79232984_2850292958335065_4656775598713077760_o.jpg
     name: Maydays Drop-in Saturday
 - model: uk_improv_guide.eventseries
   pk: 7c7ea5ce-91c4-4c3b-8cca-9d68b87d974a
@@ -6337,7 +6673,7 @@
 - model: uk_improv_guide.eventseries
   pk: 853406db-d33f-43a8-ae9c-9dfa20e8b3fa
   fields:
-    image: event_series/TheMaydays.png
+    image: event_series/78035946_2850297711667923_2472733137549918208_o.jpg
     name: Maydays Drop-in Wednesday
 - model: uk_improv_guide.eventseries
   pk: 8921978b-be00-4845-a8b0-787f8c9ef1fb
@@ -6433,17 +6769,6 @@
     - 11
     - 13
     - 12
-- model: uk_improv_guide.team
-  pk: 3
-  fields:
-    twitter_handle: ''
-    facebook_link: ''
-    website_link: ''
-    contact_email_address: ''
-    instagram_link: ''
-    name: The Foreseeable Future
-    image: ''
-    players: []
 - model: uk_improv_guide.team
   pk: 4
   fields:
@@ -6596,7 +6921,10 @@
     name: The Foreseeable Future
     image: ''
     players:
+    - 154
     - 28
+    - 327
+    - 326
 - model: uk_improv_guide.team
   pk: 14
   fields:
@@ -6995,9 +7323,7 @@
     players:
     - 207
     - 208
-    - 17
     - 211
-    - 249
     - 209
     - 210
 - model: uk_improv_guide.team
@@ -7997,6 +8323,157 @@
     players:
     - 316
     - 317
+- model: uk_improv_guide.team
+  pk: 116
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: http://www.instagram.com/strictlybusinessgigs
+    name: Strictly Business
+    image: ''
+    players:
+    - 320
+    - 321
+    - 322
+- model: uk_improv_guide.team
+  pk: 117
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Ghost Couple
+    image: ''
+    players: []
+- model: uk_improv_guide.team
+  pk: 118
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Women Who Wank
+    image: ''
+    players: []
+- model: uk_improv_guide.team
+  pk: 119
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Phil Lunn is...
+    image: ''
+    players: []
+- model: uk_improv_guide.team
+  pk: 120
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Box of Frogs
+    image: ''
+    players: []
+- model: uk_improv_guide.team
+  pk: 121
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Derek's Mojo
+    image: team/dereks_mojo.jpg
+    players:
+    - 16
+    - 328
+- model: uk_improv_guide.team
+  pk: 122
+  fields:
+    twitter_handle: '@ThespianagePro'
+    facebook_link: http://www.facebook.com/thespianageproductions
+    website_link: http://www.thespianageproductions.co.uk
+    contact_email_address: thespianageproductions@gmail.com
+    instagram_link: http://www.instagram.com/thespianageproductions
+    name: Thespianage Productions
+    image: team/cropped-6f0c33f7-0561-4aff-bb73-bf898952c585.jpeg
+    players:
+    - 323
+- model: uk_improv_guide.team
+  pk: 123
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Badger Bus
+    image: ''
+    players:
+    - 324
+    - 325
+- model: uk_improv_guide.team
+  pk: 124
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Ladies Present
+    image: ''
+    players:
+    - 329
+- model: uk_improv_guide.team
+  pk: 125
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Dirty Picnic
+    image: ''
+    players:
+    - 329
+- model: uk_improv_guide.team
+  pk: 126
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: I'm Filthy Don't Touch Me
+    image: team/filthy.jpeg
+    players:
+    - 167
+    - 331
+    - 44
+    - 332
+    - 333
+    - 326
+    - 334
+- model: uk_improv_guide.team
+  pk: 127
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Schuster & Sherman
+    image: ''
+    players:
+    - 335
+    - 257
 - model: uk_improv_guide.event
   pk: 1
   fields:
@@ -8013,7 +8490,6 @@
     teams:
     - 4
     - 2
-    - 3
     special_guests: []
 - model: uk_improv_guide.event
   pk: 2
@@ -10097,12 +10573,12 @@
 - model: uk_improv_guide.event
   pk: 132
   fields:
-    facebook_link: ''
+    facebook_link: https://www.facebook.com/events/2387974991520215/
     website_link: https://thenurserytheatre.com/improv-classes/drop-in-workshops/
     eventbrite_link: ''
     name: Maydays Drop-in Wednesday
-    image: ''
-    event_type: J
+    image: event/78035946_2850297711667923_2472733137549918208_o.jpg
+    event_type: W
     start_time: 2019-12-11 19:00:00+00:00
     duration: 2.5
     venue: 30
@@ -10116,8 +10592,8 @@
     website_link: https://thenurserytheatre.com/improv-classes/drop-in-workshops/
     eventbrite_link: ''
     name: Maydays Drop-in Wednesday
-    image: ''
-    event_type: J
+    image: event/78035946_2850297711667923_2472733137549918208_o_yJJeREM.jpg
+    event_type: W
     start_time: 2019-12-18 19:00:00+00:00
     duration: 2.5
     venue: 30
@@ -10187,12 +10663,12 @@
 - model: uk_improv_guide.event
   pk: 138
   fields:
-    facebook_link: ''
+    facebook_link: https://www.facebook.com/events/2393359550880270/
     website_link: https://thenurserytheatre.com/improv-classes/drop-in-workshops/
     eventbrite_link: ''
     name: Maydays Drop-in Saturday
-    image: ''
-    event_type: J
+    image: event/79232984_2850292958335065_4656775598713077760_o.jpg
+    event_type: W
     start_time: 2019-12-21 13:00:00+00:00
     duration: 2.5
     venue: 30
@@ -10250,6 +10726,58 @@
     special_guests:
     - 122
     - 319
+- model: uk_improv_guide.event
+  pk: 142
+  fields:
+    facebook_link: https://www.facebook.com/events/1004578033228839/
+    website_link: ''
+    eventbrite_link: ''
+    name: Dave & Pete's Improv Playtime - Improv Drop-in Class
+    image: ''
+    event_type: W
+    start_time: 2019-11-28 19:00:00+00:00
+    duration: 2.5
+    venue: 54
+    series: 448d922b-6012-44b4-9f3f-c3531399edb9
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 143
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: 'Big Smoke Improv #5'
+    image: event/saba.jpg
+    event_type: S
+    start_time: 2020-01-06 20:00:00+00:00
+    duration: 2.0
+    venue: 60
+    series: 5d64fe2d-7a22-4f66-8401-43931d276471
+    teams:
+    - 121
+    - 124
+    - 13
+    special_guests:
+    - 330
+- model: uk_improv_guide.event
+  pk: 144
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: 'Big Smoke Improv #6'
+    image: ''
+    event_type: S
+    start_time: 2020-01-13 20:00:00+00:00
+    duration: 2.0
+    venue: 3
+    series: 5d64fe2d-7a22-4f66-8401-43931d276471
+    teams:
+    - 1
+    - 125
+    - 126
+    special_guests: []
 - model: uk_improv_guide.festival
   pk: 1
   fields:
@@ -10334,4 +10862,29 @@
     teams:
     - 68
     - 26
+    teachers: []
+- model: uk_improv_guide.festival
+  pk: 5
+  fields:
+    facebook_link: https://www.facebook.com/improfestuk/
+    website_link: http://www.improfestuk.co.uk/
+    eventbrite_link: https://www.eventbrite.co.uk/o/martyn-hill-improfestuk-28455422333
+    name: Improfest UK
+    image: event/Improfest_UK_2019.jpg
+    festival_type: F
+    start_time: 2019-12-09 20:30:00+00:00
+    end_time: 2019-12-15 21:30:00+00:00
+    school: null
+    venues:
+    - 55
+    teams:
+    - 120
+    - 121
+    - 117
+    - 50
+    - 119
+    - 105
+    - 14
+    - 115
+    - 118
     teachers: []
