@@ -5468,6 +5468,141 @@
     alias: ''
     imdb_link: ''
     teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 337
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Jennifer
+    middle_names: ''
+    family_name: Tyler
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 338
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Olivia
+    middle_names: ''
+    family_name: Anwar
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 339
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Chloe
+    middle_names: ''
+    family_name: Goodman
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 340
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Kaarina
+    middle_names: ''
+    family_name: Kendall
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 341
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Catherine
+    middle_names: ''
+    family_name: Haslam
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 342
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Jess
+    middle_names: ''
+    family_name: Napier
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 343
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Laurie
+    middle_names: ''
+    family_name: Stevens
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 344
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Cliff
+    middle_names: ''
+    family_name: Andraahday
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 345
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Scott
+    middle_names: ''
+    family_name: Morton
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
 - model: uk_improv_guide.venue
   pk: 1
   fields:
@@ -8430,7 +8565,17 @@
     name: Ladies Present
     image: ''
     players:
+    - 338
+    - 166
+    - 339
+    - 46
+    - 104
+    - 341
     - 329
+    - 340
+    - 342
+    - 343
+    - 322
 - model: uk_improv_guide.team
   pk: 125
   fields:
@@ -8440,9 +8585,15 @@
     contact_email_address: ''
     instagram_link: ''
     name: Dirty Picnic
-    image: ''
+    image: team/Dirty_Picnic_2019_-_landscape_-_web_5fFDr8c.jpg
     players:
+    - 344
+    - 42
+    - 222
     - 329
+    - 345
+    - 326
+    - 337
 - model: uk_improv_guide.team
   pk: 126
   fields:
@@ -10746,9 +10897,9 @@
   fields:
     facebook_link: ''
     website_link: ''
-    eventbrite_link: ''
+    eventbrite_link: https://www.eventbrite.com/e/big-smoke-improv-5-tickets-88308624473
     name: 'Big Smoke Improv #5'
-    image: event/saba.jpg
+    image: event/big_smoke_improv_5.jpg
     event_type: S
     start_time: 2020-01-06 20:00:00+00:00
     duration: 2.0
@@ -10777,6 +10928,72 @@
     - 1
     - 125
     - 126
+    - 127
+    special_guests:
+    - 336
+- model: uk_improv_guide.event
+  pk: 145
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: Austentatious
+    image: ''
+    event_type: S
+    start_time: 2020-02-24 19:39:00+00:00
+    duration: 2.0
+    venue: 17
+    series: ae0e1240-ede4-4918-a182-a31910a62fdc
+    teams:
+    - 31
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 146
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: Austentatious
+    image: ''
+    event_type: S
+    start_time: 2020-03-02 19:39:00+00:00
+    duration: 2.0
+    venue: 17
+    series: ae0e1240-ede4-4918-a182-a31910a62fdc
+    teams:
+    - 31
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 147
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: Austentatious
+    image: ''
+    event_type: S
+    start_time: 2020-03-09 19:39:00+00:00
+    duration: 2.0
+    venue: 17
+    series: ae0e1240-ede4-4918-a182-a31910a62fdc
+    teams:
+    - 31
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 148
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: Austentatious
+    image: ''
+    event_type: S
+    start_time: 2020-03-16 19:39:00+00:00
+    duration: 2.0
+    venue: 17
+    series: ae0e1240-ede4-4918-a182-a31910a62fdc
+    teams:
+    - 31
     special_guests: []
 - model: uk_improv_guide.festival
   pk: 1
