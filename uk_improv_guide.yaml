@@ -43,6 +43,17 @@
     image: ''
     country: GB
 - model: uk_improv_guide.school
+  pk: 19dda5db-8cf9-48e7-b1b2-a3a26889f611
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Improvisation Fun
+    image: ''
+    country: GB
+- model: uk_improv_guide.school
   pk: 210c9701-5c1a-42f9-8487-c083ee8cf850
   fields:
     twitter_handle: ''
@@ -5603,6 +5614,21 @@
     alias: ''
     imdb_link: ''
     teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 347
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Chris
+    middle_names: ''
+    family_name: Sav
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
 - model: uk_improv_guide.venue
   pk: 1
   fields:
@@ -6503,6 +6529,36 @@
     country: GB
     school: null
     image: venue/cheshire_cheese.jpg
+- model: uk_improv_guide.venue
+  pk: 61
+  fields:
+    twitter_handle: ''
+    name: The Pembroke Castle
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: https://www.google.com/maps/uv?hl=en&pb=!1s0x48761aef17d35b95%3A0x11b9d78444bd4408!3m1!7e115!4s%2Fmaps%2Fplace%2Fpembroke%2Bcastle%2F%4051.5425677%2C-0.1551314%2C3a%2C75y%2C91.02h%2C90t%2Fdata%3D*213m4*211e1*213m2*211slxrqvRGQEMTbKCp5JBz1Ug*212e0*214m2*213
+    address: 150 Gloucester Ave, Primrose Hill
+    city: London
+    postcode: NW1 8JA
+    email_address: ''
+    country: GB
+    school: 19dda5db-8cf9-48e7-b1b2-a3a26889f611
+    image: venue/ThePembrookeCastle.PNG
+- model: uk_improv_guide.venue
+  pk: 62
+  fields:
+    twitter_handle: ''
+    name: Museum of Comedy
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: The Undercroft, St George's Church
+    city: London
+    postcode: WC1A 2SR
+    email_address: enquiries@museumofcomedy.com
+    country: GB
+    school: null
+    image: venue/museum_of_comedy.jpg
 - model: uk_improv_guide.course
   pk: 1
   fields:
@@ -6766,10 +6822,20 @@
     image: event_series/YesLand.PNG
     name: Yes Land - The Improv Jam
 - model: uk_improv_guide.eventseries
+  pk: 5cc3b83b-a8e0-49be-9889-9df862e197d6
+  fields:
+    image: ''
+    name: "TUESDAY EVENING \u2018Drop In\u2019"
+- model: uk_improv_guide.eventseries
   pk: 5d64fe2d-7a22-4f66-8401-43931d276471
   fields:
     image: ''
     name: Big Smoke
+- model: uk_improv_guide.eventseries
+  pk: 62a79ca3-908e-4353-ad4d-af3fdbb38de1
+  fields:
+    image: ''
+    name: 'CSI: Crime Scene Improvisation'
 - model: uk_improv_guide.eventseries
   pk: 702f88e9-8746-4c30-9792-c830c5e32626
   fields:
@@ -6790,6 +6856,11 @@
   fields:
     image: event_series/79232984_2850292958335065_4656775598713077760_o.jpg
     name: Maydays Drop-in Saturday
+- model: uk_improv_guide.eventseries
+  pk: 7b0c439a-5587-447d-9b12-d5100d1505de
+  fields:
+    image: ''
+    name: Improv For Well-being, Self-Confidence & Fun
 - model: uk_improv_guide.eventseries
   pk: 7c7ea5ce-91c4-4c3b-8cca-9d68b87d974a
   fields:
@@ -8625,6 +8696,28 @@
     players:
     - 335
     - 257
+- model: uk_improv_guide.team
+  pk: 128
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/crimesceneimpro/
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: 'CSI: Crime Scene Improvisation'
+    image: ''
+    players: []
+- model: uk_improv_guide.team
+  pk: 129
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: John & Rory
+    image: ''
+    players: []
 - model: uk_improv_guide.event
   pk: 1
   fields:
@@ -10994,6 +11087,225 @@
     series: ae0e1240-ede4-4918-a182-a31910a62fdc
     teams:
     - 31
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 149
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: "TUESDAY EVENING \u2018Drop In\u2019"
+    image: ''
+    event_type: W
+    start_time: 2020-01-14 19:00:00+00:00
+    duration: 2.0
+    venue: 50
+    series: 5cc3b83b-a8e0-49be-9889-9df862e197d6
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 150
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: "TUESDAY EVENING \u2018Drop In\u2019"
+    image: ''
+    event_type: W
+    start_time: 2020-01-21 19:00:00+00:00
+    duration: 2.0
+    venue: 50
+    series: 5cc3b83b-a8e0-49be-9889-9df862e197d6
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 151
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: "TUESDAY EVENING \u2018Drop In\u2019"
+    image: ''
+    event_type: W
+    start_time: 2020-01-28 19:00:00+00:00
+    duration: 2.0
+    venue: 50
+    series: 5cc3b83b-a8e0-49be-9889-9df862e197d6
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 152
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: "TUESDAY EVENING \u2018Drop In\u2019"
+    image: ''
+    event_type: W
+    start_time: 2020-02-04 19:00:00+00:00
+    duration: 2.0
+    venue: 50
+    series: 5cc3b83b-a8e0-49be-9889-9df862e197d6
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 153
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: "TUESDAY EVENING \u2018Drop In\u2019"
+    image: ''
+    event_type: W
+    start_time: 2020-02-11 19:00:00+00:00
+    duration: 2.0
+    venue: 50
+    series: 5cc3b83b-a8e0-49be-9889-9df862e197d6
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 154
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: "TUESDAY EVENING \u2018Drop In\u2019"
+    image: ''
+    event_type: W
+    start_time: 2020-02-18 19:00:00+00:00
+    duration: 2.0
+    venue: 50
+    series: 5cc3b83b-a8e0-49be-9889-9df862e197d6
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 155
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: "TUESDAY EVENING \u2018Drop In\u2019"
+    image: ''
+    event_type: W
+    start_time: 2020-02-25 19:00:00+00:00
+    duration: 2.0
+    venue: 50
+    series: 5cc3b83b-a8e0-49be-9889-9df862e197d6
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 156
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: https://www.eventbrite.co.uk/e/improvisation-session-in-aid-of-no-means-no-sexual-violence-prevention-tickets-77560392221?aff=ebapi
+    name: Improvisation For Queers and Allies
+    image: ''
+    event_type: W
+    start_time: 2020-01-09 19:00:00+00:00
+    duration: 2.0
+    venue: 52
+    series: 258c4bf8-7aed-4724-95e1-423bf354713c
+    teams: []
+    special_guests:
+    - 315
+- model: uk_improv_guide.event
+  pk: 157
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: https://www.eventbrite.co.uk/e/improvisation-session-in-aid-of-no-means-no-sexual-violence-prevention-tickets-77560392221?aff=ebapi
+    name: Improvisation For Queers and Allies
+    image: ''
+    event_type: W
+    start_time: 2020-01-16 19:00:00+00:00
+    duration: 2.0
+    venue: 52
+    series: 258c4bf8-7aed-4724-95e1-423bf354713c
+    teams: []
+    special_guests:
+    - 315
+- model: uk_improv_guide.event
+  pk: 158
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: https://www.eventbrite.co.uk/e/improvisation-session-in-aid-of-no-means-no-sexual-violence-prevention-tickets-77560392221?aff=ebapi
+    name: Improvisation For Queers and Allies
+    image: ''
+    event_type: W
+    start_time: 2020-01-23 19:00:00+00:00
+    duration: 2.0
+    venue: 52
+    series: 258c4bf8-7aed-4724-95e1-423bf354713c
+    teams: []
+    special_guests:
+    - 315
+- model: uk_improv_guide.event
+  pk: 159
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: https://www.eventbrite.co.uk/e/improvisation-session-in-aid-of-no-means-no-sexual-violence-prevention-tickets-77560392221?aff=ebapi
+    name: Improvisation For Queers and Allies
+    image: ''
+    event_type: W
+    start_time: 2020-01-30 19:00:00+00:00
+    duration: 2.0
+    venue: 52
+    series: 258c4bf8-7aed-4724-95e1-423bf354713c
+    teams: []
+    special_guests:
+    - 315
+- model: uk_improv_guide.event
+  pk: 160
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: https://www.meetup.com/Improvisation-Fun/events/dwbwgrybccbkb/
+    name: Improv For Well-being, Self-Confidence & Fun
+    image: ''
+    event_type: J
+    start_time: 2020-01-08 19:00:00+00:00
+    duration: 2.0
+    venue: 61
+    series: 7b0c439a-5587-447d-9b12-d5100d1505de
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 161
+  fields:
+    facebook_link: https://www.facebook.com/events/1349056635275741/
+    website_link: ''
+    eventbrite_link: ''
+    name: 'CSI: Presents at 2Northdown'
+    image: ''
+    event_type: S
+    start_time: 2020-02-07 19:00:00+00:00
+    duration: 2.0
+    venue: 40
+    series: 62a79ca3-908e-4353-ad4d-af3fdbb38de1
+    teams:
+    - 128
+    - 129
+    - 56
+    special_guests:
+    - 347
+- model: uk_improv_guide.event
+  pk: 162
+  fields:
+    facebook_link: https://www.facebook.com/events/1349056635275741/
+    website_link: ''
+    eventbrite_link: ''
+    name: 'CSI: Museum of Comedy'
+    image: ''
+    event_type: S
+    start_time: 2020-03-06 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: 62a79ca3-908e-4353-ad4d-af3fdbb38de1
+    teams:
+    - 128
     special_guests: []
 - model: uk_improv_guide.festival
   pk: 1
