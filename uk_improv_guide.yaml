@@ -10,6 +10,17 @@
     image: ''
     country: GB
 - model: uk_improv_guide.school
+  pk: 075f62fc-a9f9-42dd-b446-f2714712e1bd
+  fields:
+    twitter_handle: '@comedysportz_uk'
+    facebook_link: https://www.facebook.com/cszmanchesteruk
+    website_link: https://www.comedysportz.co.uk
+    contact_email_address: info@comedysportz.co.uk
+    instagram_link: https://www.instagram.com/cszmanchester/
+    name: CSzUK (ComedySportz Manchester UK)
+    image: school/NACN_2020.jpg
+    country: GB
+- model: uk_improv_guide.school
   pk: 077d5515-3a65-4dd1-bfc6-deaed70e16a6
   fields:
     twitter_handle: Nathanimprov
@@ -19,6 +30,17 @@
     instagram_link: http://www.instagram.com/nathanimprov1
     name: Bristol (NIL)
     image: school/NI_Local_bristol.jpg
+    country: GB
+- model: uk_improv_guide.school
+  pk: 089020b8-4a1e-4889-abc3-34e86935a7d5
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Unbound Theatre
+    image: ''
     country: GB
 - model: uk_improv_guide.school
   pk: 110e85c0-6f49-46da-be4b-1485d61a8ae9
@@ -31,6 +53,17 @@
     name: easylaughs
     image: ''
     country: NL
+- model: uk_improv_guide.school
+  pk: 1441bfeb-de63-4d71-9f98-38af59f9cd7d
+  fields:
+    twitter_handle: '@StartWithAYes'
+    facebook_link: http://www.facebook.com/startwithayes
+    website_link: https://startwithayes.co.uk/
+    contact_email_address: SwayImprov@gmail.com
+    instagram_link: ''
+    name: Start With A Yes
+    image: school/SWAY7_-_ver_2.jpg
+    country: GB
 - model: uk_improv_guide.school
   pk: 1858aee6-79ea-4ded-a235-f205fe400678
   fields:
@@ -51,6 +84,17 @@
     contact_email_address: ''
     instagram_link: ''
     name: Improvisation Fun
+    image: ''
+    country: GB
+- model: uk_improv_guide.school
+  pk: 1fd14db6-f502-46c7-a6e2-c1c0464445f6
+  fields:
+    twitter_handle: '@BritishImprov'
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: British Improv Project
     image: ''
     country: GB
 - model: uk_improv_guide.school
@@ -97,6 +141,17 @@
     name: Upright Citizens Brigade
     image: ''
     country: US
+- model: uk_improv_guide.school
+  pk: 36c65355-f6eb-46fe-bdcd-d3f551912ae4
+  fields:
+    twitter_handle: imprology
+    facebook_link: https://www.facebook.com/imprology/
+    website_link: http://imprology.com
+    contact_email_address: ''
+    instagram_link: https://www.instagram.com/explore/tags/imprology/
+    name: imprology
+    image: school/imprology.jpg
+    country: GB
 - model: uk_improv_guide.school
   pk: 3a686fb2-b9a0-4462-80ea-eb931c4ceb07
   fields:
@@ -318,6 +373,17 @@
     image: ''
     country: GB
 - model: uk_improv_guide.school
+  pk: 7805ebcc-fdfb-4e0d-902f-d95c2bf0815d
+  fields:
+    twitter_handle: '@ImprovGym'
+    facebook_link: https://m.facebook.com/ImprovGym/
+    website_link: https://www.creativefolkestone.org.uk/get-creative/community-events/improv-gym-drop-in/
+    contact_email_address: improvgymteam@gmail.com
+    instagram_link: ''
+    name: Improv Gym at The Quarterhouse Theatre, Folkestone, Kent, UK
+    image: ''
+    country: GB
+- model: uk_improv_guide.school
   pk: 8e547929-8621-42f7-b55f-901226eeec3b
   fields:
     twitter_handle: ''
@@ -339,6 +405,39 @@
     name: The Improfessionals
     image: ''
     country: FR
+- model: uk_improv_guide.school
+  pk: 96948a7f-eed1-4dd2-93a9-fa0d7569f564
+  fields:
+    twitter_handle: '@LaughterAcademy'
+    facebook_link: https://www.facebook.com/LaughterAcademy/
+    website_link: ''
+    contact_email_address: lee.tearrell@hotmail.com
+    instagram_link: ''
+    name: THE LAUGHTER ACADEMY
+    image: school/LAUGHTER_ACADEMY_BANNER_PIC_FOR_IMPRO_WORKSHOPS.jpg
+    country: GB
+- model: uk_improv_guide.school
+  pk: 9784efdd-c8dd-4695-aca2-5e330f89ad37
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: The Same Faces
+    image: ''
+    country: GB
+- model: uk_improv_guide.school
+  pk: 9a3e552e-aafa-4603-8058-2f25988907a5
+  fields:
+    twitter_handle: '@thefollyimprov'
+    facebook_link: https://www.facebook.com/thefollyimprov
+    website_link: http://follyimprov.com
+    contact_email_address: thefolly@mail.com
+    instagram_link: http://Instagram.com/thefollyimprov
+    name: The Folly School of Improvised Comedy
+    image: ''
+    country: GB
 - model: uk_improv_guide.school
   pk: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
   fields:
@@ -383,6 +482,17 @@
     name: Eux
     image: ''
     country: FR
+- model: uk_improv_guide.school
+  pk: c3de37a4-f36a-417e-ac62-bbd48aecd7f9
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Improv Transformations
+    image: ''
+    country: GB
 - model: uk_improv_guide.school
   pk: ca5f7a5a-d1c7-4cc2-9d12-677df5b2f1f4
   fields:
@@ -450,6 +560,17 @@
     image: school/rhymes-logo-april.png
     country: GB
 - model: uk_improv_guide.school
+  pk: ea1adca5-75d7-41c8-aa7b-391779fe322b
+  fields:
+    twitter_handle: ImproQuo
+    facebook_link: https://twitter.com/ImproQuo/
+    website_link: https://improquo.co/
+    contact_email_address: ''
+    instagram_link: ''
+    name: ImproQuo
+    image: ''
+    country: GB
+- model: uk_improv_guide.school
   pk: f1124791-2dad-46db-abb2-d2995ea3522f
   fields:
     twitter_handle: ''
@@ -515,7 +636,7 @@
 - model: uk_improv_guide.performer
   pk: 3
   fields:
-    twitter_handle: ''
+    twitter_handle: brooke_hoerr
     facebook_link: ''
     website_link: ''
     contact_email_address: brookeroberthoerr@hotmail.com
@@ -2439,7 +2560,8 @@
     image: ''
     alias: ''
     imdb_link: ''
-    teaches_for: []
+    teaches_for:
+    - 7805ebcc-fdfb-4e0d-902f-d95c2bf0815d
 - model: uk_improv_guide.performer
   pk: 133
   fields:
@@ -3258,7 +3380,9 @@
     image: ''
     alias: ''
     imdb_link: ''
-    teaches_for: []
+    teaches_for:
+    - 1fd14db6-f502-46c7-a6e2-c1c0464445f6
+    - 9784efdd-c8dd-4695-aca2-5e330f89ad37
 - model: uk_improv_guide.performer
   pk: 190
   fields:
@@ -5312,7 +5436,7 @@
     family_name: O'Donoghue
     image: ''
     alias: ''
-    imdb_link: ''
+    imdb_link: https://m.imdb.com/name/nm5011264/
     teaches_for: []
 - model: uk_improv_guide.performer
   pk: 326
@@ -5629,6 +5753,609 @@
     alias: ''
     imdb_link: ''
     teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 348
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Neil
+    middle_names: ''
+    family_name: Goulder
+    image: performer/Neil.png
+    alias: Neil Goulder
+    imdb_link: ''
+    teaches_for:
+    - 1fd14db6-f502-46c7-a6e2-c1c0464445f6
+    - 089020b8-4a1e-4889-abc3-34e86935a7d5
+- model: uk_improv_guide.performer
+  pk: 349
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Kati
+    middle_names: ''
+    family_name: Fogg
+    image: ''
+    alias: Kati Fogg
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 350
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Emily
+    middle_names: Katherine
+    family_name: Pugh
+    image: ''
+    alias: Emily Pugh
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 351
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Gareth
+    middle_names: ''
+    family_name: Johnson
+    image: ''
+    alias: Gareth Johnson
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 352
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Daniel
+    middle_names: ''
+    family_name: McGinty
+    image: ''
+    alias: Daniel McGinty
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 353
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Pete
+    middle_names: ''
+    family_name: Benson
+    image: ''
+    alias: Pete Benson
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 354
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Alice
+    middle_names: ''
+    family_name: Early
+    image: ''
+    alias: Alice Early
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 355
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Brian
+    middle_names: ''
+    family_name: Murray
+    image: ''
+    alias: Brian Murray
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 356
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Luke
+    middle_names: ''
+    family_name: Beahan
+    image: ''
+    alias: Luke Beahan
+    imdb_link: ''
+    teaches_for:
+    - c3de37a4-f36a-417e-ac62-bbd48aecd7f9
+- model: uk_improv_guide.performer
+  pk: 357
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Jacqueline
+    middle_names: ''
+    family_name: Black
+    image: ''
+    alias: Jacqueline Black
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 358
+  fields:
+    twitter_handle: '@LaughterAcademy'
+    facebook_link: https://www.facebook.com/LaughterAcademy/
+    website_link: ''
+    contact_email_address: lee.tearrell@hotmail.com
+    instagram_link: ''
+    first_name: LEE
+    middle_names: ''
+    family_name: TEARRELL
+    image: performer/Lee_Accept_and_Build.jpeg
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 359
+  fields:
+    twitter_handle: '@LaughterAcademy'
+    facebook_link: https://www.facebook.com/LaughterAcademy/
+    website_link: ''
+    contact_email_address: lee.tearrell@hotmail.com
+    instagram_link: ''
+    first_name: LEE
+    middle_names: ''
+    family_name: TEARRELL
+    image: performer/Lee_Accept_and_Build_ndw9wki.jpeg
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 360
+  fields:
+    twitter_handle: jamescann
+    facebook_link: ''
+    website_link: http://www.jamescann.com
+    contact_email_address: ''
+    instagram_link: http://www.instagram.com/jamesfcann
+    first_name: James
+    middle_names: ''
+    family_name: Cann
+    image: performer/IMG-20161203-WA0005.jpg
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 361
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/thetuesdaygroupimprov
+    website_link: https://www.thetuesdaygroup.org.uk
+    contact_email_address: ged@thetuesdaygroup.org.uk
+    instagram_link: ''
+    first_name: Ged
+    middle_names: ''
+    family_name: Quayle
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 362
+  fields:
+    twitter_handle: '@FntsyWlkr'
+    facebook_link: https://www.facebook.com/fntsywlkr
+    website_link: http://davidescobedo.net/
+    contact_email_address: D@vid-Escobedo.com
+    instagram_link: https://www.instagram.com/fntsywlkr/
+    first_name: David
+    middle_names: ''
+    family_name: Escobedo
+    image: ''
+    alias: ''
+    imdb_link: https://www.imdb.com/name/nm9612175/?ref_=fn_al_nm_1
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 363
+  fields:
+    twitter_handle: '@FntsyWlkr'
+    facebook_link: http://www.facebook.com/fntsywlkr
+    website_link: http://DavidEscobedo.net/
+    contact_email_address: D@vid-Escobedo.com
+    instagram_link: http://www.instagram.com/fntsywlkr
+    first_name: David
+    middle_names: ''
+    family_name: Escobedo
+    image: performer/57564698_2304780342877434_6554292820100775936_n.jpg
+    alias: ''
+    imdb_link: https://www.imdb.com/name/nm9612175/?ref_=fn_al_nm_1
+    teaches_for:
+    - 1441bfeb-de63-4d71-9f98-38af59f9cd7d
+- model: uk_improv_guide.performer
+  pk: 364
+  fields:
+    twitter_handle: '@comedysportz_uk'
+    facebook_link: https://www.facebook.com/cszmanchesteruk
+    website_link: https://www.comedysportz.co.uk
+    contact_email_address: bron@comedysportz.co.uk
+    instagram_link: https://www.instagram.com/cszmanchester/
+    first_name: Brainne
+    middle_names: ''
+    family_name: Edge
+    image: performer/brainne.jpg
+    alias: ''
+    imdb_link: ''
+    teaches_for:
+    - 075f62fc-a9f9-42dd-b446-f2714712e1bd
+- model: uk_improv_guide.performer
+  pk: 365
+  fields:
+    twitter_handle: '@comedysportz_uk'
+    facebook_link: https://www.facebook.com/cszmanchesteruk
+    website_link: https://www.comedysportz.co.uk
+    contact_email_address: sean@comedysportz.co.uk
+    instagram_link: https://www.instagram.com/cszmanchester/
+    first_name: Sean
+    middle_names: ''
+    family_name: Mason
+    image: performer/sean.jpg
+    alias: ''
+    imdb_link: ''
+    teaches_for:
+    - 075f62fc-a9f9-42dd-b446-f2714712e1bd
+- model: uk_improv_guide.performer
+  pk: 366
+  fields:
+    twitter_handle: '@comedysportz_uk'
+    facebook_link: https://www.facebook.com/cszmanchesteruk
+    website_link: https://www.comedysportz.co.uk
+    contact_email_address: kate@comedysportz.co.uk
+    instagram_link: https://www.instagram.com/cszmanchester/
+    first_name: Kate
+    middle_names: ''
+    family_name: McCabe
+    image: performer/kate.jpg
+    alias: ''
+    imdb_link: ''
+    teaches_for:
+    - 075f62fc-a9f9-42dd-b446-f2714712e1bd
+- model: uk_improv_guide.performer
+  pk: 367
+  fields:
+    twitter_handle: '@comedysportz_uk'
+    facebook_link: https://www.facebook.com/cszmanchesteruk
+    website_link: https://www.comedysportz.co.uk
+    contact_email_address: lukas@comedysportz.co.uk
+    instagram_link: https://www.instagram.com/cszmanchester/
+    first_name: Lukas
+    middle_names: ''
+    family_name: Kirkby
+    image: performer/Lukas.jpg
+    alias: ''
+    imdb_link: ''
+    teaches_for:
+    - 075f62fc-a9f9-42dd-b446-f2714712e1bd
+- model: uk_improv_guide.performer
+  pk: 368
+  fields:
+    twitter_handle: '@comedysportz_uk'
+    facebook_link: https://www.facebook.com/cszmanchesteruk
+    website_link: https://www.comedysportz.co.uk
+    contact_email_address: john@comedysportz.co.uk
+    instagram_link: https://www.instagram.com/cszmanchester/
+    first_name: John
+    middle_names: ''
+    family_name: Cooper
+    image: performer/john.jpg
+    alias: ''
+    imdb_link: ''
+    teaches_for:
+    - 075f62fc-a9f9-42dd-b446-f2714712e1bd
+- model: uk_improv_guide.performer
+  pk: 369
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: http://follyimprov.com
+    contact_email_address: pum3@yahoo.co.uk
+    instagram_link: ''
+    first_name: Sophie
+    middle_names: ''
+    family_name: Pumphrey
+    image: performer/face1.jpg
+    alias: ''
+    imdb_link: ''
+    teaches_for:
+    - 9a3e552e-aafa-4603-8058-2f25988907a5
+- model: uk_improv_guide.performer
+  pk: 370
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Stephen
+    middle_names: ''
+    family_name: Davidson
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for:
+    - 5b8100d9-7a66-4e1a-babf-f367a944eece
+- model: uk_improv_guide.performer
+  pk: 371
+  fields:
+    twitter_handle: jjenniferjordan
+    facebook_link: ''
+    website_link: http://jennifer-jordan.co.uk/
+    contact_email_address: hello@jennifer-jordan.co.uk
+    instagram_link: ''
+    first_name: Jennifer
+    middle_names: ''
+    family_name: Jordan
+    image: performer/Jennifer_Jordan_Impromptu_Shakespeare.jpg
+    alias: Jennifer Jordan
+    imdb_link: https://www.imdb.com/name/nm3480324/
+    teaches_for:
+    - 4417fb61-86de-4ab8-8f68-055b5a453662
+    - 4322f66b-c7f9-4c62-917b-363895f7381c
+    - 5b8100d9-7a66-4e1a-babf-f367a944eece
+- model: uk_improv_guide.performer
+  pk: 372
+  fields:
+    twitter_handle: '@yesandstephen'
+    facebook_link: https://www.facebook.com/stephen.davidson.9659
+    website_link: https://impromiscuous.com/
+    contact_email_address: stephen@thenurserytheatre.com
+    instagram_link: https://www.instagram.com/stephendavidson84
+    first_name: Stephen
+    middle_names: ''
+    family_name: Davidson
+    image: performer/Stephen_Smile_2.jpg
+    alias: Stephen Davidson
+    imdb_link: ''
+    teaches_for:
+    - 4417fb61-86de-4ab8-8f68-055b5a453662
+    - 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
+    - 5b8100d9-7a66-4e1a-babf-f367a944eece
+- model: uk_improv_guide.performer
+  pk: 373
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Tom
+    middle_names: ''
+    family_name: Manning
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 374
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Simon
+    middle_names: ''
+    family_name: Weekes
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 375
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Chris
+    middle_names: ''
+    family_name: Morrow
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 376
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Remy
+    middle_names: ''
+    family_name: Bertrand
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for:
+    - 36c65355-f6eb-46fe-bdcd-d3f551912ae4
+- model: uk_improv_guide.performer
+  pk: 377
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Daniel
+    middle_names: ''
+    family_name: Smith
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 378
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Rebecca
+    middle_names: ''
+    family_name: Channon
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 379
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Brooke
+    middle_names: ''
+    family_name: Bourgeois
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 380
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Vicky
+    middle_names: ''
+    family_name: Hawley
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 381
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Ivan
+    middle_names: ''
+    family_name: Tchernev
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 382
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Trynity
+    middle_names: ''
+    family_name: Silk
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 383
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Martin
+    middle_names: ''
+    family_name: Clark
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 384
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Julie
+    middle_names: ''
+    family_name: Flower
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 385
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Julie
+    middle_names: ''
+    family_name: Flower
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 386
+  fields:
+    twitter_handle: '@lisaronaghan'
+    facebook_link: https://www.facebook.com/lisaronaghan/
+    website_link: http://lisaronaghan.com
+    contact_email_address: l.ronaghan@gmail.com
+    instagram_link: https://www.instagram.com/lisaronaghan.alabasteractor/?hl=en
+    first_name: Lisa
+    middle_names: ''
+    family_name: Ronaghan
+    image: performer/Comedy_Promo_Photo.JPG
+    alias: ''
+    imdb_link: https://pro.imdb.com/name/nm4935021/?ref_=instant_nm_1&q=lisa%20ronaghan
+    teaches_for: []
 - model: uk_improv_guide.venue
   pk: 1
   fields:
@@ -5785,8 +6512,8 @@
     twitter_handle: ''
     name: The Bill Murray
     facebook_link: ''
-    website_link: ''
-    google_maps_link: ''
+    website_link: https://www.angelcomedy.co.uk/bill-murray
+    google_maps_link: https://www.google.com/maps/place/The+Bill+Murray/@51.536292,-0.0988111,15z/data=!4m5!3m4!1s0x0:0xef8e58b0080d4d90!8m2!3d51.536292!4d-0.0988111
     address: 39 Queen's Head St
     city: London
     postcode: N1 8NQ
@@ -6078,7 +6805,7 @@
     email_address: ''
     country: GB
     school: 5b8100d9-7a66-4e1a-babf-f367a944eece
-    image: venue/FB_Event_Cover_Both_Maydays_Dropin_6_-_smaller.jpg
+    image: venue/aegis_productions_0004.jpg
 - model: uk_improv_guide.venue
   pk: 31
   fields:
@@ -6559,6 +7286,426 @@
     country: GB
     school: null
     image: venue/museum_of_comedy.jpg
+- model: uk_improv_guide.venue
+  pk: 63
+  fields:
+    twitter_handle: ''
+    name: The Comedy School
+    facebook_link: ''
+    website_link: https://thecomedyschool.com/
+    google_maps_link: ''
+    address: 14-15 Gloucester Gate
+    city: London
+    postcode: NW1 4HG
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/ComedySchool.png
+- model: uk_improv_guide.venue
+  pk: 64
+  fields:
+    twitter_handle: ''
+    name: Queens Park Centre and Limelight Theatre
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: Queens Park
+    city: Aylesbury
+    postcode: HP21 7RT
+    email_address: ''
+    country: GB
+    school: 089020b8-4a1e-4889-abc3-34e86935a7d5
+    image: venue/QPC.jpg
+- model: uk_improv_guide.venue
+  pk: 65
+  fields:
+    twitter_handle: '@MarketHouseBrix'
+    name: Market House
+    facebook_link: https://www.facebook.com/markethousebrixton/
+    website_link: https://www.market-house.co.uk
+    google_maps_link: https://www.google.com/maps/place/Market+House/@51.4614468,-0.1163159,17z/data=!3m1!4b1!4m5!3m4!1s0x4876046535f9d575:0x90a4a419e12d6363!8m2!3d51.4614468!4d-0.1141272
+    address: 443 Coldharbour Lane
+    city: London
+    postcode: SW9 8LN
+    email_address: ''
+    country: GB
+    school: dbcb6379-a8b2-418f-938b-602623baa2be
+    image: venue/Market_House.jpg
+- model: uk_improv_guide.venue
+  pk: 66
+  fields:
+    twitter_handle: camdenpt
+    name: Camden People's Theatre
+    facebook_link: https://www.facebook.com/CamdenPeoplesTheatre/
+    website_link: https://www.cptheatre.co.uk/
+    google_maps_link: ''
+    address: 58-60 Hampstead Rd, London
+    city: London
+    postcode: NW1 2PY
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/camden-peoples-theatre-logo.png
+- model: uk_improv_guide.venue
+  pk: 67
+  fields:
+    twitter_handle: ''
+    name: Bristol Old Vic
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: King Street
+    city: Bristol
+    postcode: BS1 4ED
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/Bov.jpg
+- model: uk_improv_guide.venue
+  pk: 68
+  fields:
+    twitter_handle: '@thevaultsuk'
+    name: The Vaults
+    facebook_link: https://www.facebook.com/thevaultsuk/
+    website_link: https://www.thevaults.london/
+    google_maps_link: ''
+    address: Leake Street via York Road
+    city: London
+    postcode: SE1 7NN
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/download_2.jfif
+- model: uk_improv_guide.venue
+  pk: 69
+  fields:
+    twitter_handle: ''
+    name: Arcola Theatre
+    facebook_link: https://www.arcolatheatre.com/
+    website_link: ''
+    google_maps_link: ''
+    address: 24 Ashwin St
+    city: London
+    postcode: E8 3DL
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/download_3.jfif
+- model: uk_improv_guide.venue
+  pk: 70
+  fields:
+    twitter_handle: ''
+    name: CRAMPHORN THEATRE
+    facebook_link: ''
+    website_link: https://www.chelmsford.gov.uk/theatres/
+    google_maps_link: https://www.google.com/maps/place/Civic+Theatre/@51.736419,0.465764,16z/data=!4m5!3m4!1s0x0:0x9b0dc68d9b92c29d!8m2!3d51.7364186!4d0.4657636?hl=en-GB
+    address: FAIRFIELD ROAD
+    city: CHELMSFORD
+    postcode: CM1 1JG
+    email_address: boxoffice@chelmsford.gov.uk
+    country: GB
+    school: 96948a7f-eed1-4dd2-93a9-fa0d7569f564
+    image: venue/CIVIC__CRAMPHORN_THEATRE_CHELMSFORD_.jpg
+- model: uk_improv_guide.venue
+  pk: 71
+  fields:
+    twitter_handle: ''
+    name: Stoke Rochford Hall
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: '[Un-named Road]'
+    city: Grantham
+    postcode: NG33 5EJ
+    email_address: ''
+    country: GB
+    school: 1fd14db6-f502-46c7-a6e2-c1c0464445f6
+    image: venue/Stoke_Rochford.jpg
+- model: uk_improv_guide.venue
+  pk: 72
+  fields:
+    twitter_handle: ''
+    name: The Peacock Bar
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: 25 North Parade
+    city: Bradford
+    postcode: BD1 3JL
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/peacockfrontage.jpg
+- model: uk_improv_guide.venue
+  pk: 73
+  fields:
+    twitter_handle: ''
+    name: Ginger Goose, The
+    facebook_link: https://fb.me/gingergoosebar
+    website_link: http://www.gingergoose.co.uk/
+    google_maps_link: ''
+    address: 71 Market Street
+    city: Bradford
+    postcode: BD1 1LH
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/gglogo.png
+- model: uk_improv_guide.venue
+  pk: 74
+  fields:
+    twitter_handle: '@TheLockkeeperC'
+    name: The Lock Keeper
+    facebook_link: www.facebook.com/LockKeeperChester
+    website_link: http://thelockkeeper.co.uk/
+    google_maps_link: https://goo.gl/maps/12w72C1AgeDmS3XK9
+    address: Canal Side
+    city: Chester
+    postcode: CH1 3LH
+    email_address: info@thelockkeeper.co.uk
+    country: GB
+    school: null
+    image: venue/Lock_Keeper.png
+- model: uk_improv_guide.venue
+  pk: 75
+  fields:
+    twitter_handle: ''
+    name: Commonhall Social
+    facebook_link: www.facebook.com/Commonhallsocial
+    website_link: www.commonhall.co.uk
+    google_maps_link: ''
+    address: 10 Commonhall Street
+    city: Chester
+    postcode: CH1 2BJ
+    email_address: info@commonhall.co.uk
+    country: GB
+    school: 1441bfeb-de63-4d71-9f98-38af59f9cd7d
+    image: venue/Commonhall.png
+- model: uk_improv_guide.venue
+  pk: 76
+  fields:
+    twitter_handle: '@comedysportz_uk'
+    name: Thoughtworks
+    facebook_link: https://www.facebook.com/cszmanchesteruk
+    website_link: https://www.comedysportz.co.uk
+    google_maps_link: https://goo.gl/maps/EwAki94Z8zzkZvVK9
+    address: (Floor 4) Federation House, 2 Federation St
+    city: Manchester
+    postcode: M4 4BF
+    email_address: info@comedysportz.co.uk
+    country: GB
+    school: 075f62fc-a9f9-42dd-b446-f2714712e1bd
+    image: venue/NACN_2020.jpg
+- model: uk_improv_guide.venue
+  pk: 77
+  fields:
+    twitter_handle: '@WatersideArts'
+    name: Waterside Arts
+    facebook_link: https://https://www.facebook.com/watersidearts
+    website_link: https://watersidearts.org/
+    google_maps_link: https://goo.gl/maps/ungs2RNKvFa481VZ9
+    address: 1 Waterside Plaza
+    city: Manchester
+    postcode: M33 7ZF
+    email_address: hello@watersidearts.org
+    country: GB
+    school: 075f62fc-a9f9-42dd-b446-f2714712e1bd
+    image: venue/group2020.jpg
+- model: uk_improv_guide.venue
+  pk: 78
+  fields:
+    twitter_handle: ''
+    name: Pollyanna Training Theatre
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: 15 Chandler St
+    city: London
+    postcode: E1W 2QL
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/pollyanna.jpeg
+- model: uk_improv_guide.venue
+  pk: 79
+  fields:
+    twitter_handle: ''
+    name: The Wellington
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: 37 Bennetts Hill
+    city: Birmingham
+    postcode: B2 5SN
+    email_address: pum3@yahoo.co.uk
+    country: GB
+    school: 9a3e552e-aafa-4603-8058-2f25988907a5
+    image: venue/10334325_878364928059_6214362738504224445_n.jpg
+- model: uk_improv_guide.venue
+  pk: 80
+  fields:
+    twitter_handle: '@thefollyimprov'
+    name: The Pint Shop
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: 38 Bennetts Hill
+    city: Birmingham
+    postcode: B2 5SN
+    email_address: pum3@yahoo.co.uk
+    country: GB
+    school: 9a3e552e-aafa-4603-8058-2f25988907a5
+    image: venue/10334325_878364928059_6214362738504224445_n_RP1a2i8.jpg
+- model: uk_improv_guide.venue
+  pk: 81
+  fields:
+    twitter_handle: ''
+    name: Remark!
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: 18 Leather Ln, Holborn
+    city: London
+    postcode: EC1N 7SU
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/77429099_2857398747624486_4552373142839885824_o.jpg
+- model: uk_improv_guide.venue
+  pk: 82
+  fields:
+    twitter_handle: ''
+    name: 504 Arch
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: 504 Ridgway Road
+    city: London
+    postcode: SW9 7EX
+    email_address: mail@thenurserytheatre.com
+    country: GB
+    school: 5b8100d9-7a66-4e1a-babf-f367a944eece
+    image: venue/31351394_192127444919325_2237205832641019904_o.jpg
+- model: uk_improv_guide.venue
+  pk: 83
+  fields:
+    twitter_handle: '@draytonarmsSW5'
+    name: Drayton Arms Theatre
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: 153 Old Brompton Road
+    city: London
+    postcode: SW5 0LJ
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/Screenshot_2020-01-29_at_10.06.36.png
+- model: uk_improv_guide.venue
+  pk: 84
+  fields:
+    twitter_handle: '@draytonarmsSW5'
+    name: The Drayton Arms Theatre
+    facebook_link: ''
+    website_link: https://www.thedraytonarmstheatre.co.uk/
+    google_maps_link: ''
+    address: 153 Old Brompton Road
+    city: London
+    postcode: SW5 0LJ
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/Screenshot_2020-01-29_at_10.06.36_QRwgEqh.png
+- model: uk_improv_guide.venue
+  pk: 85
+  fields:
+    twitter_handle: ''
+    name: Salford Arms
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: 146 Chapel Street
+    city: Manchester
+    postcode: M3 6AF
+    email_address: ''
+    country: GB
+    school: ea1adca5-75d7-41c8-aa7b-391779fe322b
+    image: venue/SalfordArms.png
+- model: uk_improv_guide.venue
+  pk: 86
+  fields:
+    twitter_handle: Fearon_hall16
+    name: Fearon Hall
+    facebook_link: https://www.facebook.com/pages/Fearon-Hall/251766004855412
+    website_link: http://fearonhall.org.uk/
+    google_maps_link: https://www.google.com/maps/place/Fearon+Hall,+Rectory+Rd,+Loughborough+LE11+1PL/data=!4m2!3m1!1s0x4879e0ae24cb6fc9:0xaccfae3136dcd3c2?sa=X&ved=2ahUKEwirnKmgy9jnAhXzpHEKHeHHD3QQ8gEwAHoECAkQAQ
+    address: Rectory Road
+    city: Loughbourgh
+    postcode: LE11 1PL
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/Fearon.png
+- model: uk_improv_guide.venue
+  pk: 87
+  fields:
+    twitter_handle: none
+    name: The Cheshire Cheese
+    facebook_link: https://www.facebook.com/cheshirecheesetemple/
+    website_link: https://www.cheshirecheese.pub/
+    google_maps_link: https://www.google.com/search?q=cheshire%20cheese%20pub&rlz=1C1CHBF_en-GBGB880GB880&oq=chesire+cheese+pub&aqs=chrome..69i57j0l7.3997j0j7&sourceid=chrome&ie=UTF-8&safe=active&sxsrf=ACYBGNSgtjtPqclW0Rz9XUz6l7C6FCZakw:1581954016073&npsic=0&rflfq=1&rlha=0&rlla
+    address: 5 Little Essex Street
+    city: London
+    postcode: WC2R 3LD
+    email_address: cheshirecheese@shepherdneame.co.uk
+    country: GB
+    school: null
+    image: venue/ChesireCheese.png
+- model: uk_improv_guide.venue
+  pk: 88
+  fields:
+    twitter_handle: ''
+    name: St Giles International
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: ''
+    address: 154 Southampton Row
+    city: London
+    postcode: WC1B 5JX
+    email_address: ''
+    country: GB
+    school: 5b8100d9-7a66-4e1a-babf-f367a944eece
+    image: venue/st_giles_international_london_central.jpg
+- model: uk_improv_guide.venue
+  pk: 89
+  fields:
+    twitter_handle: ''
+    name: The Outside Project
+    facebook_link: ''
+    website_link: https://lgbtiqoutside.org/
+    google_maps_link: https://www.google.com/maps/@51.5247118,-0.1102849,3a,75y,238.05h,84.94t/data=!3m6!1e1!3m4!1sqJ8xtj2o6lc-gu7_EmZ3qw!2e0!7i13312!8i6656
+    address: 44 Rosebery Ave
+    city: London
+    postcode: EC1R 3EA
+    email_address: ''
+    country: GB
+    school: null
+    image: venue/TheOutsideProject.png
+- model: uk_improv_guide.venue
+  pk: 90
+  fields:
+    twitter_handle: ''
+    name: The Unicorn
+    facebook_link: ''
+    website_link: ''
+    google_maps_link: https://www.google.com/maps/place/The+Unicorn/@53.4828442,-2.2398108,17z/data=!3m1!4b1!4m5!3m4!1s0x487bb1bf4dc96c43:0x3bf4f7903ae5c30c!8m2!3d53.4828442!4d-2.2376221
+    address: 26 Church St,
+    city: Manchester
+    postcode: M4 1PN
+    email_address: edgar_nk@hotmail.com
+    country: GB
+    school: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
+    image: venue/hoopla.jpg
 - model: uk_improv_guide.course
   pk: 1
   fields:
@@ -6781,6 +7928,185 @@
     number_of_lessons: 1
     class_show: false
     course_link: https://track96.com/events/intro-to-improvised-hip-hop/
+- model: uk_improv_guide.course
+  pk: 18
+  fields:
+    name: Beginner's Improv Comedy
+    image: ''
+    venue: 65
+    school: dbcb6379-a8b2-418f-938b-602623baa2be
+    teacher: null
+    start_time: 2020-01-16 19:00:00+00:00
+    lesson_duration: 2.5
+    number_of_lessons: 8
+    class_show: false
+    course_link: https://www.eventbrite.co.uk/e/ddg-improv-beginners-improv-comedy-course-tickets-81612821145?aff=ebdssbdestsearch
+- model: uk_improv_guide.course
+  pk: 19
+  fields:
+    name: Improv Comedy Course by David Escobedo
+    image: course/SWAY_-_postcard_Side_1_copy.jpg
+    venue: 75
+    school: 1441bfeb-de63-4d71-9f98-38af59f9cd7d
+    teacher: 363
+    start_time: 2020-01-14 19:00:00+00:00
+    lesson_duration: 3.0
+    number_of_lessons: 6
+    class_show: false
+    course_link: https://www.ticketsource.co.uk/startwithayes
+- model: uk_improv_guide.course
+  pk: 20
+  fields:
+    name: Foundation in Improv (8 week course)
+    image: course/foundation.jpg
+    venue: 76
+    school: 075f62fc-a9f9-42dd-b446-f2714712e1bd
+    teacher: 364
+    start_time: 2020-01-25 12:30:00+00:00
+    lesson_duration: 2.0
+    number_of_lessons: 8
+    class_show: false
+    course_link: https://www.comedysportz.co.uk/foundation-in-improvisation/
+- model: uk_improv_guide.course
+  pk: 21
+  fields:
+    name: Intro to Improvised Hip Hop
+    image: course/Intro_Hip_Hop.png
+    venue: 78
+    school: b223496f-2878-47e0-96ad-e166173a160f
+    teacher: 17
+    start_time: 2020-02-02 11:00:00+00:00
+    lesson_duration: 3.0
+    number_of_lessons: 1
+    class_show: false
+    course_link: https://track96.com/events/intro-to-improvised-hip-hop-2/
+- model: uk_improv_guide.course
+  pk: 22
+  fields:
+    name: Intro to Improvised Hip Hop
+    image: ''
+    venue: 78
+    school: b223496f-2878-47e0-96ad-e166173a160f
+    teacher: null
+    start_time: 2020-02-09 11:00:00+00:00
+    lesson_duration: 3.0
+    number_of_lessons: 1
+    class_show: false
+    course_link: https://track96.com/events/intro-to-improvised-hip-hop-3/
+- model: uk_improv_guide.course
+  pk: 23
+  fields:
+    name: Performers Course
+    image: ''
+    venue: 79
+    school: 9a3e552e-aafa-4603-8058-2f25988907a5
+    teacher: 369
+    start_time: 2020-02-10 19:00:00+00:00
+    lesson_duration: 2.5
+    number_of_lessons: 8
+    class_show: false
+    course_link: https://www.brownpapertickets.com/event/4425041
+- model: uk_improv_guide.course
+  pk: 24
+  fields:
+    name: Beginners Course
+    image: course/10334325_878364928059_6214362738504224445_n.jpg
+    venue: 80
+    school: 9a3e552e-aafa-4603-8058-2f25988907a5
+    teacher: null
+    start_time: 2020-02-12 19:00:00+00:00
+    lesson_duration: 2.5
+    number_of_lessons: 8
+    class_show: false
+    course_link: ''
+- model: uk_improv_guide.course
+  pk: 25
+  fields:
+    name: 'Level 1: Spontaneity'
+    image: ''
+    venue: 81
+    school: 5b8100d9-7a66-4e1a-babf-f367a944eece
+    teacher: 370
+    start_time: 2020-01-21 19:00:00+00:00
+    lesson_duration: 2.5
+    number_of_lessons: 8
+    class_show: false
+    course_link: https://www.brownpapertickets.com/event/4354652
+- model: uk_improv_guide.course
+  pk: 26
+  fields:
+    name: Duos
+    image: course/79289849_2864585713572456_6900672625329045504_o.jpg
+    venue: 82
+    school: 5b8100d9-7a66-4e1a-babf-f367a944eece
+    teacher: 58
+    start_time: 2020-02-04 19:00:00+00:00
+    lesson_duration: 2.5
+    number_of_lessons: 8
+    class_show: false
+    course_link: https://www.brownpapertickets.com/event/4354675
+- model: uk_improv_guide.course
+  pk: 27
+  fields:
+    name: 'Level 3: Storytelling'
+    image: course/70675298_2697746073589755_8238538660106993664_o.jpg
+    venue: 30
+    school: 5b8100d9-7a66-4e1a-babf-f367a944eece
+    teacher: 371
+    start_time: 2020-03-17 19:00:00+00:00
+    lesson_duration: 2.5
+    number_of_lessons: 8
+    class_show: false
+    course_link: https://www.brownpapertickets.com/event/4354685
+- model: uk_improv_guide.course
+  pk: 28
+  fields:
+    name: 'Level 2: Character'
+    image: course/71290071_2697766126921083_4361264930872098816_o.jpg
+    venue: 82
+    school: 5b8100d9-7a66-4e1a-babf-f367a944eece
+    teacher: 55
+    start_time: 2020-03-31 19:00:00+00:00
+    lesson_duration: 2.5
+    number_of_lessons: 8
+    class_show: false
+    course_link: https://www.brownpapertickets.com/event/4354660
+- model: uk_improv_guide.course
+  pk: 29
+  fields:
+    name: 'Level 1: Spontaneity'
+    image: course/71142979_2697760983588264_6343783974568984576_o_1.jpg
+    venue: 88
+    school: 5b8100d9-7a66-4e1a-babf-f367a944eece
+    teacher: 58
+    start_time: 2020-03-31 19:00:00+00:00
+    lesson_duration: 2.5
+    number_of_lessons: 8
+    class_show: false
+    course_link: https://www.brownpapertickets.com/event/4354658
+- model: uk_improv_guide.course
+  pk: 30
+  fields:
+    name: Hoopla Drop-In Workshops
+    image: ''
+    venue: 90
+    school: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
+    teacher: null
+    start_time: 2020-02-25 19:00:00+00:00
+    lesson_duration: 2.0
+    number_of_lessons: 1
+    class_show: false
+    course_link: https://www.hooplaimpro.com/
+- model: uk_improv_guide.eventseries
+  pk: 04c16abd-dfe0-4fc7-bd53-35d7e8dc42fd
+  fields:
+    image: event_series/ManchesterImprovJam.png
+    name: Manchester Improv Jam
+- model: uk_improv_guide.eventseries
+  pk: 087900bd-c2e7-4458-9c77-324481e9cd6c
+  fields:
+    image: ''
+    name: Nursery Theatre Women's Workshops
 - model: uk_improv_guide.eventseries
   pk: 1384c01e-8200-4091-bd97-45495305e442
   fields:
@@ -6792,10 +8118,20 @@
     image: ''
     name: Pre Party
 - model: uk_improv_guide.eventseries
+  pk: 1a7cd3c4-8613-4f86-bf16-70a1d68524b5
+  fields:
+    image: event_series/FB_Event_Cover_Both_Maydays_Dropin_6_-_smaller.jpg
+    name: Maydays Drop-in Saturday
+- model: uk_improv_guide.eventseries
   pk: 1aaf4020-4e05-453e-b6ae-84e61a2eae22
   fields:
     image: event_series/IMPORTANTART.png
     name: Important Art
+- model: uk_improv_guide.eventseries
+  pk: 2050d4fa-f8be-45ec-8c4e-177e85dcfd7b
+  fields:
+    image: event_series/improvengers_rectangle_fullres_JPEG.jpg
+    name: 'Improvengers: Pretendgame'
 - model: uk_improv_guide.eventseries
   pk: 258c4bf8-7aed-4724-95e1-423bf354713c
   fields:
@@ -6817,10 +8153,25 @@
     image: event_series/77430163_10156620481228344_6339814101937553408_o.jpg
     name: Dave & Pete's Improv Playtime - Improv Drop-in Class
 - model: uk_improv_guide.eventseries
+  pk: 47224670-e85b-4bf1-8e85-3859af4bc6d8
+  fields:
+    image: event_series/download_1.jfif
+    name: DNAYS' Wunderkammer
+- model: uk_improv_guide.eventseries
   pk: 537e6e27-6452-4a31-bedc-2893831f719b
   fields:
     image: event_series/YesLand.PNG
     name: Yes Land - The Improv Jam
+- model: uk_improv_guide.eventseries
+  pk: 54500ee0-535a-4557-bc6a-fd39e012a1a9
+  fields:
+    image: event_series/MM_logo1_-_Color1_-_Small.jpg
+    name: Mischief Managed Improv
+- model: uk_improv_guide.eventseries
+  pk: 584ce1e6-ce62-497c-ba05-ad8b02319352
+  fields:
+    image: ''
+    name: The open drop in
 - model: uk_improv_guide.eventseries
   pk: 5cc3b83b-a8e0-49be-9889-9df862e197d6
   fields:
@@ -6831,6 +8182,16 @@
   fields:
     image: ''
     name: Big Smoke
+- model: uk_improv_guide.eventseries
+  pk: 61d38fc0-0c3a-4174-8455-a06a030ff69e
+  fields:
+    image: event_series/ThursdayNightLights.jpg
+    name: Thursday Night Lights
+- model: uk_improv_guide.eventseries
+  pk: 6270e38f-78cd-4f0b-b7d1-9a41461f4e3c
+  fields:
+    image: event_series/csz_manc-logo.png
+    name: ComedySportz Intermediate/Advanced Improv Drop-Ins
 - model: uk_improv_guide.eventseries
   pk: 62a79ca3-908e-4353-ad4d-af3fdbb38de1
   fields:
@@ -6877,6 +8238,11 @@
     image: event_series/2019_FB_Ad_ImprovActually.JPG
     name: 'The Cambridge Impronauts Present: Improv Actually'
 - model: uk_improv_guide.eventseries
+  pk: 7f7bd76f-f8b0-4de6-a064-dc0d55a1e490
+  fields:
+    image: event_series/group2020.jpg
+    name: ComedySportz
+- model: uk_improv_guide.eventseries
   pk: 853406db-d33f-43a8-ae9c-9dfa20e8b3fa
   fields:
     image: event_series/78035946_2850297711667923_2472733137549918208_o.jpg
@@ -6887,15 +8253,30 @@
     image: ''
     name: Free Association Cage Match
 - model: uk_improv_guide.eventseries
+  pk: 8c068f3a-f1ec-4a98-872d-601f0bf309d5
+  fields:
+    image: event_series/BigSmoke.png
+    name: Big Smoke Comedy
+- model: uk_improv_guide.eventseries
   pk: 8e5519b7-3f3c-4bc9-9549-f3e7a6024470
   fields:
     image: event_series/HNA_NEW_2019less1MB.png
     name: 'The Maydays present: Happily Never After'
 - model: uk_improv_guide.eventseries
+  pk: 975c065e-882c-459b-bcfd-dec2fd9e8468
+  fields:
+    image: ''
+    name: The Tuesday drop in
+- model: uk_improv_guide.eventseries
   pk: a2bc0d74-5936-4940-b44b-e9e6cfc512b7
   fields:
     image: event_series/missimp.png
     name: MissImp Presents
+- model: uk_improv_guide.eventseries
+  pk: ac82fd08-a65b-464c-aa69-606d642a9210
+  fields:
+    image: event_series/LOTGOTROT_banner.jpg
+    name: Lord of the Game of the Ring of Thrones
 - model: uk_improv_guide.eventseries
   pk: ae0e1240-ede4-4918-a182-a31910a62fdc
   fields:
@@ -7014,11 +8395,11 @@
   fields:
     twitter_handle: ''
     facebook_link: https://www.facebook.com/DoTheRightScene/
-    website_link: ''
+    website_link: https://linktr.ee/dtrscomedy
     contact_email_address: ''
     instagram_link: ''
     name: Do The Right Scene
-    image: ''
+    image: team/DoTheRightScene.png
     players:
     - 16
 - model: uk_improv_guide.team
@@ -7050,14 +8431,15 @@
   fields:
     twitter_handle: ''
     facebook_link: https://www.facebook.com/amorphoushorse/
-    website_link: ''
+    website_link: http://amorphous.horse
     contact_email_address: ''
-    instagram_link: ''
+    instagram_link: http://amorphous.horse
     name: Amorphous Horse
     image: team/amorphous_horse.jpg
     players:
     - 19
     - 4
+    - 386
 - model: uk_improv_guide.team
   pk: 9
   fields:
@@ -7336,9 +8718,9 @@
     facebook_link: http://facebook.com/dnayscomedy
     website_link: http://www.dnays.com
     contact_email_address: ''
-    instagram_link: http://www.instagram/dnayscomedy
+    instagram_link: http://www.instagram.com/dnayscomedy
     name: Do Not Adjust Your Stage
-    image: team/wunderkammer-400x400.png
+    image: team/unnamed.jpg
     players:
     - 70
     - 72
@@ -7572,7 +8954,8 @@
     instagram_link: ''
     name: City Impro
     image: ''
-    players: []
+    players:
+    - 132
 - model: uk_improv_guide.team
   pk: 45
   fields:
@@ -7749,7 +9132,8 @@
     instagram_link: ''
     name: The Descendants
     image: team/the_decendants.jpg
-    players: []
+    players:
+    - 386
 - model: uk_improv_guide.team
   pk: 57
   fields:
@@ -7854,7 +9238,7 @@
     website_link: ''
     contact_email_address: ''
     instagram_link: ''
-    name: Same Faces
+    name: The Same Faces
     image: team/same_faces.jpg
     players:
     - 191
@@ -7956,12 +9340,12 @@
   pk: 71
   fields:
     twitter_handle: ''
-    facebook_link: ''
+    facebook_link: https://www.facebook.com/FWBImprov
     website_link: ''
     contact_email_address: ''
     instagram_link: ''
     name: Friends Without Benefits
-    image: ''
+    image: team/fwb_1.jpg
     players: []
 - model: uk_improv_guide.team
   pk: 72
@@ -7995,7 +9379,8 @@
     instagram_link: ''
     name: A Wizard Did It
     image: ''
-    players: []
+    players:
+    - 95
 - model: uk_improv_guide.team
   pk: 76
   fields:
@@ -8624,7 +10009,11 @@
     image: ''
     players:
     - 324
+    - 321
+    - 373
+    - 375
     - 325
+    - 374
 - model: uk_improv_guide.team
   pk: 124
   fields:
@@ -8699,14 +10088,15 @@
 - model: uk_improv_guide.team
   pk: 128
   fields:
-    twitter_handle: ''
+    twitter_handle: crimesceneimpro
     facebook_link: https://www.facebook.com/crimesceneimpro/
-    website_link: ''
-    contact_email_address: ''
-    instagram_link: ''
+    website_link: http://www.crimesceneimpro.com
+    contact_email_address: detective@crimesceneimpro.com
+    instagram_link: https://www.instagram.com/crimesceneimpro
     name: 'CSI: Crime Scene Improvisation'
-    image: ''
-    players: []
+    image: team/CSI_35876_800.jpg
+    players:
+    - 360
 - model: uk_improv_guide.team
   pk: 129
   fields:
@@ -8717,6 +10107,179 @@
     instagram_link: ''
     name: John & Rory
     image: ''
+    players: []
+- model: uk_improv_guide.team
+  pk: 130
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/unboundtheatre
+    website_link: https://www.qpc.org/qpcpage.aspx?t=2&p=25&/Unbound%20-%20Upcoming%20Productions
+    contact_email_address: Neil@BrawlingsBarn.com
+    instagram_link: ''
+    name: Unbound Theatre
+    image: team/Unbound_Theatre.jpg
+    players:
+    - 353
+    - 354
+    - 349
+    - 348
+    - 352
+    - 355
+- model: uk_improv_guide.team
+  pk: 131
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Improv Transformations
+    image: ''
+    players:
+    - 356
+    - 357
+    - 348
+- model: uk_improv_guide.team
+  pk: 132
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: duplicate entry please delete
+    image: ''
+    players: []
+- model: uk_improv_guide.team
+  pk: 133
+  fields:
+    twitter_handle: '@comedysportz_uk'
+    facebook_link: https://www.facebook.com/cszmanchesteruk
+    website_link: https://www.comedysportz.co.uk
+    contact_email_address: info@comedysportz.co.uk
+    instagram_link: https://www.instagram.com/cszmanchester/
+    name: ComedySportz Manchester UK
+    image: team/group2020.jpg
+    players:
+    - 368
+    - 364
+    - 367
+    - 365
+    - 366
+- model: uk_improv_guide.team
+  pk: 134
+  fields:
+    twitter_handle: '@glass_imaginary'
+    facebook_link: https://www.facebook.com/improvisedplay/
+    website_link: https://impromiscuous.com/the-glass-imaginary/
+    contact_email_address: stephen@thenurserytheatre.com
+    instagram_link: https://www.instagram.com/theimprovisedplay/
+    name: The Improvised Play
+    image: team/GI_banner1200_630.png
+    players: []
+- model: uk_improv_guide.team
+  pk: 135
+  fields:
+    twitter_handle: bigimprov
+    facebook_link: https://www.facebook.com/BaltimoreImprovGroup/
+    website_link: https://www.bigimprov.org/
+    contact_email_address: ''
+    instagram_link: https://www.instagram.com/bigimprov/
+    name: Baltimore Improv Group
+    image: team/BIGimprov.png
+    players: []
+- model: uk_improv_guide.team
+  pk: 136
+  fields:
+    twitter_handle: SplatImprov
+    facebook_link: https://www.facebook.com/SplatImprov
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Splat
+    image: ''
+    players: []
+- model: uk_improv_guide.team
+  pk: 137
+  fields:
+    twitter_handle: ''
+    facebook_link: https://www.facebook.com/TheBystandersImprov/
+    website_link: ''
+    contact_email_address: danieljimsmith@gmail.com
+    instagram_link: ''
+    name: The Bystanders
+    image: team/Bystanders_banner.png
+    players:
+    - 151
+    - 377
+- model: uk_improv_guide.team
+  pk: 138
+  fields:
+    twitter_handle: '@PlusProv'
+    facebook_link: https://m.facebook.com/plusprov/?ref=bookmarks
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Plus Support
+    image: team/E8B589E8-AF63-42EA-82D1-63C1991B204B.jpeg
+    players:
+    - 379
+    - 118
+    - 383
+    - 132
+    - 380
+    - 127
+    - 382
+    - 381
+    - 119
+- model: uk_improv_guide.team
+  pk: 139
+  fields:
+    twitter_handle: ''
+    facebook_link: https://m.facebook.com/twinprovimprov/
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Twinprov
+    image: team/B7B39AA3-2515-47CD-8235-B568EF93E00D.jpeg
+    players:
+    - 132
+    - 385
+- model: uk_improv_guide.team
+  pk: 140
+  fields:
+    twitter_handle: '@ImprovGym'
+    facebook_link: https://m.facebook.com/ImprovGym/
+    website_link: ''
+    contact_email_address: improvgymteam@gmail.com
+    instagram_link: ''
+    name: "Gym Pass (Improv Gym teacher\u2019s troupe)."
+    image: ''
+    players:
+    - 132
+    - 182
+- model: uk_improv_guide.team
+  pk: 141
+  fields:
+    twitter_handle: '@brentwouldd'
+    facebook_link: ''
+    website_link: https://vaultfestival.com/whats-on/brent-woulds-got-wood/
+    contact_email_address: ''
+    instagram_link: ''
+    name: Brent Would
+    image: team/06F48D1D-1536-47AD-AAEE-4100FC3DEF81.jpeg
+    players:
+    - 108
+- model: uk_improv_guide.team
+  pk: 142
+  fields:
+    twitter_handle: ''
+    facebook_link: https://m.facebook.com/lestercityimprov/?ref=page_internal&mt_nav=0&locale2=en_GB
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Lester City
+    image: team/DCC4803F-F652-46DA-A34C-5F18A89DC9B8.jpeg
     players: []
 - model: uk_improv_guide.event
   pk: 1
@@ -10473,7 +12036,7 @@
     name: DNAYS @ Hoopla's Improv Comedy Club
     image: ''
     event_type: S
-    start_time: 2020-02-08 20:00:00+00:00
+    start_time: 2020-02-28 20:00:00+00:00
     duration: 2.0
     venue: 2
     series: null
@@ -11307,6 +12870,1216 @@
     teams:
     - 128
     special_guests: []
+- model: uk_improv_guide.event
+  pk: 163
+  fields:
+    facebook_link: ''
+    website_link: https://thenurserytheatre.com/improv-classes/drop-in-workshops/
+    eventbrite_link: ''
+    name: Maydays Drop-in Wednesday
+    image: ''
+    event_type: W
+    start_time: 2020-01-08 19:00:00+00:00
+    duration: 2.5
+    venue: 30
+    series: 853406db-d33f-43a8-ae9c-9dfa20e8b3fa
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 164
+  fields:
+    facebook_link: ''
+    website_link: https://thenurserytheatre.com/improv-classes/drop-in-workshops/
+    eventbrite_link: ''
+    name: Maydays Drop-in Wednesday
+    image: ''
+    event_type: W
+    start_time: 2020-01-15 19:00:00+00:00
+    duration: 2.5
+    venue: 30
+    series: 853406db-d33f-43a8-ae9c-9dfa20e8b3fa
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 165
+  fields:
+    facebook_link: ''
+    website_link: https://thenurserytheatre.com/improv-classes/drop-in-workshops/
+    eventbrite_link: ''
+    name: Maydays Drop-in Wednesday
+    image: ''
+    event_type: W
+    start_time: 2020-01-22 19:00:00+00:00
+    duration: 2.5
+    venue: 30
+    series: 853406db-d33f-43a8-ae9c-9dfa20e8b3fa
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 166
+  fields:
+    facebook_link: ''
+    website_link: https://thenurserytheatre.com/improv-classes/drop-in-workshops/
+    eventbrite_link: ''
+    name: Maydays Drop-in Wednesday
+    image: ''
+    event_type: W
+    start_time: 2020-01-29 19:00:00+00:00
+    duration: 2.5
+    venue: 30
+    series: 853406db-d33f-43a8-ae9c-9dfa20e8b3fa
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 167
+  fields:
+    facebook_link: ''
+    website_link: https://thenurserytheatre.com/improv-classes/drop-in-workshops/
+    eventbrite_link: ''
+    name: Maydays Drop-in Wednesday
+    image: ''
+    event_type: W
+    start_time: 2020-02-05 19:00:00+00:00
+    duration: 2.5
+    venue: 30
+    series: 853406db-d33f-43a8-ae9c-9dfa20e8b3fa
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 168
+  fields:
+    facebook_link: ''
+    website_link: https://thenurserytheatre.com/improv-classes/drop-in-workshops/
+    eventbrite_link: ''
+    name: Maydays Drop-in Wednesday
+    image: ''
+    event_type: W
+    start_time: 2020-02-12 19:00:00+00:00
+    duration: 2.5
+    venue: 30
+    series: 853406db-d33f-43a8-ae9c-9dfa20e8b3fa
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 169
+  fields:
+    facebook_link: ''
+    website_link: https://thenurserytheatre.com/improv-classes/drop-in-workshops/
+    eventbrite_link: ''
+    name: Maydays Drop-in Wednesday
+    image: ''
+    event_type: W
+    start_time: 2020-02-19 19:00:00+00:00
+    duration: 2.5
+    venue: 30
+    series: 853406db-d33f-43a8-ae9c-9dfa20e8b3fa
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 170
+  fields:
+    facebook_link: ''
+    website_link: https://thenurserytheatre.com/improv-classes/drop-in-workshops/
+    eventbrite_link: ''
+    name: Maydays Drop-in Wednesday
+    image: ''
+    event_type: W
+    start_time: 2020-02-26 19:00:00+00:00
+    duration: 2.5
+    venue: 30
+    series: 853406db-d33f-43a8-ae9c-9dfa20e8b3fa
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 171
+  fields:
+    facebook_link: https://www.facebook.com/events/244162466490699/
+    website_link: https://www.slapstick.org.uk/event/steves-and-wooster/
+    eventbrite_link: ''
+    name: Steves and Wooster
+    image: event/stevesandwooster_E7isvJY.jpg
+    event_type: S
+    start_time: 2020-01-26 18:30:00+00:00
+    duration: 1.0
+    venue: 67
+    series: null
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 172
+  fields:
+    facebook_link: https://www.facebook.com/events/2459212101009487/?event_time_id=2459212107676153
+    website_link: https://www.cptheatre.co.uk/production/the-wunderkammer/
+    eventbrite_link: ''
+    name: The Wunderkammer
+    image: event/download_1.jfif
+    event_type: S
+    start_time: 2020-01-19 19:00:00+00:00
+    duration: 1.5
+    venue: 66
+    series: 47224670-e85b-4bf1-8e85-3859af4bc6d8
+    teams:
+    - 27
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 173
+  fields:
+    facebook_link: https://www.facebook.com/events/2459212101009487/?event_time_id=2459212107676153
+    website_link: https://www.cptheatre.co.uk/production/the-wunderkammer/
+    eventbrite_link: ''
+    name: The Wunderkammer
+    image: event/download_1_2meXAPG.jfif
+    event_type: S
+    start_time: 2020-02-24 19:30:00+00:00
+    duration: 2.0
+    venue: 66
+    series: 47224670-e85b-4bf1-8e85-3859af4bc6d8
+    teams:
+    - 27
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 174
+  fields:
+    facebook_link: https://www.facebook.com/events/2459212101009487/?event_time_id=2459212107676153
+    website_link: https://www.cptheatre.co.uk/production/the-wunderkammer/
+    eventbrite_link: ''
+    name: The Wunderkammer
+    image: event/download_1_G6c9qMC.jfif
+    event_type: S
+    start_time: 2020-04-19 19:30:00+00:00
+    duration: 1.5
+    venue: 66
+    series: 47224670-e85b-4bf1-8e85-3859af4bc6d8
+    teams:
+    - 27
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 175
+  fields:
+    facebook_link: https://www.facebook.com/events/466763957591968/
+    website_link: https://thefreeassociation.co.uk/fa-shows
+    eventbrite_link: ''
+    name: DNAYS/The Petting Zoo Double-Bill
+    image: event/unnamed.jpg
+    event_type: S
+    start_time: 2020-01-25 19:30:00+00:00
+    duration: 1.0
+    venue: 1
+    series: 7c7ea5ce-91c4-4c3b-8cca-9d68b87d974a
+    teams:
+    - 27
+    - 107
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 176
+  fields:
+    facebook_link: https://www.facebook.com/events/466763957591968/
+    website_link: https://thefreeassociation.co.uk/fa-shows
+    eventbrite_link: ''
+    name: DNAYS/The Petting Zoo Double-Bill
+    image: event/unnamed_QGGRqkn.jpg
+    event_type: S
+    start_time: 2020-02-22 19:30:00+00:00
+    duration: 1.0
+    venue: 1
+    series: 7c7ea5ce-91c4-4c3b-8cca-9d68b87d974a
+    teams:
+    - 27
+    - 107
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 177
+  fields:
+    facebook_link: https://www.facebook.com/events/787941468318526/
+    website_link: https://vaultfestival.com/whats-on/the-badge-an-improvised-cop-show/
+    eventbrite_link: ''
+    name: The Badge
+    image: event/75567347_113677920085961_8507378062076149760_o.jpg
+    event_type: S
+    start_time: 2020-02-05 19:30:00+00:00
+    duration: 1.0
+    venue: 68
+    series: null
+    teams:
+    - 113
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 178
+  fields:
+    facebook_link: https://www.facebook.com/Thebadgeimprov/
+    website_link: https://vaultfestival.com/whats-on/the-badge-an-improvised-cop-show/
+    eventbrite_link: ''
+    name: The Badge
+    image: event/75567347_113677920085961_8507378062076149760_o_preURTr.jpg
+    event_type: S
+    start_time: 2020-02-07 19:30:00+00:00
+    duration: 1.0
+    venue: 68
+    series: null
+    teams:
+    - 113
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 179
+  fields:
+    facebook_link: https://www.facebook.com/Thebadgeimprov/
+    website_link: https://vaultfestival.com/whats-on/the-badge-an-improvised-cop-show/
+    eventbrite_link: ''
+    name: The Badge
+    image: event/75567347_113677920085961_8507378062076149760_o_Te5R0US.jpg
+    event_type: S
+    start_time: 2020-02-13 19:30:00+00:00
+    duration: 1.0
+    venue: 68
+    series: null
+    teams:
+    - 113
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 180
+  fields:
+    facebook_link: https://www.facebook.com/events/2500526743602959/
+    website_link: https://www.arcolatheatre.com/whats-on/uncle-glens-menagerie-3/
+    eventbrite_link: ''
+    name: Uncle Glen's Menagerie
+    image: event/82103250_472262230138898_7184443674376273920_o.jpg
+    event_type: S
+    start_time: 2020-01-26 19:30:00+00:00
+    duration: 2.0
+    venue: 69
+    series: null
+    teams:
+    - 108
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 181
+  fields:
+    facebook_link: ''
+    website_link: https://thefreeassociation.co.uk/fa-shows
+    eventbrite_link: ''
+    name: El Clasico
+    image: event/003.png
+    event_type: S
+    start_time: 2020-01-10 21:00:00+00:00
+    duration: 1.0
+    venue: 1
+    series: d5056584-501c-4204-ae28-e2a32b51cdd5
+    teams:
+    - 21
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 182
+  fields:
+    facebook_link: ''
+    website_link: https://thefreeassociation.co.uk/fa-shows
+    eventbrite_link: ''
+    name: El Clasico
+    image: event/003_WTovfaT.png
+    event_type: S
+    start_time: 2020-01-24 21:00:00+00:00
+    duration: 1.0
+    venue: 1
+    series: d5056584-501c-4204-ae28-e2a32b51cdd5
+    teams:
+    - 21
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 183
+  fields:
+    facebook_link: ''
+    website_link: https://thefreeassociation.co.uk/fa-shows
+    eventbrite_link: ''
+    name: El Clasico
+    image: event/003_8lhJcFH.png
+    event_type: S
+    start_time: 2020-02-01 21:00:00+00:00
+    duration: 1.0
+    venue: 1
+    series: d5056584-501c-4204-ae28-e2a32b51cdd5
+    teams:
+    - 21
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 184
+  fields:
+    facebook_link: ''
+    website_link: https://thefreeassociation.co.uk/fa-shows
+    eventbrite_link: ''
+    name: El Clasico
+    image: event/003_9eyYeVT.png
+    event_type: S
+    start_time: 2020-02-28 21:00:00+00:00
+    duration: 1.0
+    venue: 1
+    series: d5056584-501c-4204-ae28-e2a32b51cdd5
+    teams:
+    - 21
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 185
+  fields:
+    facebook_link: ''
+    website_link: https://thefreeassociation.co.uk/fa-shows
+    eventbrite_link: ''
+    name: El Clasico
+    image: event/003_JPJ5O2f.png
+    event_type: S
+    start_time: 2020-03-06 21:00:00+00:00
+    duration: 1.0
+    venue: 1
+    series: d5056584-501c-4204-ae28-e2a32b51cdd5
+    teams:
+    - 21
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 186
+  fields:
+    facebook_link: ''
+    website_link: https://thefreeassociation.co.uk/fa-shows
+    eventbrite_link: ''
+    name: El Clasico
+    image: ''
+    event_type: S
+    start_time: 2020-03-20 21:00:00+00:00
+    duration: 1.0
+    venue: 1
+    series: d5056584-501c-4204-ae28-e2a32b51cdd5
+    teams:
+    - 21
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 187
+  fields:
+    facebook_link: https://www.facebook.com/bradfordjam
+    website_link: https://www.bradfordjam.org.uk
+    eventbrite_link: ''
+    name: Bradford Jam
+    image: ''
+    event_type: S
+    start_time: 2020-01-23 20:00:00+00:00
+    duration: 2.0
+    venue: 72
+    series: null
+    teams:
+    - 18
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 188
+  fields:
+    facebook_link: https://www.facebook.com/thetuesdaygroupimprov
+    website_link: https://www.thetuesdaygroup.org.uk
+    eventbrite_link: ''
+    name: The Tuesday drop in
+    image: ''
+    event_type: W
+    start_time: 2020-01-14 19:00:00+00:00
+    duration: 2.0
+    venue: 73
+    series: 584ce1e6-ce62-497c-ba05-ad8b02319352
+    teams:
+    - 18
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 189
+  fields:
+    facebook_link: https://www.facebook.com/MischiefManagedImprov
+    website_link: ''
+    eventbrite_link: ''
+    name: Mischief Managed Improv
+    image: ''
+    event_type: S
+    start_time: 2020-02-03 20:00:00+00:00
+    duration: 2.0
+    venue: 74
+    series: 54500ee0-535a-4557-bc6a-fd39e012a1a9
+    teams:
+    - 38
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 190
+  fields:
+    facebook_link: https://www.facebook.com/cszmanchesteruk
+    website_link: https://watersidearts.org/whats-on/2709-comedysportz-5/
+    eventbrite_link: ''
+    name: ComedySportz New Year New Games!
+    image: ''
+    event_type: S
+    start_time: 2020-01-18 18:30:00+00:00
+    duration: 2.0
+    venue: 77
+    series: 7f7bd76f-f8b0-4de6-a064-dc0d55a1e490
+    teams:
+    - 133
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 191
+  fields:
+    facebook_link: https://www.facebook.com/cszmanchesteruk
+    website_link: https://watersidearts.org/whats-on/2710-comedysportz-6/
+    eventbrite_link: ''
+    name: ComedySportz
+    image: event/group2020.jpg
+    event_type: S
+    start_time: 2020-02-15 18:30:00+00:00
+    duration: 2.0
+    venue: 77
+    series: 7f7bd76f-f8b0-4de6-a064-dc0d55a1e490
+    teams:
+    - 133
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 192
+  fields:
+    facebook_link: https://www.facebook.com/cszmanchesteruk
+    website_link: https://watersidearts.org/whats-on/2711-comedysportz-7/
+    eventbrite_link: ''
+    name: ComedySportz
+    image: event/group2020_Cy0sZ9e.jpg
+    event_type: S
+    start_time: 2020-04-25 18:30:00+00:00
+    duration: 2.0
+    venue: 77
+    series: 7f7bd76f-f8b0-4de6-a064-dc0d55a1e490
+    teams:
+    - 133
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 193
+  fields:
+    facebook_link: https://www.facebook.com/cszmanchesteruk
+    website_link: https://watersidearts.org/whats-on/2712-comedysportz-8/
+    eventbrite_link: ''
+    name: ComedySportz
+    image: event/group2020_CsLjx7w.jpg
+    event_type: S
+    start_time: 2020-05-16 18:30:00+00:00
+    duration: 2.0
+    venue: 77
+    series: 7f7bd76f-f8b0-4de6-a064-dc0d55a1e490
+    teams:
+    - 133
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 194
+  fields:
+    facebook_link: https://www.facebook.com/cszmanchesteruk
+    website_link: https://watersidearts.org/whats-on/2713-comedysportz/
+    eventbrite_link: ''
+    name: ComedySportz
+    image: event/group2020_XAqASZM.jpg
+    event_type: S
+    start_time: 2020-06-20 18:30:00+00:00
+    duration: 2.0
+    venue: 77
+    series: 7f7bd76f-f8b0-4de6-a064-dc0d55a1e490
+    teams:
+    - 133
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 195
+  fields:
+    facebook_link: https://www.facebook.com/cszmanchesteruk
+    website_link: https://www.comedysportz.co.uk/workshops
+    eventbrite_link: ''
+    name: ComedySportz Intermediate/Advanced Improv Drop-Ins Scenes and Games
+    image: event/csz_manc-logo.png
+    event_type: W
+    start_time: 2020-01-11 15:00:00+00:00
+    duration: 2.0
+    venue: 76
+    series: 6270e38f-78cd-4f0b-b7d1-9a41461f4e3c
+    teams:
+    - 133
+    special_guests:
+    - 365
+- model: uk_improv_guide.event
+  pk: 196
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: https://hivemindimprov.com/
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873595968
+    name: Lord of the Game of the Ring of Thrones
+    image: event/LOTGOTROT_banner.jpg
+    event_type: S
+    start_time: 2020-02-14 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: ac82fd08-a65b-464c-aa69-606d642a9210
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 197
+  fields:
+    facebook_link: https://www.facebook.com/events/514789092471746/
+    website_link: https://www.comedysportz.co.uk/improv-drop-ins-intermediate-experienced-level/
+    eventbrite_link: ''
+    name: ComedySportz Intermediate/Advanced Improv Drop-Ins "Genre Jam"
+    image: event/NACN_2020.jpg
+    event_type: W
+    start_time: 2020-01-18 15:00:00+00:00
+    duration: 2.0
+    venue: 76
+    series: 6270e38f-78cd-4f0b-b7d1-9a41461f4e3c
+    teams:
+    - 133
+    special_guests:
+    - 366
+- model: uk_improv_guide.event
+  pk: 198
+  fields:
+    facebook_link: https://www.facebook.com/events/2648319925293657/
+    website_link: https://www.comedysportz.co.uk/improv-drop-ins-intermediate-experienced-level/
+    eventbrite_link: ''
+    name: ComedySportz Intermediate/Advanced Improv Drop-Ins "The Plot Thickens"
+    image: event/NACN_2020_KxVW12R.jpg
+    event_type: W
+    start_time: 2020-01-25 15:00:00+00:00
+    duration: 2.0
+    venue: 76
+    series: 6270e38f-78cd-4f0b-b7d1-9a41461f4e3c
+    teams:
+    - 133
+    special_guests:
+    - 367
+- model: uk_improv_guide.event
+  pk: 199
+  fields:
+    facebook_link: https://www.facebook.com/events/1047114195631183/
+    website_link: https://www.comedysportz.co.uk/improv-drop-ins-intermediate-experienced-level/
+    eventbrite_link: ''
+    name: ComedySportz Intermediate/Advanced Improv Drop-Ins "Big Characters"
+    image: event/NACN_2020_2wk3bH9.jpg
+    event_type: W
+    start_time: 2020-02-01 15:00:00+00:00
+    duration: 2.0
+    venue: 76
+    series: 6270e38f-78cd-4f0b-b7d1-9a41461f4e3c
+    teams:
+    - 133
+    special_guests:
+    - 368
+- model: uk_improv_guide.event
+  pk: 200
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: https://hivemindimprov.com/
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873595968
+    name: Lord of the Game of the Ring of Thrones
+    image: ''
+    event_type: S
+    start_time: 2020-04-24 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: ac82fd08-a65b-464c-aa69-606d642a9210
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 201
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: https://hivemindimprov.com/
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873595968
+    name: Lord of the Game of the Ring of Thrones
+    image: event/LOTGOTROT_banner_imu1BhM.jpg
+    event_type: S
+    start_time: 2020-05-22 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: ac82fd08-a65b-464c-aa69-606d642a9210
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 202
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: https://hivemindimprov.com/
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873595968
+    name: Lord of the Game of the Ring of Thrones
+    image: ''
+    event_type: S
+    start_time: 2020-06-19 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: ac82fd08-a65b-464c-aa69-606d642a9210
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 203
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: https://hivemindimprov.com/
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873595968
+    name: Lord of the Game of the Ring of Thrones
+    image: event/LOTGOTROT_banner_4oin8pG.jpg
+    event_type: S
+    start_time: 2020-07-17 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: ac82fd08-a65b-464c-aa69-606d642a9210
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 204
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: https://hivemindimprov.com/
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873595968
+    name: Lord of the Game of the Ring of Thrones
+    image: ''
+    event_type: S
+    start_time: 2020-09-18 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: ac82fd08-a65b-464c-aa69-606d642a9210
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 205
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: https://hivemindimprov.com/
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873595968
+    name: Lord of the Game of the Ring of Thrones
+    image: event/LOTGOTROT_banner_b0bGySQ.jpg
+    event_type: S
+    start_time: 2020-10-16 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: ac82fd08-a65b-464c-aa69-606d642a9210
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 206
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: https://hivemindimprov.com/
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873595968
+    name: Lord of the Game of the Ring of Thrones
+    image: ''
+    event_type: S
+    start_time: 2020-11-20 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: ac82fd08-a65b-464c-aa69-606d642a9210
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 207
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: https://hivemindimprov.com/
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873595968
+    name: Lord of the Game of the Ring of Thrones
+    image: event/LOTGOTROT_banner_Z4zMO4y.jpg
+    event_type: S
+    start_time: 2020-12-18 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: ac82fd08-a65b-464c-aa69-606d642a9210
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 208
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: http://www.hivemindimprov.com
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873601607
+    name: 'Improvengers: Pretendgame'
+    image: event/improvengers_rectangle_fullres_JPEG.jpg
+    event_type: S
+    start_time: 2020-01-10 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: 2050d4fa-f8be-45ec-8c4e-177e85dcfd7b
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 209
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: http://www.hivemindimprov.com
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873601607
+    name: 'Improvengers: Pretendgame'
+    image: ''
+    event_type: S
+    start_time: 2020-02-07 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: 2050d4fa-f8be-45ec-8c4e-177e85dcfd7b
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 210
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: http://www.hivemindimprov.com
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873601607
+    name: 'Improvengers: Pretendgame'
+    image: event/improvengers_rectangle_fullres_JPEG_3ZSggWP.jpg
+    event_type: S
+    start_time: 2020-03-13 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: 2050d4fa-f8be-45ec-8c4e-177e85dcfd7b
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 211
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: http://www.hivemindimprov.com
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873601607
+    name: 'Improvengers: Pretendgame'
+    image: ''
+    event_type: S
+    start_time: 2020-04-10 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: 2050d4fa-f8be-45ec-8c4e-177e85dcfd7b
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 212
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: http://www.hivemindimprov.com
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873601607
+    name: 'Improvengers: Pretendgame'
+    image: event/improvengers_rectangle_fullres_JPEG_uwtcrtd.jpg
+    event_type: S
+    start_time: 2020-05-08 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: 2050d4fa-f8be-45ec-8c4e-177e85dcfd7b
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 213
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: http://www.hivemindimprov.com
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873601607
+    name: 'Improvengers: Pretendgame'
+    image: ''
+    event_type: S
+    start_time: 2020-06-05 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: 2050d4fa-f8be-45ec-8c4e-177e85dcfd7b
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 214
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: http://www.hivemindimprov.com
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873601607
+    name: 'Improvengers: Pretendgame'
+    image: event/improvengers_rectangle_fullres_JPEG_UtrVQHW.jpg
+    event_type: S
+    start_time: 2020-07-03 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: 2050d4fa-f8be-45ec-8c4e-177e85dcfd7b
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 215
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: http://www.hivemindimprov.com
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873601607
+    name: 'Improvengers: Pretendgame'
+    image: ''
+    event_type: S
+    start_time: 2020-09-04 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: 2050d4fa-f8be-45ec-8c4e-177e85dcfd7b
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 216
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: http://www.hivemindimprov.com
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873601607
+    name: 'Improvengers: Pretendgame'
+    image: event/improvengers_rectangle_fullres_JPEG_GPYbTeO.jpg
+    event_type: S
+    start_time: 2020-10-02 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: 2050d4fa-f8be-45ec-8c4e-177e85dcfd7b
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 217
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: http://www.hivemindimprov.com
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873601607
+    name: 'Improvengers: Pretendgame'
+    image: ''
+    event_type: S
+    start_time: 2020-11-06 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: 2050d4fa-f8be-45ec-8c4e-177e85dcfd7b
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 218
+  fields:
+    facebook_link: http://www.facebook.com/hivemindimprov
+    website_link: http://www.hivemindimprov.com
+    eventbrite_link: https://museumofcomedy.ticketsolve.com/shows/873601607
+    name: 'Improvengers: Pretendgame'
+    image: event/improvengers_rectangle_fullres_JPEG_Eese70O.jpg
+    event_type: S
+    start_time: 2020-12-04 19:00:00+00:00
+    duration: 1.0
+    venue: 62
+    series: 2050d4fa-f8be-45ec-8c4e-177e85dcfd7b
+    teams:
+    - 80
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 219
+  fields:
+    facebook_link: https://www.facebook.com/events/578005869616915/
+    website_link: https://thenurserytheatre.com/events/womens-workshop-jan20/
+    eventbrite_link: ''
+    name: Melodrama - Women's Workshop with Audra Goffeney
+    image: ''
+    event_type: W
+    start_time: 2020-01-26 14:00:00+00:00
+    duration: 3.0
+    venue: 30
+    series: 087900bd-c2e7-4458-9c77-324481e9cd6c
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 220
+  fields:
+    facebook_link: https://www.facebook.com/events/2393359550880270/
+    website_link: https://thenurserytheatre.com/improv-workshops/#drop-ins
+    eventbrite_link: ''
+    name: Maydays Drop-in Saturday
+    image: event/FB_Event_Cover_Both_Maydays_Dropin_6_-_smaller.jpg
+    event_type: W
+    start_time: 2020-01-25 13:00:00+00:00
+    duration: 2.5
+    venue: 30
+    series: 7a979856-4013-430b-a8bf-1ea9c19687d6
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 221
+  fields:
+    facebook_link: https://www.facebook.com/events/2393359550880270/
+    website_link: https://thenurserytheatre.com/improv-workshops/#drop-ins
+    eventbrite_link: ''
+    name: Maydays Drop-in Saturday
+    image: event/FB_Event_Cover_Both_Maydays_Dropin_6_-_smaller_0YfasHA.jpg
+    event_type: W
+    start_time: 2020-02-01 13:00:00+00:00
+    duration: 2.5
+    venue: 30
+    series: 7a979856-4013-430b-a8bf-1ea9c19687d6
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 222
+  fields:
+    facebook_link: https://www.facebook.com/events/1041540959556918/
+    website_link: https://www.thedraytonarmstheatre.co.uk/the-glass-imaginary-an-improvised-play?fbclid=IwAR0AovzA-q7hEciY4mi9A6kLD7gPgHANoPC28HMfg_1XqYDg5Cndy-N4Fyw
+    eventbrite_link: https://www.thedraytonarmstheatre.co.uk/tickets/the-glass-imaginary-an-improvised-play
+    name: The Glass Imaginary
+    image: ''
+    event_type: S
+    start_time: 2020-02-04 07:30:00+00:00
+    duration: 2.0
+    venue: 84
+    series: null
+    teams:
+    - 134
+    special_guests:
+    - 370
+- model: uk_improv_guide.event
+  pk: 223
+  fields:
+    facebook_link: https://www.facebook.com/events/1041540959556918/
+    website_link: https://www.thedraytonarmstheatre.co.uk/the-glass-imaginary-an-improvised-play?fbclid=IwAR0AovzA-q7hEciY4mi9A6kLD7gPgHANoPC28HMfg_1XqYDg5Cndy-N4Fyw
+    eventbrite_link: https://www.thedraytonarmstheatre.co.uk/tickets/the-glass-imaginary-an-improvised-play
+    name: The Glass Imaginary
+    image: event/GI_banner1200_630.png
+    event_type: S
+    start_time: 2020-02-05 07:30:00+00:00
+    duration: 2.0
+    venue: 84
+    series: null
+    teams:
+    - 134
+    special_guests:
+    - 370
+- model: uk_improv_guide.event
+  pk: 224
+  fields:
+    facebook_link: https://www.facebook.com/events/1041540959556918/
+    website_link: https://www.thedraytonarmstheatre.co.uk/the-glass-imaginary-an-improvised-play?fbclid=IwAR0AovzA-q7hEciY4mi9A6kLD7gPgHANoPC28HMfg_1XqYDg5Cndy-N4Fyw
+    eventbrite_link: https://www.thedraytonarmstheatre.co.uk/tickets/the-glass-imaginary-an-improvised-play
+    name: The Glass Imaginary
+    image: event/GI_banner1200_630_24k24eU.png
+    event_type: S
+    start_time: 2020-02-06 07:30:00+00:00
+    duration: 2.0
+    venue: 84
+    series: null
+    teams:
+    - 134
+    special_guests:
+    - 370
+- model: uk_improv_guide.event
+  pk: 225
+  fields:
+    facebook_link: https://www.facebook.com/events/1041540959556918/
+    website_link: https://www.thedraytonarmstheatre.co.uk/the-glass-imaginary-an-improvised-play?fbclid=IwAR0AovzA-q7hEciY4mi9A6kLD7gPgHANoPC28HMfg_1XqYDg5Cndy-N4Fyw
+    eventbrite_link: https://www.thedraytonarmstheatre.co.uk/tickets/the-glass-imaginary-an-improvised-play
+    name: The Glass Imaginary
+    image: event/GI_banner1200_630_gQhfQVK.png
+    event_type: S
+    start_time: 2020-02-07 07:30:00+00:00
+    duration: 2.0
+    venue: 84
+    series: null
+    teams:
+    - 134
+    special_guests:
+    - 370
+- model: uk_improv_guide.event
+  pk: 226
+  fields:
+    facebook_link: https://www.facebook.com/events/1041540959556918/
+    website_link: https://www.thedraytonarmstheatre.co.uk/the-glass-imaginary-an-improvised-play?fbclid=IwAR0AovzA-q7hEciY4mi9A6kLD7gPgHANoPC28HMfg_1XqYDg5Cndy-N4Fyw
+    eventbrite_link: https://www.thedraytonarmstheatre.co.uk/tickets/the-glass-imaginary-an-improvised-play
+    name: The Glass Imaginary
+    image: event/GI_banner1200_630_eMscc0p.png
+    event_type: S
+    start_time: 2020-02-08 07:30:00+00:00
+    duration: 2.0
+    venue: 84
+    series: null
+    teams:
+    - 134
+    special_guests:
+    - 370
+- model: uk_improv_guide.event
+  pk: 227
+  fields:
+    facebook_link: ''
+    website_link: https://improquo.co/manchester-improv-jam/
+    eventbrite_link: ''
+    name: Manchester Improv Jam
+    image: event/ManchesterImprovJam.png
+    event_type: J
+    start_time: 2020-02-06 19:30:00+00:00
+    duration: 2.0
+    venue: 85
+    series: 04c16abd-dfe0-4fc7-bd53-35d7e8dc42fd
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 228
+  fields:
+    facebook_link: ''
+    website_link: https://improquo.co/manchester-improv-jam/
+    eventbrite_link: ''
+    name: Manchester Improv Jam
+    image: ''
+    event_type: J
+    start_time: 2020-02-13 19:30:00+00:00
+    duration: 2.0
+    venue: 85
+    series: 04c16abd-dfe0-4fc7-bd53-35d7e8dc42fd
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 229
+  fields:
+    facebook_link: ''
+    website_link: https://improquo.co/manchester-improv-jam/
+    eventbrite_link: ''
+    name: Manchester Improv Jam
+    image: ''
+    event_type: J
+    start_time: 2020-02-20 19:30:00+00:00
+    duration: 2.0
+    venue: 85
+    series: 04c16abd-dfe0-4fc7-bd53-35d7e8dc42fd
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 230
+  fields:
+    facebook_link: ''
+    website_link: https://improquo.co/manchester-improv-jam/
+    eventbrite_link: ''
+    name: Manchester Improv Jam
+    image: ''
+    event_type: J
+    start_time: 2020-02-27 19:30:00+00:00
+    duration: 2.0
+    venue: 85
+    series: 04c16abd-dfe0-4fc7-bd53-35d7e8dc42fd
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 231
+  fields:
+    facebook_link: https://www.facebook.com/events/694765394384203/
+    website_link: ''
+    eventbrite_link: https://www.eventbrite.co.uk/e/tnl-improv-jam-show-tickets-85960463059
+    name: Thursday Night Lights
+    image: event/ThursdayNightLights.jpg
+    event_type: J
+    start_time: 2020-02-13 19:30:00+00:00
+    duration: 2.5
+    venue: 19
+    series: 61d38fc0-0c3a-4174-8455-a06a030ff69e
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 232
+  fields:
+    facebook_link: https://www.facebook.com/events/694765394384203/
+    website_link: ''
+    eventbrite_link: https://www.eventbrite.co.uk/e/tnl-improv-jam-show-tickets-85960463059
+    name: Thursday Night Lights
+    image: ''
+    event_type: J
+    start_time: 2020-02-20 19:30:00+00:00
+    duration: 2.5
+    venue: 19
+    series: 61d38fc0-0c3a-4174-8455-a06a030ff69e
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 233
+  fields:
+    facebook_link: https://www.facebook.com/events/694765394384203/
+    website_link: ''
+    eventbrite_link: https://www.eventbrite.co.uk/e/tnl-improv-jam-show-tickets-85960463059
+    name: Thursday Night Lights
+    image: ''
+    event_type: J
+    start_time: 2020-03-05 19:30:00+00:00
+    duration: 2.5
+    venue: 19
+    series: 61d38fc0-0c3a-4174-8455-a06a030ff69e
+    teams: []
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 234
+  fields:
+    facebook_link: https://www.facebook.com/events/2524748767767804/
+    website_link: ''
+    eventbrite_link: https://www.eventbrite.com/e/big-smoke-improv-10-tickets-92882041687?aff=efbeventtix&fbclid=IwAR2UxjFfFy3enrzrYV6NKs2JIWXWiON28eV3eRyvu58BELxfQeibj6IzEH0
+    name: Big Smoke Comedy
+    image: event/BigSmoke.png
+    event_type: S
+    start_time: 2020-02-17 20:00:00+00:00
+    duration: 2.0
+    venue: 87
+    series: 8c068f3a-f1ec-4a98-872d-601f0bf309d5
+    teams: []
+    special_guests:
+    - 3
+- model: uk_improv_guide.event
+  pk: 235
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: https://www.meetup.com/ImprovisationForQueersandAllies/events/rfthprybcdbcc
+    name: Improvisation For Queers and Allies
+    image: ''
+    event_type: W
+    start_time: 2020-02-21 19:00:00+00:00
+    duration: 2.0
+    venue: 89
+    series: 258c4bf8-7aed-4724-95e1-423bf354713c
+    teams: []
+    special_guests:
+    - 315
+- model: uk_improv_guide.event
+  pk: 236
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: https://www.meetup.com/ImprovisationForQueersandAllies/events/rfthprybcdblc/
+    name: Improvisation For Queers and Allies
+    image: ''
+    event_type: W
+    start_time: 2020-02-28 19:00:00+00:00
+    duration: 2.0
+    venue: 89
+    series: 258c4bf8-7aed-4724-95e1-423bf354713c
+    teams: []
+    special_guests:
+    - 315
+- model: uk_improv_guide.event
+  pk: 237
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: https://www.meetup.com/ImprovisationForQueersandAllies/events/rfthprybcfbjb/
+    name: Improvisation For Queers and Allies
+    image: ''
+    event_type: W
+    start_time: 2020-03-06 19:00:00+00:00
+    duration: 2.0
+    venue: 89
+    series: 258c4bf8-7aed-4724-95e1-423bf354713c
+    teams: []
+    special_guests:
+    - 315
+- model: uk_improv_guide.event
+  pk: 238
+  fields:
+    facebook_link: https://www.facebook.com/events/2659493614147820/?ti=icl
+    website_link: http://amorphous.horse
+    eventbrite_link: https://www.eventbrite.co.uk/e/amorphous-horses-february-happy-place-tickets-92500279827
+    name: "Amorphous Horse\u2019s Happy Place"
+    image: event/19D78EA2-E59B-44F6-A3B2-2BFAD6F68835.jpeg
+    event_type: S
+    start_time: 2020-02-27 19:30:00+00:00
+    duration: 2.0
+    venue: 9
+    series: b165abbe-585c-4fdb-8438-539785d22716
+    teams:
+    - 8
+    - 141
+    - 142
+    special_guests: []
 - model: uk_improv_guide.festival
   pk: 1
   fields:
@@ -11416,4 +14189,40 @@
     - 14
     - 115
     - 118
+    teachers: []
+- model: uk_improv_guide.festival
+  pk: 6
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: British Impro Project
+    image: ''
+    festival_type: R
+    start_time: 2020-04-17 16:00:00+00:00
+    end_time: 2020-04-19 15:00:00+00:00
+    school: null
+    venues:
+    - 71
+    teams:
+    - 64
+    - 130
+    teachers: []
+- model: uk_improv_guide.festival
+  pk: 7
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: British Impro Project
+    image: ''
+    festival_type: R
+    start_time: 2020-11-20 16:00:00+00:00
+    end_time: 2020-11-22 15:00:00+00:00
+    school: null
+    venues:
+    - 71
+    teams:
+    - 64
+    - 130
     teachers: []
