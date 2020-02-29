@@ -1,3 +1,147 @@
+- model: uk_improv_guide.city
+  pk: 1
+  fields:
+    name: London
+    country: GB
+    image: ''
+- model: uk_improv_guide.city
+  pk: 2
+  fields:
+    name: Bristol
+    country: GB
+    image: ''
+- model: uk_improv_guide.city
+  pk: 3
+  fields:
+    name: Brighton
+    country: GB
+    image: ''
+- model: uk_improv_guide.city
+  pk: 4
+  fields:
+    name: Chester
+    country: GB
+    image: ''
+- model: uk_improv_guide.city
+  pk: 5
+  fields:
+    name: Loughbourgh
+    country: GB
+    image: ''
+- model: uk_improv_guide.city
+  pk: 6
+  fields:
+    name: Edinburgh
+    country: GB
+    image: ''
+- model: uk_improv_guide.city
+  pk: 7
+  fields:
+    name: Bradford
+    country: GB
+    image: ''
+- model: uk_improv_guide.city
+  pk: 8
+  fields:
+    name: Manchester
+    country: GB
+    image: ''
+- model: uk_improv_guide.city
+  pk: 9
+  fields:
+    name: Chattanooga
+    country: US
+    image: ''
+- model: uk_improv_guide.city
+  pk: 10
+  fields:
+    name: Nottingham
+    country: GB
+    image: ''
+- model: uk_improv_guide.city
+  pk: 11
+  fields:
+    name: Gillingham
+    country: GB
+    image: ''
+- model: uk_improv_guide.city
+  pk: 12
+  fields:
+    name: Glossop
+    country: GB
+    image: ''
+- model: uk_improv_guide.city
+  pk: 13
+  fields:
+    name: Wymondham
+    country: GB
+    image: ''
+- model: uk_improv_guide.city
+  pk: 14
+  fields:
+    name: Aylesbury
+    country: GB
+    image: ''
+- model: uk_improv_guide.city
+  pk: 15
+  fields:
+    name: Phoenixville
+    country: US
+    image: ''
+- model: uk_improv_guide.city
+  pk: 16
+  fields:
+    name: Birmingham
+    country: GB
+    image: ''
+- model: uk_improv_guide.city
+  pk: 17
+  fields:
+    name: Warsaw
+    country: PL
+    image: ''
+- model: uk_improv_guide.city
+  pk: 18
+  fields:
+    name: Makata
+    country: PH
+    image: ''
+- model: uk_improv_guide.city
+  pk: 19
+  fields:
+    name: Chelmsford
+    country: GB
+    image: ''
+- model: uk_improv_guide.city
+  pk: 20
+  fields:
+    name: Grantham
+    country: GB
+    image: ''
+- model: uk_improv_guide.city
+  pk: 21
+  fields:
+    name: Bedford
+    country: GB
+    image: ''
+- model: uk_improv_guide.city
+  pk: 22
+  fields:
+    name: Chicago
+    country: US
+    image: ''
+- model: uk_improv_guide.city
+  pk: 23
+  fields:
+    name: Hollywood
+    country: US
+    image: ''
+- model: uk_improv_guide.city
+  pk: 24
+  fields:
+    name: Toronto
+    country: CA
+    image: ''
 - model: uk_improv_guide.school
   pk: 04f8c06c-fd25-4dff-9e2b-a83e41be28f8
   fields:
@@ -413,7 +557,7 @@
     website_link: ''
     contact_email_address: lee.tearrell@hotmail.com
     instagram_link: ''
-    name: THE LAUGHTER ACADEMY
+    name: The Laughter Academy
     image: school/LAUGHTER_ACADEMY_BANNER_PIC_FOR_IMPRO_WORKSHOPS.jpg
     country: GB
 - model: uk_improv_guide.school
@@ -6369,6 +6513,7 @@
     postcode: N1 3JS
     email_address: ''
     country: GB
+    city_obj: 1
     school: 3bc46024-c973-4709-ba65-aace19f97fd9
     image: venue/de_bauvoir_arms.jpg
 - model: uk_improv_guide.venue
@@ -6384,6 +6529,7 @@
     postcode: SE13SS
     email_address: ''
     country: GB
+    city_obj: 1
     school: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
     image: venue/the_miller_AZABhoL.jpg
 - model: uk_improv_guide.venue
@@ -6399,6 +6545,7 @@
     postcode: WC2B 5JS
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/nell_of_old_drury.jpeg
 - model: uk_improv_guide.venue
@@ -6414,6 +6561,7 @@
     postcode: E1 5JL
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/the_canvas_creative_venue.jpg
 - model: uk_improv_guide.venue
@@ -6429,6 +6577,7 @@
     postcode: SW2 1DF
     email_address: ''
     country: GB
+    city_obj: 1
     school: dbcb6379-a8b2-418f-938b-602623baa2be
     image: venue/effra_social.jpg
 - model: uk_improv_guide.venue
@@ -6444,6 +6593,7 @@
     postcode: NW1 9XB
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/london_irish_centre.png
 - model: uk_improv_guide.venue
@@ -6459,6 +6609,7 @@
     postcode: NW6 7QB
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/the_north_london_tavern.jpg
 - model: uk_improv_guide.venue
@@ -6474,6 +6625,7 @@
     postcode: N1 1US
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/the_taproom_n1.jpg
 - model: uk_improv_guide.venue
@@ -6489,6 +6641,7 @@
     postcode: E1 1LN
     email_address: thecastle44@gmail.com
     country: GB
+    city_obj: 1
     school: null
     image: venue/the_castle.jpg
 - model: uk_improv_guide.venue
@@ -6504,6 +6657,7 @@
     postcode: NW1 9BH
     email_address: ''
     country: GB
+    city_obj: 1
     school: 3bc46024-c973-4709-ba65-aace19f97fd9
     image: venue/the_lord_stanley.jpg
 - model: uk_improv_guide.venue
@@ -6519,6 +6673,7 @@
     postcode: N1 8NQ
     email_address: ''
     country: GB
+    city_obj: 1
     school: 44254cc3-d017-4296-82fb-58504f10b3ac
     image: venue/the_bill_murray.jpg
 - model: uk_improv_guide.venue
@@ -6534,6 +6689,7 @@
     postcode: N1 8DY
     email_address: ''
     country: GB
+    city_obj: 1
     school: 44254cc3-d017-4296-82fb-58504f10b3ac
     image: venue/angel_comedy_club.jpg
 - model: uk_improv_guide.venue
@@ -6549,6 +6705,7 @@
     postcode: NW1 7BU
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/Etcetera_Theatre_2017.png
 - model: uk_improv_guide.venue
@@ -6564,6 +6721,7 @@
     postcode: SW8 2HJ
     email_address: info@thecavendisharmsstockwell.co.uk
     country: GB
+    city_obj: 1
     school: null
     image: venue/cavendish_arms_stage.jpg
 - model: uk_improv_guide.venue
@@ -6579,6 +6737,7 @@
     postcode: NG1 5AF
     email_address: ''
     country: GB
+    city_obj: 10
     school: 1858aee6-79ea-4ded-a235-f205fe400678
     image: venue/nottingham_playhouse.jpg
 - model: uk_improv_guide.venue
@@ -6594,6 +6753,7 @@
     postcode: NG1 1LG
     email_address: thechapel.amb@gmail.com
     country: GB
+    city_obj: 10
     school: 1858aee6-79ea-4ded-a235-f205fe400678
     image: venue/the_angel.jpeg
 - model: uk_improv_guide.venue
@@ -6609,6 +6769,7 @@
     postcode: WC2B 5HH
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/FortuneTheatre.jpg
 - model: uk_improv_guide.venue
@@ -6624,6 +6785,7 @@
     postcode: NW3 5JJ
     email_address: ''
     country: GB
+    city_obj: 1
     school: 528bc2b9-5c6a-4738-a7c7-80ff0acf4ffc
     image: venue/london_improv_theatre.png
 - model: uk_improv_guide.venue
@@ -6639,6 +6801,7 @@
     postcode: SW1Y 4EE
     email_address: ''
     country: GB
+    city_obj: 1
     school: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
     image: venue/The_Comedy_Pub_Hoopla_Megajam.jpg
 - model: uk_improv_guide.venue
@@ -6654,6 +6817,7 @@
     postcode: BN1 2FG
     email_address: mayday@themaydays.co.uk
     country: GB
+    city_obj: 3
     school: 4322f66b-c7f9-4c62-917b-363895f7381c
     image: venue/MaydaysLogoWebsite.png
 - model: uk_improv_guide.venue
@@ -6669,6 +6833,7 @@
     postcode: MK40 2NN
     email_address: ''
     country: GB
+    city_obj: 21
     school: null
     image: venue/41659981_2107105899323239_3812846406591315968_n.jpg
 - model: uk_improv_guide.venue
@@ -6684,6 +6849,7 @@
     postcode: '37408'
     email_address: info@improvchattanooga.com
     country: US
+    city_obj: 9
     school: null
     image: venue/Improv-Chatt-Logo.png
 - model: uk_improv_guide.venue
@@ -6699,6 +6865,7 @@
     postcode: '19460'
     email_address: ''
     country: US
+    city_obj: 15
     school: null
     image: venue/lmr.jpg
 - model: uk_improv_guide.venue
@@ -6714,6 +6881,7 @@
     postcode: SK13 8BW
     email_address: ''
     country: GB
+    city_obj: 1
     school: cce53e29-49ac-49e8-afb1-f2df304cc1e7
     image: venue/4122569_16fb7c6f.jpg
 - model: uk_improv_guide.venue
@@ -6729,6 +6897,7 @@
     postcode: NG1 6DA
     email_address: ''
     country: GB
+    city_obj: 10
     school: null
     image: venue/the-ned-ludd.jpg
 - model: uk_improv_guide.venue
@@ -6744,6 +6913,7 @@
     postcode: EH8 9AJ
     email_address: ''
     country: GB
+    city_obj: 6
     school: null
     image: venue/Screenshot_2019-07-17_at_13.11.51.png
 - model: uk_improv_guide.venue
@@ -6759,6 +6929,7 @@
     postcode: BN1 1UN
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/Screenshot_2019-07-17_at_13.39.00.png
 - model: uk_improv_guide.venue
@@ -6774,6 +6945,7 @@
     postcode: N7 9EF
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/Screenshot_2019-07-17_at_14.10.52.png
 - model: uk_improv_guide.venue
@@ -6789,6 +6961,7 @@
     postcode: NR18 0AR
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/queens_head_w.jpg
 - model: uk_improv_guide.venue
@@ -6804,6 +6977,7 @@
     postcode: SE17 1DY
     email_address: ''
     country: GB
+    city_obj: 1
     school: 5b8100d9-7a66-4e1a-babf-f367a944eece
     image: venue/aegis_productions_0004.jpg
 - model: uk_improv_guide.venue
@@ -6819,6 +6993,7 @@
     postcode: SP8 4RE
     email_address: ''
     country: GB
+    city_obj: 1
     school: 4322f66b-c7f9-4c62-917b-363895f7381c
     image: venue/Osho_Leela1.jpg
 - model: uk_improv_guide.venue
@@ -6834,6 +7009,7 @@
     postcode: SE1 1TY
     email_address: info@katzpace.co.uk
     country: GB
+    city_obj: 1
     school: null
     image: venue/Katzpace_Blue.jpg
 - model: uk_improv_guide.venue
@@ -6849,6 +7025,7 @@
     postcode: BS8 1LP
     email_address: ''
     country: GB
+    city_obj: 2
     school: 23377e08-8f41-4e2a-b18a-582ed61bf39c
     image: venue/visitbristol.co.uk.jpeg
 - model: uk_improv_guide.venue
@@ -6864,6 +7041,7 @@
     postcode: SE1 1TE, U
     email_address: INFO@OMEARALONDON.COM
     country: GB
+    city_obj: 1
     school: 5b8100d9-7a66-4e1a-babf-f367a944eece
     image: venue/Omera-001-1.jpg
 - model: uk_improv_guide.venue
@@ -6879,23 +7057,9 @@
     postcode: N1 9J
     email_address: ''
     country: GB
+    city_obj: 1
     school: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
     image: venue/poor_school.jpg
-- model: uk_improv_guide.venue
-  pk: 36
-  fields:
-    twitter_handle: ''
-    name: Katzpace
-    facebook_link: https://www.facebook.com/katzpace
-    website_link: https://www.katzpace.co.uk/
-    google_maps_link: ''
-    address: Katzenjammers, 21 Southwatk Street
-    city: London
-    postcode: SE1 1TY
-    email_address: ''
-    country: GB
-    school: null
-    image: venue/katspace.jpg
 - model: uk_improv_guide.venue
   pk: 37
   fields:
@@ -6909,6 +7073,7 @@
     postcode: EH1 1HT
     email_address: ''
     country: GB
+    city_obj: 6
     school: null
     image: venue/GBLogo-website.png
 - model: uk_improv_guide.venue
@@ -6924,6 +7089,7 @@
     postcode: 02-001
     email_address: improv.workshops@yahoo.com
     country: PL
+    city_obj: 17
     school: null
     image: venue/ImprovSpace.jpg
 - model: uk_improv_guide.venue
@@ -6939,6 +7105,7 @@
     postcode: EH1
     email_address: ''
     country: GB
+    city_obj: 6
     school: null
     image: venue/JTT_logo.png
 - model: uk_improv_guide.venue
@@ -6954,6 +7121,7 @@
     postcode: N1 9BG
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/detail_2Northdown-New-Interior-Bar-7.jpg
 - model: uk_improv_guide.venue
@@ -6969,6 +7137,7 @@
     postcode: BS2 0BH
     email_address: ''
     country: GB
+    city_obj: 2
     school: ca5f7a5a-d1c7-4cc2-9d12-677df5b2f1f4
     image: venue/space.jpg
 - model: uk_improv_guide.venue
@@ -6984,6 +7153,7 @@
     postcode: WC1X 8DP
     email_address: info@chapelplayhouse.co.uk
     country: GB
+    city_obj: 1
     school: null
     image: venue/chapel_playhouse.jpg
 - model: uk_improv_guide.venue
@@ -6999,6 +7169,7 @@
     postcode: M5V 9G9
     email_address: ''
     country: CA
+    city_obj: 24
     school: null
     image: venue/TheSencondCity.JPG
 - model: uk_improv_guide.venue
@@ -7014,6 +7185,7 @@
     postcode: IL 60614
     email_address: ''
     country: US
+    city_obj: 22
     school: null
     image: venue/TheSencondCity_piXJk2r.JPG
 - model: uk_improv_guide.venue
@@ -7029,6 +7201,7 @@
     postcode: CA 90028
     email_address: ''
     country: US
+    city_obj: 23
     school: null
     image: venue/TheSencondCity_Ilee9ue.JPG
 - model: uk_improv_guide.venue
@@ -7044,13 +7217,14 @@
     postcode: NW1 0LU
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/camdencomedyclub-logo-web.png
 - model: uk_improv_guide.venue
   pk: 47
   fields:
     twitter_handle: ''
-    name: commune cafe+bar
+    name: Commune Cafe + Bar
     facebook_link: ''
     website_link: ''
     google_maps_link: ''
@@ -7059,6 +7233,7 @@
     postcode: PH
     email_address: ''
     country: PH
+    city_obj: 18
     school: null
     image: venue/commune-coffee-logo.png
 - model: uk_improv_guide.venue
@@ -7074,6 +7249,7 @@
     postcode: EC2M 2PA
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/GetImage.jpeg
 - model: uk_improv_guide.venue
@@ -7089,6 +7265,7 @@
     postcode: SE1 7RW
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/1485533772.jpg
 - model: uk_improv_guide.venue
@@ -7104,6 +7281,7 @@
     postcode: NW3 5JJ
     email_address: contact@londonimprovtheatre.com
     country: GB
+    city_obj: 1
     school: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
     image: venue/LondonImprov.JPG
 - model: uk_improv_guide.venue
@@ -7119,6 +7297,7 @@
     postcode: Bn1
     email_address: ''
     country: GB
+    city_obj: 3
     school: null
     image: venue/cast-iron-crop.jpg
 - model: uk_improv_guide.venue
@@ -7134,6 +7313,7 @@
     postcode: E1 5JL
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/CanvasCafe_VeerleEvens10.jpg
 - model: uk_improv_guide.venue
@@ -7149,6 +7329,7 @@
     postcode: WC2H 9NP
     email_address: ''
     country: GB
+    city_obj: 1
     school: 4dee8992-84d4-48e8-bd61-e67b01501848
     image: venue/london-actor-centre.jpg
 - model: uk_improv_guide.venue
@@ -7164,6 +7345,7 @@
     postcode: N1 6AH
     email_address: ''
     country: GB
+    city_obj: 1
     school: 4e2b010a-17f4-459d-a808-20df670e1ef6
     image: venue/CityCollege-300x225.jpg
 - model: uk_improv_guide.venue
@@ -7179,6 +7361,7 @@
     postcode: N1 6EU
     email_address: info@courttheatre.org.uk
     country: GB
+    city_obj: 1
     school: null
     image: venue/Courtyard_theatre.jpg
 - model: uk_improv_guide.venue
@@ -7194,6 +7377,7 @@
     postcode: NW1 3FE
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/Diorama.PNG
 - model: uk_improv_guide.venue
@@ -7209,6 +7393,7 @@
     postcode: WC2H 9NP
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/trist.jpg
 - model: uk_improv_guide.venue
@@ -7224,6 +7409,7 @@
     postcode: NR2 4AY
     email_address: ''
     country: GB
+    city_obj: 21
     school: null
     image: venue/Reindeer.jpg
 - model: uk_improv_guide.venue
@@ -7239,6 +7425,7 @@
     postcode: M4 1LW
     email_address: ''
     country: GB
+    city_obj: 8
     school: null
     image: venue/logo2.jpg
 - model: uk_improv_guide.venue
@@ -7254,6 +7441,7 @@
     postcode: WC2R 3LD
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/cheshire_cheese.jpg
 - model: uk_improv_guide.venue
@@ -7269,6 +7457,7 @@
     postcode: NW1 8JA
     email_address: ''
     country: GB
+    city_obj: 1
     school: 19dda5db-8cf9-48e7-b1b2-a3a26889f611
     image: venue/ThePembrookeCastle.PNG
 - model: uk_improv_guide.venue
@@ -7284,6 +7473,7 @@
     postcode: WC1A 2SR
     email_address: enquiries@museumofcomedy.com
     country: GB
+    city_obj: 1
     school: null
     image: venue/museum_of_comedy.jpg
 - model: uk_improv_guide.venue
@@ -7299,6 +7489,7 @@
     postcode: NW1 4HG
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/ComedySchool.png
 - model: uk_improv_guide.venue
@@ -7314,6 +7505,7 @@
     postcode: HP21 7RT
     email_address: ''
     country: GB
+    city_obj: 14
     school: 089020b8-4a1e-4889-abc3-34e86935a7d5
     image: venue/QPC.jpg
 - model: uk_improv_guide.venue
@@ -7329,6 +7521,7 @@
     postcode: SW9 8LN
     email_address: ''
     country: GB
+    city_obj: 1
     school: dbcb6379-a8b2-418f-938b-602623baa2be
     image: venue/Market_House.jpg
 - model: uk_improv_guide.venue
@@ -7344,6 +7537,7 @@
     postcode: NW1 2PY
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/camden-peoples-theatre-logo.png
 - model: uk_improv_guide.venue
@@ -7359,6 +7553,7 @@
     postcode: BS1 4ED
     email_address: ''
     country: GB
+    city_obj: 2
     school: null
     image: venue/Bov.jpg
 - model: uk_improv_guide.venue
@@ -7374,6 +7569,7 @@
     postcode: SE1 7NN
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/download_2.jfif
 - model: uk_improv_guide.venue
@@ -7389,21 +7585,23 @@
     postcode: E8 3DL
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/download_3.jfif
 - model: uk_improv_guide.venue
   pk: 70
   fields:
     twitter_handle: ''
-    name: CRAMPHORN THEATRE
+    name: Cramphorn Theatre
     facebook_link: ''
     website_link: https://www.chelmsford.gov.uk/theatres/
     google_maps_link: https://www.google.com/maps/place/Civic+Theatre/@51.736419,0.465764,16z/data=!4m5!3m4!1s0x0:0x9b0dc68d9b92c29d!8m2!3d51.7364186!4d0.4657636?hl=en-GB
-    address: FAIRFIELD ROAD
-    city: CHELMSFORD
+    address: Fairfield Road
+    city: Chemsford
     postcode: CM1 1JG
     email_address: boxoffice@chelmsford.gov.uk
     country: GB
+    city_obj: 19
     school: 96948a7f-eed1-4dd2-93a9-fa0d7569f564
     image: venue/CIVIC__CRAMPHORN_THEATRE_CHELMSFORD_.jpg
 - model: uk_improv_guide.venue
@@ -7414,11 +7612,12 @@
     facebook_link: ''
     website_link: ''
     google_maps_link: ''
-    address: '[Un-named Road]'
+    address: Unnamed Road
     city: Grantham
     postcode: NG33 5EJ
     email_address: ''
     country: GB
+    city_obj: 20
     school: 1fd14db6-f502-46c7-a6e2-c1c0464445f6
     image: venue/Stoke_Rochford.jpg
 - model: uk_improv_guide.venue
@@ -7434,6 +7633,7 @@
     postcode: BD1 3JL
     email_address: ''
     country: GB
+    city_obj: 7
     school: null
     image: venue/peacockfrontage.jpg
 - model: uk_improv_guide.venue
@@ -7449,6 +7649,7 @@
     postcode: BD1 1LH
     email_address: ''
     country: GB
+    city_obj: 7
     school: null
     image: venue/gglogo.png
 - model: uk_improv_guide.venue
@@ -7464,6 +7665,7 @@
     postcode: CH1 3LH
     email_address: info@thelockkeeper.co.uk
     country: GB
+    city_obj: 4
     school: null
     image: venue/Lock_Keeper.png
 - model: uk_improv_guide.venue
@@ -7479,6 +7681,7 @@
     postcode: CH1 2BJ
     email_address: info@commonhall.co.uk
     country: GB
+    city_obj: 4
     school: 1441bfeb-de63-4d71-9f98-38af59f9cd7d
     image: venue/Commonhall.png
 - model: uk_improv_guide.venue
@@ -7494,6 +7697,7 @@
     postcode: M4 4BF
     email_address: info@comedysportz.co.uk
     country: GB
+    city_obj: 8
     school: 075f62fc-a9f9-42dd-b446-f2714712e1bd
     image: venue/NACN_2020.jpg
 - model: uk_improv_guide.venue
@@ -7509,6 +7713,7 @@
     postcode: M33 7ZF
     email_address: hello@watersidearts.org
     country: GB
+    city_obj: 8
     school: 075f62fc-a9f9-42dd-b446-f2714712e1bd
     image: venue/group2020.jpg
 - model: uk_improv_guide.venue
@@ -7524,6 +7729,7 @@
     postcode: E1W 2QL
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/pollyanna.jpeg
 - model: uk_improv_guide.venue
@@ -7539,6 +7745,7 @@
     postcode: B2 5SN
     email_address: pum3@yahoo.co.uk
     country: GB
+    city_obj: 16
     school: 9a3e552e-aafa-4603-8058-2f25988907a5
     image: venue/10334325_878364928059_6214362738504224445_n.jpg
 - model: uk_improv_guide.venue
@@ -7554,6 +7761,7 @@
     postcode: B2 5SN
     email_address: pum3@yahoo.co.uk
     country: GB
+    city_obj: 16
     school: 9a3e552e-aafa-4603-8058-2f25988907a5
     image: venue/10334325_878364928059_6214362738504224445_n_RP1a2i8.jpg
 - model: uk_improv_guide.venue
@@ -7569,6 +7777,7 @@
     postcode: EC1N 7SU
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/77429099_2857398747624486_4552373142839885824_o.jpg
 - model: uk_improv_guide.venue
@@ -7584,6 +7793,7 @@
     postcode: SW9 7EX
     email_address: mail@thenurserytheatre.com
     country: GB
+    city_obj: 1
     school: 5b8100d9-7a66-4e1a-babf-f367a944eece
     image: venue/31351394_192127444919325_2237205832641019904_o.jpg
 - model: uk_improv_guide.venue
@@ -7599,6 +7809,7 @@
     postcode: SW5 0LJ
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/Screenshot_2020-01-29_at_10.06.36.png
 - model: uk_improv_guide.venue
@@ -7614,6 +7825,7 @@
     postcode: SW5 0LJ
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/Screenshot_2020-01-29_at_10.06.36_QRwgEqh.png
 - model: uk_improv_guide.venue
@@ -7629,6 +7841,7 @@
     postcode: M3 6AF
     email_address: ''
     country: GB
+    city_obj: 8
     school: ea1adca5-75d7-41c8-aa7b-391779fe322b
     image: venue/SalfordArms.png
 - model: uk_improv_guide.venue
@@ -7644,23 +7857,9 @@
     postcode: LE11 1PL
     email_address: ''
     country: GB
+    city_obj: 5
     school: null
     image: venue/Fearon.png
-- model: uk_improv_guide.venue
-  pk: 87
-  fields:
-    twitter_handle: none
-    name: The Cheshire Cheese
-    facebook_link: https://www.facebook.com/cheshirecheesetemple/
-    website_link: https://www.cheshirecheese.pub/
-    google_maps_link: https://www.google.com/search?q=cheshire%20cheese%20pub&rlz=1C1CHBF_en-GBGB880GB880&oq=chesire+cheese+pub&aqs=chrome..69i57j0l7.3997j0j7&sourceid=chrome&ie=UTF-8&safe=active&sxsrf=ACYBGNSgtjtPqclW0Rz9XUz6l7C6FCZakw:1581954016073&npsic=0&rflfq=1&rlha=0&rlla
-    address: 5 Little Essex Street
-    city: London
-    postcode: WC2R 3LD
-    email_address: cheshirecheese@shepherdneame.co.uk
-    country: GB
-    school: null
-    image: venue/ChesireCheese.png
 - model: uk_improv_guide.venue
   pk: 88
   fields:
@@ -7674,6 +7873,7 @@
     postcode: WC1B 5JX
     email_address: ''
     country: GB
+    city_obj: 1
     school: 5b8100d9-7a66-4e1a-babf-f367a944eece
     image: venue/st_giles_international_london_central.jpg
 - model: uk_improv_guide.venue
@@ -7689,6 +7889,7 @@
     postcode: EC1R 3EA
     email_address: ''
     country: GB
+    city_obj: 1
     school: null
     image: venue/TheOutsideProject.png
 - model: uk_improv_guide.venue
@@ -7704,6 +7905,7 @@
     postcode: M4 1PN
     email_address: edgar_nk@hotmail.com
     country: GB
+    city_obj: 8
     school: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
     image: venue/hoopla.jpg
 - model: uk_improv_guide.course
@@ -11620,7 +11822,7 @@
     event_type: W
     start_time: 2019-08-19 19:00:00+00:00
     duration: 3.0
-    venue: 36
+    venue: null
     series: null
     teams:
     - 63
@@ -14009,7 +14211,7 @@
     event_type: S
     start_time: 2020-02-17 20:00:00+00:00
     duration: 2.0
-    venue: 87
+    venue: null
     series: 8c068f3a-f1ec-4a98-872d-601f0bf309d5
     teams: []
     special_guests:
