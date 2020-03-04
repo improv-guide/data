@@ -7908,6 +7908,22 @@
     city_obj: 8
     school: 9c8b27ea-ac86-4d75-99dc-8b6a6307c43d
     image: venue/hoopla.jpg
+- model: uk_improv_guide.venue
+  pk: 91
+  fields:
+    twitter_handle: ''
+    name: Calder Bookshop Theatre
+    facebook_link: https://www.facebook.com/Calder-bookshop-theatre-150244141684998/
+    website_link: https://calderbookshop.com/
+    google_maps_link: ''
+    address: 51 The Cut
+    city: London
+    postcode: SE1 8LF
+    email_address: ''
+    country: GB
+    city_obj: 1
+    school: null
+    image: venue/teatro12.jpg
 - model: uk_improv_guide.course
   pk: 1
   fields:
@@ -14281,6 +14297,38 @@
     - 8
     - 141
     - 142
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 239
+  fields:
+    facebook_link: https://www.facebook.com/events/190202552322283/
+    website_link: ''
+    eventbrite_link: ''
+    name: Swipe Right's Improv Soiree
+    image: event/soiree.jpg
+    event_type: S
+    start_time: 2020-06-09 19:00:00+00:00
+    duration: 2.0
+    venue: 91
+    series: null
+    teams:
+    - 14
+    special_guests: []
+- model: uk_improv_guide.event
+  pk: 240
+  fields:
+    facebook_link: https://www.facebook.com/events/232160034463376/
+    website_link: ''
+    eventbrite_link: ''
+    name: Swipe Right's Summer Fling
+    image: event/Fling.jpg
+    event_type: S
+    start_time: 2020-08-29 20:00:00+00:00
+    duration: 2.0
+    venue: 2
+    series: null
+    teams:
+    - 14
     special_guests: []
 - model: uk_improv_guide.festival
   pk: 1
