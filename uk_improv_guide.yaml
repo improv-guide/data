@@ -6500,6 +6500,51 @@
     alias: ''
     imdb_link: https://pro.imdb.com/name/nm4935021/?ref_=instant_nm_1&q=lisa%20ronaghan
     teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 387
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Philleo
+    middle_names: ''
+    family_name: Huff
+    image: performer/phileo_huff.jpg
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 388
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Alexander
+    middle_names: ''
+    family_name: Fox
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 389
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Jenny
+    middle_names: ''
+    family_name: Cassner
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
 - model: uk_improv_guide.venue
   pk: 1
   fields:
@@ -8465,6 +8510,11 @@
   fields:
     image: event_series/78035946_2850297711667923_2472733137549918208_o.jpg
     name: Maydays Drop-in Wednesday
+- model: uk_improv_guide.eventseries
+  pk: 85570158-0911-43a5-a31e-539c7c34e855
+  fields:
+    image: ''
+    name: The Phoenix Remix
 - model: uk_improv_guide.eventseries
   pk: 8921978b-be00-4845-a8b0-787f8c9ef1fb
   fields:
@@ -10498,6 +10548,75 @@
     instagram_link: ''
     name: Lester City
     image: team/DCC4803F-F652-46DA-A34C-5F18A89DC9B8.jpeg
+    players: []
+- model: uk_improv_guide.team
+  pk: 143
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Avocado
+    image: team/avocado.jpg
+    players: []
+- model: uk_improv_guide.team
+  pk: 144
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Present Company
+    image: team/present_company.jpg
+    players:
+    - 329
+    - 340
+    - 342
+- model: uk_improv_guide.team
+  pk: 145
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Doctor Whoprov
+    image: ''
+    players: []
+- model: uk_improv_guide.team
+  pk: 146
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Do The Thing
+    image: ''
+    players: []
+- model: uk_improv_guide.team
+  pk: 147
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Canterbury Improv
+    image: ''
+    players: []
+- model: uk_improv_guide.team
+  pk: 148
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    name: Retrofuture
+    image: ''
     players: []
 - model: uk_improv_guide.event
   pk: 1
@@ -14330,6 +14449,50 @@
     teams:
     - 14
     special_guests: []
+- model: uk_improv_guide.event
+  pk: 241
+  fields:
+    facebook_link: ''
+    website_link: ''
+    eventbrite_link: ''
+    name: 'Big Smoke Improv #11'
+    image: ''
+    event_type: S
+    start_time: 2020-03-09 20:00:00+00:00
+    duration: 2.0
+    venue: 60
+    series: 8c068f3a-f1ec-4a98-872d-601f0bf309d5
+    teams:
+    - 143
+    - 92
+    - 1
+    - 144
+    - 127
+    special_guests:
+    - 387
+- model: uk_improv_guide.event
+  pk: 242
+  fields:
+    facebook_link: https://www.facebook.com/events/168934561090242/
+    website_link: ''
+    eventbrite_link: https://www.eventbrite.co.uk/e/the-phoenix-remix-live-presents-comedy-goes-to-the-future-tickets-91137551871?utm_term=eventurl_text&fbclid=IwAR0v5h8GxJvNXVZcZsYH1pgCC9aa9vGElqudGHKuQiAZ_TtoFQjoZtHbnD0
+    name: 'The Phoenix Remix Live Presents: Comedy Goes To The Future!'
+    image: ''
+    event_type: S
+    start_time: 2020-03-10 19:00:00+00:00
+    duration: 3.0
+    venue: 2
+    series: 85570158-0911-43a5-a31e-539c7c34e855
+    teams:
+    - 147
+    - 1
+    - 145
+    - 146
+    - 50
+    - 148
+    special_guests:
+    - 389
+    - 388
 - model: uk_improv_guide.festival
   pk: 1
   fields:
