@@ -6545,6 +6545,21 @@
     alias: ''
     imdb_link: ''
     teaches_for: []
+- model: uk_improv_guide.performer
+  pk: 390
+  fields:
+    twitter_handle: ''
+    facebook_link: ''
+    website_link: ''
+    contact_email_address: ''
+    instagram_link: ''
+    first_name: Andrew
+    middle_names: ''
+    family_name: Shires
+    image: ''
+    alias: ''
+    imdb_link: ''
+    teaches_for: []
 - model: uk_improv_guide.venue
   pk: 1
   fields:
@@ -9729,15 +9744,13 @@
     contact_email_address: ''
     instagram_link: ''
     name: The Second Wheel
-    image: team/second_wheel.jpg
+    image: team/Second_Wheel_2020_web.png
     players:
-    - 222
     - 224
-    - 223
+    - 111
     - 220
-    - 229
     - 221
-    - 230
+    - 390
     - 113
 - model: uk_improv_guide.team
   pk: 83
