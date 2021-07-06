@@ -300,11 +300,11 @@
   pk: 3a686fb2-b9a0-4462-80ea-eb931c4ceb07
   fields:
     twitter_handle: ''
-    facebook_link: "https://www.facebook.com/Centralna-Sp\xF3\u0142dzielnia-Komediowa-122002495142092/"
+    facebook_link: https://www.facebook.com/Centralna-Spółdzielnia-Komediowa-122002495142092/
     website_link: ''
     contact_email_address: improv.workshops@yahoo.com
     instagram_link: ''
-    name: "Centralna Sp\xF3\u0142dzielnia Komediowa"
+    name: Centralna Spółdzielnia Komediowa
     image: school/Logo_CSK.jpg
     country: PL
 - model: uk_improv_guide.school
@@ -733,7 +733,7 @@
     website_link: http://www.lestraitsdunion.org/
     contact_email_address: ''
     instagram_link: ''
-    name: "Traits d\u2019union"
+    name: Traits d’union
     image: ''
     country: GB
 - model: uk_improv_guide.school
@@ -4584,7 +4584,7 @@
     instagram_link: https://www.instagram.com/marianasbits/
     first_name: Mariana
     middle_names: ''
-    family_name: "Feij\xF3"
+    family_name: Feijó
     image: performer/IMG_8252_2.JPG
     alias: ''
     imdb_link: ''
@@ -4885,7 +4885,7 @@
     website_link: ''
     contact_email_address: ''
     instagram_link: ''
-    first_name: "Fe\xF1a"
+    first_name: Feña
     middle_names: ''
     family_name: Ortalli
     image: ''
@@ -8065,8 +8065,7 @@
 - model: uk_improv_guide.course
   pk: 7
   fields:
-    name: "JILL BERNARD \u2013 CREATING REALISTIC CHARACTERS THROUGH TRUTH & BEAUTY
-      / MASTERCLASS"
+    name: JILL BERNARD – CREATING REALISTIC CHARACTERS THROUGH TRUTH & BEAUTY / MASTERCLASS
     image: ''
     venue: 38
     school: 3a686fb2-b9a0-4462-80ea-eb931c4ceb07
@@ -8454,7 +8453,7 @@
   pk: 5cc3b83b-a8e0-49be-9889-9df862e197d6
   fields:
     image: ''
-    name: "TUESDAY EVENING \u2018Drop In\u2019"
+    name: TUESDAY EVENING ‘Drop In’
 - model: uk_improv_guide.eventseries
   pk: 5d64fe2d-7a22-4f66-8401-43931d276471
   fields:
@@ -9561,7 +9560,7 @@
     website_link: ''
     contact_email_address: ''
     instagram_link: ''
-    name: "G\xE4mez"
+    name: Gämez
     image: team/gamez_improv.png
     players:
     - 119
@@ -9964,7 +9963,7 @@
     website_link: ''
     contact_email_address: ''
     instagram_link: ''
-    name: "Improv \xCDsland"
+    name: Improv Ísland
     image: ''
     players: []
 - model: uk_improv_guide.team
@@ -10190,7 +10189,7 @@
     website_link: ''
     contact_email_address: ''
     instagram_link: ''
-    name: "Unplanned Parenthood (M\xF8rds\xE4ga)"
+    name: Unplanned Parenthood (Mørdsäga)
     image: team/37567629_2182399735323318_3972738121941909504_o_crop_s.jpg
     players:
     - 316
@@ -10534,7 +10533,7 @@
     website_link: ''
     contact_email_address: improvgymteam@gmail.com
     instagram_link: ''
-    name: "Gym Pass (Improv Gym teacher\u2019s troupe)."
+    name: Gym Pass (Improv Gym teacher’s troupe).
     image: ''
     players:
     - 132
@@ -12543,7 +12542,7 @@
     facebook_link: https://www.facebook.com/events/548816805873707/
     website_link: ''
     eventbrite_link: https://www.eventbrite.com/e/halloween-comedy-special-choose-your-nightmare-tickets-74710774939?aff=efbeventtix&fbclid=IwAR2O3QrAd29DM8VuxQ3Xl2-0x6De9Sl8RfQbr9t4Z5tk1v7SL7D1LxIzs2A
-    name: "Halloween Improv Comedy Special \u2013 Choose Your Nightmare"
+    name: Halloween Improv Comedy Special – Choose Your Nightmare
     image: event/74361215_10156547227413344_7647194407308886016_o.jpg
     event_type: S
     start_time: 2019-10-31 19:30:00+00:00
@@ -13007,7 +13006,7 @@
     facebook_link: ''
     website_link: ''
     eventbrite_link: ''
-    name: "TUESDAY EVENING \u2018Drop In\u2019"
+    name: TUESDAY EVENING ‘Drop In’
     image: ''
     event_type: W
     start_time: 2020-01-14 19:00:00+00:00
@@ -13022,7 +13021,7 @@
     facebook_link: ''
     website_link: ''
     eventbrite_link: ''
-    name: "TUESDAY EVENING \u2018Drop In\u2019"
+    name: TUESDAY EVENING ‘Drop In’
     image: ''
     event_type: W
     start_time: 2020-01-21 19:00:00+00:00
@@ -13037,7 +13036,7 @@
     facebook_link: ''
     website_link: ''
     eventbrite_link: ''
-    name: "TUESDAY EVENING \u2018Drop In\u2019"
+    name: TUESDAY EVENING ‘Drop In’
     image: ''
     event_type: W
     start_time: 2020-01-28 19:00:00+00:00
@@ -13052,7 +13051,7 @@
     facebook_link: ''
     website_link: ''
     eventbrite_link: ''
-    name: "TUESDAY EVENING \u2018Drop In\u2019"
+    name: TUESDAY EVENING ‘Drop In’
     image: ''
     event_type: W
     start_time: 2020-02-04 19:00:00+00:00
@@ -13067,7 +13066,7 @@
     facebook_link: ''
     website_link: ''
     eventbrite_link: ''
-    name: "TUESDAY EVENING \u2018Drop In\u2019"
+    name: TUESDAY EVENING ‘Drop In’
     image: ''
     event_type: W
     start_time: 2020-02-11 19:00:00+00:00
@@ -13082,7 +13081,7 @@
     facebook_link: ''
     website_link: ''
     eventbrite_link: ''
-    name: "TUESDAY EVENING \u2018Drop In\u2019"
+    name: TUESDAY EVENING ‘Drop In’
     image: ''
     event_type: W
     start_time: 2020-02-18 19:00:00+00:00
@@ -13097,7 +13096,7 @@
     facebook_link: ''
     website_link: ''
     eventbrite_link: ''
-    name: "TUESDAY EVENING \u2018Drop In\u2019"
+    name: TUESDAY EVENING ‘Drop In’
     image: ''
     event_type: W
     start_time: 2020-02-25 19:00:00+00:00
@@ -14418,7 +14417,7 @@
     facebook_link: https://www.facebook.com/events/2659493614147820/?ti=icl
     website_link: http://amorphous.horse
     eventbrite_link: https://www.eventbrite.co.uk/e/amorphous-horses-february-happy-place-tickets-92500279827
-    name: "Amorphous Horse\u2019s Happy Place"
+    name: Amorphous Horse’s Happy Place
     image: event/19D78EA2-E59B-44F6-A3B2-2BFAD6F68835.jpeg
     event_type: S
     start_time: 2020-02-27 19:30:00+00:00
